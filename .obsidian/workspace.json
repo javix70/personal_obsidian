@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "9fc1eed5344a2bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee79bf03226a511e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f28ddb49a1ed1385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/lluvia.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5801a1c101d9ef1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b774ddf0096e9eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "966de0a33a82f8d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a55be47b5f263771",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0d6d79303067a99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cffb396d38185dd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "693805e84790397d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79859b6dc0444b12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ideas/lluvia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0a5ac87a09030ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ideas/lluvia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c8cc76058d90a2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5bf77fc14623cb99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ideas/lluvia.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "f28ddb49a1ed1385",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Ideas/lluvia.md",
+    "planos",
+    "Proyectos/Largo plazo/Modificacion de planos de la casa.md",
+    "Untitled.canvas",
+    "Proyectos/corto plazo",
+    "Proyectos/mediado plazo",
+    "Proyectos/Largo plazo",
+    "daily metting/2023-06-22.md",
+    "daily metting",
+    "Todo",
+    "Ideas",
+    "Proyectos"
+  ]
+}
