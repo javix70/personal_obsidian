@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 225.5
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -75,6 +75,14 @@
         "id": "693805e84790397d",
         "type": "tabs",
         "children": [
+          {
+            "id": "9ba4ec13fde3d84d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "79859b6dc0444b12",
             "type": "leaf",
@@ -103,6 +111,14 @@
             }
           },
           {
+            "id": "5bf77fc14623cb99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
             "id": "0c8cc76058d90a2d",
             "type": "leaf",
             "state": {
@@ -112,25 +128,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "5bf77fc14623cb99",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "9ba4ec13fde3d84d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +148,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ba4ec13fde3d84d",
+  "active": "d48852ac1fa87ad3",
   "lastOpenFiles": [
     "Untitled.md",
     "Ideas/lluvia.md",
