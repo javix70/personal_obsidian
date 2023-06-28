@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ee79bf03226a511e",
+        "id": "2c9a9da7f6047533",
         "type": "tabs",
         "children": [
           {
-            "id": "f28ddb49a1ed1385",
+            "id": "d48852ac1fa87ad3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/lluvia.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/lluvia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/lluvia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +118,24 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ideas/lluvia.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "9ba4ec13fde3d84d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,10 +145,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f28ddb49a1ed1385",
+  "active": "9ba4ec13fde3d84d",
   "lastOpenFiles": [
     "Untitled.md",
     "Ideas/lluvia.md",
