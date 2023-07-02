@@ -1,12 +1,17 @@
-Son lo datos mas basicos en los lenguajes de programacion.
+
+## Qué son?
+Son lo datos mas básicos en los lenguajes de programación.
 
 Son la base con la cual se construyen estructuras mas complejas
 
-Enteros
-Coma flotante
-Caracteres
-Booleanos
-Bytes: Representan un conjunto de 8 bits y se utilizan para la manipulación de datos a nivel de bits.
+1. Enteros
+2. Coma flotante
+3. Caracteres
+4. Booleanos
+5. Bytes: compuesto por 8 bits
 
+## Origen
 
-Ancestro común es el bit, la representación mas basico de la programacion
+bit, la representación mas básico de la programación
+
+## 
