@@ -8,6 +8,15 @@ significados:
 
 # Que es?
 
-clasificación de organismos en una estructura jerárquica basada en: **Caracteristicas** y **relaciones evolutivas**
+clasificación de organismos en una estructura jerárquica basada en: **Características** y **relaciones evolutivas**
 
 
+
+
+# Similitud
+(siempre hablando desde la programación)
+Arboles cómo estructura de datos, tiene nodo raiz y puede tener 0 o n nodos hijos.
+
+|Taxonomía|Programación|Def1|Def2|
+|--------|------------|--------|--------|
+|Jerarquía|Nodos|**ancestro común** Reino, Filo, Clase, Orden, Familia, Género, especie)

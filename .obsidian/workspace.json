@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -158,8 +159,8 @@
   },
   "active": "d48852ac1fa87ad3",
   "lastOpenFiles": [
-    "Ideas de remodelación/lluvia.md",
     "Aprendizaje/Taxonomía.md",
+    "Ideas de remodelación/lluvia.md",
     "Untitled/Untitled.md",
     "Aprendizaje",
     "presupuesto",
