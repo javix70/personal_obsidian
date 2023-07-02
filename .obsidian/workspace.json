@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas de remodelación/lluvia.md",
+                "file": "Aprendizaje/Taxonomía.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas de remodelación/lluvia.md",
+                "file": "Aprendizaje/Taxonomía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas de remodelación/lluvia.md",
+                "file": "Aprendizaje/Taxonomía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas de remodelación/lluvia.md"
+                "file": "Aprendizaje/Taxonomía.md"
               }
             }
           },
@@ -156,12 +156,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "966de0a33a82f8d0",
+  "active": "d48852ac1fa87ad3",
   "lastOpenFiles": [
-    "Untitled",
+    "Ideas de remodelación/lluvia.md",
+    "Aprendizaje/Taxonomía.md",
+    "Untitled/Untitled.md",
+    "Aprendizaje",
     "presupuesto",
     "Untitled.md",
-    "Ideas de remodelación/lluvia.md",
     "planos",
     "Proyectos/Largo plazo/Modificacion de planos de la casa.md",
     "Untitled.canvas",
