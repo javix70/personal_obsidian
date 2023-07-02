@@ -9,4 +9,4 @@ Booleanos
 Bytes: Representan un conjunto de 8 bits y se utilizan para la manipulación de datos a nivel de bits.
 
 
-Ancestro comun es el bit, la representacion mas 
+Ancestro común es el bit, la representación mas basico de la programacion
