@@ -19,4 +19,5 @@ Arboles cómo estructura de datos, tiene nodo raiz y puede tener 0 o n nodos hij
 
 |Taxonomía|Programación|Def1|Def2|
 |--------|------------|--------|--------|
-|Jerarquía|Nodos|**ancestro común** Reino, Filo, Clase, Orden, Familia, Género, especie)
+|Jerarquía|Nodos|**ancestro común** Reino descende en Filo, Clase, Orden, Familia, Género, especie)|Nodo Raiz, Nodos Hijos, Recursividad|
+|Clasificación|Relación|Unión|unión
