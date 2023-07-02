@@ -1,5 +1,5 @@
 # Origen
-origen : griego
+griego
 
 significados:
 1. Taxis: 'Orden'
@@ -15,10 +15,6 @@ Desarrolló sistema de [Nomenclatura binominal ](https://es.wikipedia.org/wiki/N
 # Que es?
 
 clasificación de organismos en una estructura jerárquica basada en: **Características** y **relaciones evolutivas**
-
-# Clasificación
-
-Según 
 
 
 # Similitud
