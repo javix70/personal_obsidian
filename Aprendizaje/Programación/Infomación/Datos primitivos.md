@@ -14,4 +14,8 @@ Son la base con la cual se construyen estructuras mas complejas
 
 bit, la representación mas básico de la programación
 
-## 
+## Cómo nacen?
+
+El lenguaje de bajo nivel, más cercano a la maquina y en conjunto con los sistemas operativos y las condiciones electronicas de XOR, NOT, NOR, etc..
+
+
