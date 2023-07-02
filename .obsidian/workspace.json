@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portafolio/Lluvia de ideas.md",
+                "file": "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 301.500732421875
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portafolio/Lluvia de ideas.md",
+                "file": "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portafolio/Lluvia de ideas.md",
+                "file": "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portafolio/Lluvia de ideas.md"
+                "file": "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Untitled.md"
               }
             }
           },
@@ -158,23 +158,27 @@
   },
   "active": "d48852ac1fa87ad3",
   "lastOpenFiles": [
-    "Aprendizaje/Taxonomía.md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Untitled.md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Profundidad (DFS).md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Inserción de datos",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda",
     "Portafolio/Lluvia de ideas.md",
-    "Portafolio",
+    "Aprendizaje/Taxonomía.md",
+    "Untitled 2",
+    "Untitled",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos",
+    "Aprendizaje/Programación/Infomación",
+    "Aprendizaje/Programación/Infomación/Tipos de datos",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Ordenamiento",
+    "Aprendizaje/Programación",
+    "Untitled 1/Untitled.md",
     "Ideas de remodelación/lluvia.md",
     "Untitled/Untitled.md",
-    "Aprendizaje",
-    "presupuesto",
     "Untitled.md",
-    "planos",
     "Proyectos/Largo plazo/Modificacion de planos de la casa.md",
     "Untitled.canvas",
-    "Proyectos/corto plazo",
-    "Proyectos/mediado plazo",
-    "Proyectos/Largo plazo",
-    "daily metting/2023-06-22.md",
-    "daily metting",
-    "Todo",
-    "Ideas de remodelación"
+    "daily metting/2023-06-22.md"
   ]
 }
