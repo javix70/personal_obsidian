@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizaje/Programación/Infomación/Datos primitivos.md",
+                "file": "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprendizaje/Programación/Infomación/Datos primitivos.md",
+                "file": "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprendizaje/Programación/Infomación/Datos primitivos.md",
+                "file": "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprendizaje/Programación/Infomación/Datos primitivos.md"
+                "file": "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "d48852ac1fa87ad3",
   "lastOpenFiles": [
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos.md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos/Datos.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
