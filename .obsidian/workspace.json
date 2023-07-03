@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizaje/Programación/Glosario.md",
+                "file": "Aprendizaje/Programación/Lenguajes/C/comandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprendizaje/Programación/Glosario.md",
+                "file": "Aprendizaje/Programación/Lenguajes/C/comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprendizaje/Programación/Glosario.md",
+                "file": "Aprendizaje/Programación/Lenguajes/C/comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprendizaje/Programación/Glosario.md"
+                "file": "Aprendizaje/Programación/Lenguajes/C/comandos.md"
               }
             }
           },
@@ -156,10 +156,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d48852ac1fa87ad3",
+  "active": "966de0a33a82f8d0",
   "lastOpenFiles": [
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
     "Aprendizaje/Programación/Glosario.md",
+    "Aprendizaje/Programación/Lenguajes/C/comandos.md",
+    "Aprendizaje/Programación/Lenguajes/C",
+    "Aprendizaje/Programación/Lenguajes",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
     "Aprendizaje/Programación/Infomación/Datos primitivos.md",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos/Datos.md",
@@ -178,8 +181,6 @@
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos",
     "Aprendizaje/Programación/Infomación",
-    "Aprendizaje/Programación/Infomación/Tipos de datos",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Ordenamiento",
     "Untitled 1/Untitled.md",
     "Untitled/Untitled.md",
     "Untitled.md",
