@@ -10,6 +10,49 @@ y son fundamentales para trabajar con estructuras de datos y para realizar opera
 
 **Desreferenciación**: Acceder al valor almacenado en la dirección de memoria a la que apunta un puntero se llama desreferenciación. Esto se hace utilizando el operador `*` en C y C++.
 
+## Code
+```c
+#include <stdio.h>
+
+  
+
+int main() {
+
+    int variable = 5;         // Una variable entera
+    int *puntero;             // Un puntero a un entero
+  
+
+    puntero = &variable;      // Almacena la dirección de 'variable' en 'puntero'
+
+  
+    printf("Dirección de memoria de variable: %p\n", (void *) &variable);
+    printf("Dirección almacenada en puntero: %p\n", (void *) puntero);
+    printf("Valor al que apunta puntero: %d\n", *puntero);  // Desreferenciación
+     return 0;
+}
+```
+## Code 2
+```c
+#include <stdio.h>
+
+  
+
+int main() {
+
+    int numero = 42; // Declaramos una variable entera y le asignamos el valor 42
+    int *puntero;             // Un puntero a un entero
+  
+
+    puntero = &variable;      // Almacena la dirección de 'variable' en 'puntero'
+
+  
+    printf("Dirección de memoria de variable: %p\n", (void *) &variable);
+    printf("Dirección almacenada en puntero: %p\n", (void *) puntero);
+    printf("Valor al que apunta puntero: %d\n", *puntero);  // Desreferenciación
+     return 0;
+}
+```
+
 ## Diagrama
 ```mermaid
 graph TD;
@@ -28,4 +71,5 @@ graph TD;
     B --> D;
 
 
-````## 
+```
+
