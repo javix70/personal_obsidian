@@ -39,18 +39,10 @@ int main() {
 
 int main() {
 
-    int numero = 42; // Declaramos una variable entera y le asignamos el valor 42
-    int *puntero;             // Un puntero a un entero
-  
-
-    puntero = &variable;      // Almacena la dirección de 'variable' en 'puntero'
-
-  
-    printf("Dirección de memoria de variable: %p\n", (void *) &variable);
-    printf("Dirección almacenada en puntero: %p\n", (void *) puntero);
-    printf("Valor al que apunta puntero: %d\n", *puntero);  // Desreferenciación
-     return 0;
-}
+	int numero = 42; // Declaramos una variable entera y le asignamos el valor 
+	int *p = &numero; // Declaramos un puntero y le asignamos la dirección de memoria de 'numero' 
+	// Desreferenciando el puntero 'p' para acceder al valor de 'numero' 
+	int valor = *p; // 'valor' ahora contiene 42
 ```
 
 ## Diagrama
