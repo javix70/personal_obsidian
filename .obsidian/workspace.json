@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizaje/Taxonomía/Taxonomía.md",
-                "mode": "preview",
+                "file": "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprendizaje/Taxonomía/Taxonomía.md",
+                "file": "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprendizaje/Taxonomía/Taxonomía.md",
+                "file": "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprendizaje/Taxonomía/Taxonomía.md"
+                "file": "Aprendizaje/Libros/Mangas/bersek/Personajes.md"
               }
             }
           },
@@ -158,11 +158,17 @@
   },
   "active": "d48852ac1fa87ad3",
   "lastOpenFiles": [
+    "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
+    "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
+    "Aprendizaje/Taxonomía/Taxonomía.md",
+    "Aprendizaje/Libros/Mangas/bersek",
+    "Aprendizaje/Libros/Mangas/Berserk.md",
+    "Aprendizaje/Libros/Mangas",
+    "Aprendizaje/Libros",
     "Aprendizaje/Programación/Lenguajes/C/Puntero.md",
     "Aprendizaje/Programación/Lenguajes/C/comandos.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos.md",
     "Aprendizaje/Programación/Glosario.md",
-    "Aprendizaje/Taxonomía/Taxonomía.md",
     "Aprendizaje/Programación/Lenguajes/C",
     "Aprendizaje/Programación/Lenguajes",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
@@ -179,9 +185,6 @@
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Inserción de datos",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda",
     "Untitled 2",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos",
-    "Aprendizaje/Programación/Infomación",
     "Untitled 1/Untitled.md",
     "Untitled/Untitled.md",
     "Untitled.md",
