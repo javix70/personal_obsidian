@@ -41,15 +41,15 @@ Ahora puedes utilizar este Value Object en tu modelo `Transaction`.
 ```ruby
 class Transaction < ApplicationRecord 
 	def amount 
-	Money.new(super, currency) 
+		Money.new(super, currency) 
 	end 
 end
 ```
 ## Usos y Aplicaciones en Informática
 
-1. **Uso 1**: _[Describe cómo y dónde se utiliza en el ámbito de la informática]_
-2. **Uso 2**: _[Describe otro uso o aplicación en informática]_
-3. _..._
+1. **Modelado de dominio**: Modelar elementos del dominio que no requieran identidad única. 
+2. **Reducción de la Complejidad**:  Al encapsular datos y comportamientos relacionados en un solo objeto, los Value Objects pueden ayudar a reducir la complejidad en sistemas grandes y complejos.
+3. **Sistemas de Física y Simulación**: Los Value Objects son útiles en sistemas de simulación y física para representar vectores, matrices, y otros conceptos matemáticos.
 
 ## Detalles Técnicos
 
