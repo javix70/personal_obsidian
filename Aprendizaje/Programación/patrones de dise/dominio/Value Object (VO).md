@@ -70,10 +70,6 @@ end
 _[Explica cómo esta tecnología o concepto está relacionado o conectado con otros en informática.]_
 
 
-## Relación con otros Conceptos/Tecnologías
-
-_[Explica cómo esta tecnología o concepto está relacionado o conectado con otros en informática.]_
-
 ## Fecha de Actualización
 
 _[Fecha en la que actualizaste por última vez la información en este archivo.]_

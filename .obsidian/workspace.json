@@ -11,8 +11,12 @@
             "id": "42361b027fcfdbbb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ideas de remodelación/lluvia.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ideas de remodelación/lluvia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ideas de remodelación/lluvia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ideas de remodelación/lluvia.md"
+              }
             }
           },
           {
@@ -134,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,19 +157,23 @@
   },
   "active": "42361b027fcfdbbb",
   "lastOpenFiles": [
-    "Ideas de remodelación/Personajes.md",
-    "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
     "Ideas de remodelación/2023-07-04 - askjdhksajd.md",
+    "Ideas de remodelación/lluvia.md",
+    "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
+    "Aprendizaje/Taxonomía/Taxonomía.md",
+    "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
+    "Untitled.canvas",
+    "Aprendizaje/Programación/Lenguajes/C/comandos.md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Profundidad (DFS).md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Trie (Árbol de prefijos).md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol binario.md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol B.md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
+    "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
     "Aprendizaje/Programación/Lenguajes/C/Puntero.md",
     "2023-07-18.md",
-    "Aprendizaje/Programación/Lenguajes/C/comandos.md",
     "Aprendizaje/Programación/patrones de dise/dominio/Index.md",
-    "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol B.md",
     "Aprendizaje/Programación/patrones de dise/dominio",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol binario.md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Trie (Árbol de prefijos).md",
     "Aprendizaje/Programación/Glosario.md",
     "Aprendizaje/Programación/patrones de dise/comportacionales",
     "Aprendizaje/Programación/patrones de dise/estructurales/Untitled",
@@ -172,19 +184,14 @@
     "Aprendizaje/Programación/patrones de dise",
     "Aprendizaje/Programación/debug y testing",
     "Aprendizaje/Programación/tecnicas de optimizacion",
-    "Aprendizaje/Taxonomía/Taxonomía.md",
     "Aprendizaje/Libros/Mangas/Berserk.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos.md",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos/Datos.md",
-    "Ideas de remodelación/lluvia.md",
     "Portafolio/Lluvia de ideas.md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Profundidad (DFS).md",
     "Untitled 1/Untitled.md",
     "Untitled/Untitled.md",
     "Untitled.md",
-    "Proyectos/Largo plazo/Modificacion de planos de la casa.md",
-    "Untitled.canvas",
-    "daily metting/2023-06-22.md"
+    "Proyectos/Largo plazo/Modificacion de planos de la casa.md"
   ]
 }
