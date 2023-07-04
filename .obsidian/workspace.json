@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
+                "file": "Aprendizaje/Programación/Lenguajes/C/comandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
+                "file": "Aprendizaje/Programación/Lenguajes/C/comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
+                "file": "Aprendizaje/Programación/Lenguajes/C/comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprendizaje/Libros/Mangas/bersek/Timeline.md"
+                "file": "Aprendizaje/Programación/Lenguajes/C/comandos.md"
               }
             }
           },
@@ -158,25 +158,24 @@
   },
   "active": "966de0a33a82f8d0",
   "lastOpenFiles": [
+    "Aprendizaje/Programación/Lenguajes/C/Puntero.md",
+    "Aprendizaje/Programación/Lenguajes/C/comandos.md",
+    "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
+    "Aprendizaje/Programación/patrones de dise/comportacionales",
+    "Aprendizaje/Programación/patrones de dise/estructurales/Untitled",
+    "Aprendizaje/Programación/patrones de dise/estructurales",
+    "Aprendizaje/Programación/patrones de dise/creacionales",
     "Aprendizaje/Programación/documentacion",
     "Aprendizaje/Metodologias de desarrollo",
     "Aprendizaje/Programación/patrones de dise",
     "Aprendizaje/Programación/debug y testing",
     "Aprendizaje/Programación/tecnicas de optimizacion",
     "Aprendizaje/bases de datos",
-    "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
     "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
     "Aprendizaje/Taxonomía/Taxonomía.md",
-    "Aprendizaje/Libros/Mangas/bersek",
     "Aprendizaje/Libros/Mangas/Berserk.md",
-    "Aprendizaje/Libros/Mangas",
-    "Aprendizaje/Libros",
-    "Aprendizaje/Programación/Lenguajes/C/Puntero.md",
-    "Aprendizaje/Programación/Lenguajes/C/comandos.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos.md",
     "Aprendizaje/Programación/Glosario.md",
-    "Aprendizaje/Programación/Lenguajes/C",
-    "Aprendizaje/Programación/Lenguajes",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos/Datos.md",
