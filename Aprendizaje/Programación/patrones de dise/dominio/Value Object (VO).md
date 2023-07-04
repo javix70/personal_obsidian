@@ -1,40 +1,52 @@
 
 ## Información General
 
-- **Origen**: _[Aquí puedes agregar información sobre el origen del tema]_
-- **Creado por**: _[Indica quién o qué entidad creó o desarrolló el tema en cuestión]_
-- **Descubierto por**: _[Si aplica, indica quién o qué entidad descubrió el tema]_
+- **Origen**: Domain Driven Design
+- **Creado por**: _[Eric Evans]_
+- **Fecha de creación**: 2003
 
-## Frase Clave
+## Descripción
 
-_[Aquí puedes escribir una frase o concepto clave que sea central para entender el tema.]_
+
 
 ## Propósito y Función
 
-_[Escribe un párrafo o lista de puntos sobre para qué sirve el tema y cuál es su función o propósito.]_
+_[Explica para qué sirve y cuál es su función o propósito en la informática.]_
 
-## Usos y Aplicaciones
+## Ejemplo de Código
 
-1. **Uso 1**: _[Describe cómo y dónde se utiliza en este contexto]_
-2. **Uso 2**: _[Describe otro uso o aplicación]_
+```codigo
+[Aquí puedes insertar un fragmento de código como ejemplo.]
+```
+
+## Usos y Aplicaciones en Informática
+
+1. **Uso 1**: _[Describe cómo y dónde se utiliza en el ámbito de la informática]_
+2. **Uso 2**: _[Describe otro uso o aplicación en informática]_
 3. _..._
 
-## Historia y Evolución
+## Detalles Técnicos
 
-_[Si es relevante, proporciona un resumen histórico sobre cómo ha evolucionado el tema a lo largo del tiempo.]_
+- **Complejidad de tiempo**: _[Si es un algoritmo, indica su complejidad temporal.]_
+- **Complejidad de espacio**: _[Si es un algoritmo, indica su complejidad espacial.]_
+- **Lenguajes de programación compatibles**: _[Si es una librería o herramienta, lista los lenguajes con los que es compatible.]_
+- _..._
 
-## Relación con otros Temas
+## Recursos y Documentación
 
-_[Explica cómo este tema está relacionado o conectado con otros temas o conceptos.]_
-
-## Recursos Adicionales
-
-- [Nombre del Recurso](URL): _Breve descripción del recurso y por qué es útil._
+- [Documentación oficial](https://chat.openai.com/URL): _[Si existe documentación oficial, incluye el enlace aquí.]_
+- [Tutorial o Guía](https://chat.openai.com/URL): _[Enlaces a tutoriales o guías útiles.]_
 - ...
 
-## Reflexiones y Conclusiones
 
-_[Escribe tus pensamientos finales, lo que aprendiste y las conclusiones que sacaste acerca del tema.]_
+## Relación con otros Conceptos/Tecnologías
+
+_[Explica cómo esta tecnología o concepto está relacionado o conectado con otros en informática.]_
+
+
+## Relación con otros Conceptos/Tecnologías
+
+_[Explica cómo esta tecnología o concepto está relacionado o conectado con otros en informática.]_
 
 ## Fecha de Actualización
 
