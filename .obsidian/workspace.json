@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "91b6a424902b8d58",
+        "id": "d73fb493d3172dbe",
         "type": "tabs",
         "children": [
           {
-            "id": "06d2ab92b573d160",
+            "id": "42361b027fcfdbbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,19 +147,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "06d2ab92b573d160",
+  "active": "42361b027fcfdbbb",
   "lastOpenFiles": [
-    "Aprendizaje/Programación/patrones de dise/dominio/Index.md",
+    "Ideas de remodelación/Personajes.md",
     "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
+    "Ideas de remodelación/2023-07-04 - askjdhksajd.md",
+    "Aprendizaje/Programación/Lenguajes/C/Puntero.md",
+    "2023-07-18.md",
+    "Aprendizaje/Programación/Lenguajes/C/comandos.md",
+    "Aprendizaje/Programación/patrones de dise/dominio/Index.md",
+    "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol B.md",
     "Aprendizaje/Programación/patrones de dise/dominio",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol binario.md",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Trie (Árbol de prefijos).md",
     "Aprendizaje/Programación/Glosario.md",
-    "Aprendizaje/Programación/Lenguajes/C/comandos.md",
-    "Aprendizaje/Programación/Lenguajes/C/Puntero.md",
-    "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
     "Aprendizaje/Programación/patrones de dise/comportacionales",
     "Aprendizaje/Programación/patrones de dise/estructurales/Untitled",
     "Aprendizaje/Programación/patrones de dise/estructurales",
@@ -177,7 +172,6 @@
     "Aprendizaje/Programación/patrones de dise",
     "Aprendizaje/Programación/debug y testing",
     "Aprendizaje/Programación/tecnicas de optimizacion",
-    "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
     "Aprendizaje/Taxonomía/Taxonomía.md",
     "Aprendizaje/Libros/Mangas/Berserk.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos.md",
