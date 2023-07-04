@@ -7,18 +7,44 @@
 
 ## Descripción
 
-
+Representa un objeto cuyo valor lo describe complétame y no tiene una identidad conceptual distinta. Es inmutable, su estado no puede cambiar, si se necesita cambiar de estado se debe crear otro ValueObject y se compara con otros objetos solo en funcion de su valor y no de su identidad en la memoria. 
 
 ## Propósito y Función
 
-_[Explica para qué sirve y cuál es su función o propósito en la informática.]_
+Encapsular la lógica y los datos relacionados
 
 ## Ejemplo de Código
 
-```codigo
-[Aquí puedes insertar un fragmento de código como ejemplo.]
+### Representando Dinero
+
+Supón que tienes un modelo `Transaction` y quieres representar la cantidad de dinero involucrada como un Value Object.
+
+Crea un archivo para el Value Object, por ejemplo, `app/models/money.rb`.
+
+```ruby
+class Money
+	include ActiveModel::Model attr_reader :amount, :currency 
+	
+	def initialize(amount, currency = "USD")
+		@amount = amount
+		@currency = currency
+	end
+	
+	def to_s 
+		"#{currency} #{'%.2f' % amount}" 
+	end 
+end
 ```
 
+Ahora puedes utilizar este Value Object en tu modelo `Transaction`.
+
+```ruby
+class Transaction < ApplicationRecord 
+	def amount 
+	Money.new(super, currency) 
+	end 
+end
+```
 ## Usos y Aplicaciones en Informática
 
 1. **Uso 1**: _[Describe cómo y dónde se utiliza en el ámbito de la informática]_
