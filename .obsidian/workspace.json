@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizaje/Programación/Lenguajes/C/comandos.md",
+                "file": "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5086555480957
+    "width": 223.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprendizaje/Programación/Lenguajes/C/comandos.md",
+                "file": "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprendizaje/Programación/Lenguajes/C/comandos.md",
+                "file": "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprendizaje/Programación/Lenguajes/C/comandos.md"
+                "file": "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md"
               }
             }
           },
@@ -152,14 +153,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "966de0a33a82f8d0",
+  "active": "06d2ab92b573d160",
   "lastOpenFiles": [
-    "Aprendizaje/Programación/Lenguajes/C/Puntero.md",
+    "Aprendizaje/Programación/patrones de dise/dominio/Index.md",
+    "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol B.md",
+    "Aprendizaje/Programación/patrones de dise/dominio",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol binario.md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Trie (Árbol de prefijos).md",
+    "Aprendizaje/Programación/Glosario.md",
     "Aprendizaje/Programación/Lenguajes/C/comandos.md",
+    "Aprendizaje/Programación/Lenguajes/C/Puntero.md",
     "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
     "Aprendizaje/Programación/patrones de dise/comportacionales",
     "Aprendizaje/Programación/patrones de dise/estructurales/Untitled",
@@ -170,20 +178,14 @@
     "Aprendizaje/Programación/patrones de dise",
     "Aprendizaje/Programación/debug y testing",
     "Aprendizaje/Programación/tecnicas de optimizacion",
-    "Aprendizaje/bases de datos",
     "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
     "Aprendizaje/Taxonomía/Taxonomía.md",
     "Aprendizaje/Libros/Mangas/Berserk.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos.md",
-    "Aprendizaje/Programación/Glosario.md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos/Datos.md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Trie (Árbol de prefijos).md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol B.md",
     "Ideas de remodelación/lluvia.md",
     "Portafolio/Lluvia de ideas.md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol binario.md",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Profundidad (DFS).md",
     "Untitled 1/Untitled.md",
     "Untitled/Untitled.md",
