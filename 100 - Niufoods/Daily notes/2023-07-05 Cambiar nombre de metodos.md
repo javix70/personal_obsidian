@@ -1,3 +1,3 @@
 - [x] Cambiar los nombres en el concern de pricing y en sus lugares que utilizan ese concern
 - [x] Agregar al pr de logger, la diferenciación a traves del action
-- [x] Agregar mensajes de errores a save_params [[save_params]]
+- [x] Agregar mensajes de errores a save_params: se agrega documentación (_[[save_params]]_) --> [PR bitbucket](https://bitbucket.org/niusushi/china-backend/pull-requests/330)
