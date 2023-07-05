@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "templates",
+  "templates_folder": "",
   "templates_pairs": [
     [
       "",
@@ -24,7 +24,7 @@
     ""
   ],
   "startup_templates": [
-    "templates/tpl.dailynote.md"
+    ""
   ],
   "enable_ribbon_icon": true
 }
