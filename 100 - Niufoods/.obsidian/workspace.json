@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "c5c9d401651b8b7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa96a8bb14b130ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "862863d99aa5d10a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2023-07-05 Cambiar nombre de metodos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d458d0b466d39c49",
+    "type": "split",
+    "children": [
+      {
+        "id": "d78518c1c341bf1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c65a708754f393d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb8051dfce8870c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3624498387a991d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "61138e7c97633c80",
+    "type": "split",
+    "children": [
+      {
+        "id": "eed1bec7768e5b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "697f8549c496cacc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily notes/2023-07-05 Cambiar nombre de metodos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "740908e273523622",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily notes/2023-07-05 Cambiar nombre de metodos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ade1093f65aef48b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5286b0b67423a17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily notes/2023-07-05 Cambiar nombre de metodos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "862863d99aa5d10a",
+  "lastOpenFiles": [
+    "Templates/dailynotes.md",
+    "Solicitudes/chuteo de la karla de pof.md",
+    "Daily notes/2023-07-05 Cambiar nombre de metodos.md",
+    "Templates",
+    "Daily notes/2023-07-04 - Correcciones pr de Logger.md",
+    "Daily notes/2023-07-03 - Revisión POF.md",
+    "Daily notes/2023-06-30.md",
+    "Daily notes/2023-06-14 - separar prs y enviar correo a kushki..md",
+    "Daily notes/2023-06-16 Separar prs de kushki backend.md",
+    "Daily notes/2023-06-22 - deshabilitar y imagenes admin..md",
+    "Daily notes/2023-06-19 - Correción pr de imagenes.md",
+    "Anotaciones y sugerencias prs/Grape logger de pr.md",
+    "Solicitudes/Falla con pago con webpay *.md",
+    "Solicitudes/investigación.md",
+    "Solicitudes/POF services - propina mala *.md",
+    "Daily notes/2023-06-12 -  Kushki.md",
+    "Anotaciones y sugerencias prs/mejoras para kushki.md",
+    "Proyectos/pof/tareas recurrentes",
+    "Proyectos/pof/lógica",
+    "Proyectos/pof/comandos utiles",
+    "Proyectos/pof",
+    "Proyectos",
+    "Solicitudes/Cliente señala que no puede eliminar dirección *.md",
+    "Proyectos/China backend/tareas recurrentes/Actualizando hora en Rails.md",
+    "Proyectos/China backend/comandos utiles/Crear test de modelo automaticamente.md",
+    "Proyectos/China backend/comandos utiles",
+    "Daily notes/2023-06-27 - corrección pr kushki.md",
+    "Daily notes/2023-06-13 - Kushki y des-habilitar.md",
+    "Postgresql/historia.md",
+    "Anexos/Pasted image 20230615111139.png",
+    "Anexos/Pasted image 20230615111549.png",
+    "Solicitudes/anexos/Pasted image 20230630124124.png",
+    "Solicitudes/anexos",
+    "Acuerdos team/Conversación pendiente.md",
+    "Postgresql",
+    "Acuerdos team/Pendiente.md",
+    "Daily notes/2023-06-28.md",
+    "Untitled.canvas",
+    "Proyectos/China backend/creencias de desarollo/2 Creación de la Orden.md",
+    "Proyectos/China backend/lógica"
+  ]
+}

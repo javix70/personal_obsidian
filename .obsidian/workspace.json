@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d73fb493d3172dbe",
+        "id": "a9838b63baeedd2e",
         "type": "tabs",
         "children": [
           {
-            "id": "42361b027fcfdbbb",
+            "id": "c9f490ce0741b417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-03.md",
+                "file": "200 - Templates/Aprendizaje.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5110321044922
+    "width": 459.5
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-03.md",
+                "file": "200 - Templates/Aprendizaje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-03.md",
+                "file": "200 - Templates/Aprendizaje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-03.md"
+                "file": "200 - Templates/Aprendizaje.md"
               }
             }
           },
@@ -152,47 +152,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "42361b027fcfdbbb",
+  "active": "966de0a33a82f8d0",
   "lastOpenFiles": [
-    "templates/tpl.dailynote.md",
-    "2023-07-03.md",
-    "2023-07-04.md",
-    "2023-07-05.md",
-    "Untitled.md",
-    "Untitled.canvas",
-    "templates/Aprendizaje.md",
-    "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
-    "Aprendizaje/Programación/patrones de dise/dominio/Index.md",
-    "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
-    "Aprendizaje/Programación/Glosario.md",
-    "Aprendizaje/Programación/Lenguajes/C/comandos.md",
-    "Aprendizaje/Programación/Lenguajes/C/Puntero.md",
-    "2023-07-26.md",
-    "Ideas de remodelación/lluvia.md",
-    "templates",
-    "Ideas de remodelación/2023-07-04 - askjdhksajd.md",
-    "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
-    "Aprendizaje/Taxonomía/Taxonomía.md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Profundidad (DFS).md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Trie (Árbol de prefijos).md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol binario.md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol B.md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
-    "2023-07-18.md",
-    "Aprendizaje/Programación/patrones de dise/dominio",
-    "Aprendizaje/Programación/patrones de dise/comportacionales",
-    "Aprendizaje/Programación/patrones de dise/estructurales/Untitled",
-    "Aprendizaje/Programación/patrones de dise/estructurales",
-    "Aprendizaje/Programación/patrones de dise/creacionales",
-    "Aprendizaje/Programación/documentacion",
-    "Aprendizaje/Metodologias de desarrollo",
-    "Aprendizaje/Programación/patrones de dise",
-    "Aprendizaje/Programación/debug y testing",
-    "Aprendizaje/Libros/Mangas/Berserk.md",
-    "Aprendizaje/Programación/Infomación/Datos primitivos.md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md"
+    "200 - Templates/tpl.dailynote.md",
+    "200 - Templates/Aprendizaje.md",
+    "100 - Niufoods/Anotaciones y sugerencias prs/mejoras para kushki.md",
+    "100 - Niufoods/Templates/dailynotes.md",
+    "100 - Niufoods/Anotaciones y sugerencias prs/Grape logger de pr.md",
+    "100 - Niufoods/Templates",
+    "100 - Niufoods/Solicitudes/anexos/Pasted image 20230630124124.png",
+    "100 - Niufoods/Solicitudes/investigación.md",
+    "100 - Niufoods/Solicitudes/chuteo de la karla de pof.md",
+    "100 - Niufoods/Solicitudes/anexos",
+    "100 - Niufoods/Solicitudes/POF services - propina mala *.md",
+    "100 - Niufoods/Solicitudes/Falla con pago con webpay *.md",
+    "100 - Niufoods/Solicitudes/Cliente señala que no puede eliminar dirección *.md",
+    "100 - Niufoods/Solicitudes",
+    "100 - Niufoods/Proyectos/China backend/tareas recurrentes/Actualizando hora en Rails.md",
+    "100 - Niufoods/Proyectos/China backend/creencias de desarollo/5 Cancelación o Expiración de la Orden.md",
+    "100 - Niufoods/Proyectos/China backend/creencias de desarollo/4 Confirmación de la Orden.md",
+    "100 - Niufoods/Proyectos/China backend/creencias de desarollo/3 Intentos de Pago.md",
+    "100 - Niufoods/Proyectos/China backend/creencias de desarollo/2 Creación de la Orden.md",
+    "100 - Niufoods/Proyectos/China backend/creencias de desarollo/1 Carrito de Compras.md",
+    "100 - Niufoods/Proyectos/China backend/comandos utiles/Crear test de modelo automaticamente.md",
+    "100 - Niufoods/Proyectos/pof/tareas recurrentes",
+    "100 - Niufoods/Proyectos/pof/lógica",
+    "100 - Niufoods/Proyectos/pof/comandos utiles",
+    "100 - Niufoods/Proyectos/China backend/tareas recurrentes",
+    "100 - Niufoods/Proyectos/China backend/lógica",
+    "100 - Niufoods/Proyectos/China backend/creencias de desarollo",
+    "100 - Niufoods/Proyectos/China backend/comandos utiles",
+    "100 - Niufoods/Postgresql/historia.md",
+    "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
+    "100 - Niufoods/Daily notes/2023-07-04 - Correcciones pr de Logger.md",
+    "100 - Niufoods/Daily notes/2023-07-03 - Revisión POF.md",
+    "100 - Niufoods/Daily notes/2023-06-30.md",
+    "100 - Niufoods/Daily notes/2023-06-27 - corrección pr kushki.md",
+    "100 - Niufoods/Daily notes/2023-06-22 - deshabilitar y imagenes admin..md",
+    "100 - Niufoods/Daily notes/2023-06-19 - Correción pr de imagenes.md",
+    "100 - Niufoods/Daily notes/2023-06-16 Separar prs de kushki backend.md",
+    "100 - Niufoods/Anexos/Pasted image 20230615111549.png",
+    "100 - Niufoods/Anexos/Pasted image 20230615111139.png",
+    "Untitled.canvas"
   ]
 }
