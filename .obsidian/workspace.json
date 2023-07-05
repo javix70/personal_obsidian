@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Daily notes.md",
+                "file": "templates/Aprendizaje.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Daily notes.md",
+                "file": "templates/Aprendizaje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Daily notes.md",
+                "file": "templates/Aprendizaje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Daily notes.md"
+                "file": "templates/Aprendizaje.md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "42361b027fcfdbbb",
   "lastOpenFiles": [
+    "templates/Daily notes.md",
     "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
     "Aprendizaje/Programación/patrones de dise/dominio/Index.md",
     "Aprendizaje/Programación/Glosario.md",
     "Aprendizaje/Programación/Lenguajes/C/comandos.md",
     "Aprendizaje/Programación/Lenguajes/C/Puntero.md",
     "templates/Aprendizaje.md",
-    "templates/Daily notes.md",
     "2023-07-26.md",
     "2023-07-04.md",
     "Ideas de remodelación/lluvia.md",
