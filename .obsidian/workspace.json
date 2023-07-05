@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-04.md",
+                "file": "templates/tpl.dailynote.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-04.md",
+                "file": "templates/tpl.dailynote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-04.md",
+                "file": "templates/tpl.dailynote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-04.md"
+                "file": "templates/tpl.dailynote.md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "42361b027fcfdbbb",
   "lastOpenFiles": [
+    "templates/Aprendizaje.md",
+    "templates/tpl.dailynote.md",
+    "2023-07-03.md",
+    "2023-07-04.md",
     "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
     "Aprendizaje/Programación/patrones de dise/dominio/Index.md",
-    "2023-07-04.md",
     "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
-    "templates/Daily notes.md",
-    "2023-07-03.md",
-    "templates/Aprendizaje.md",
     "Aprendizaje/Programación/Glosario.md",
     "Aprendizaje/Programación/Lenguajes/C/comandos.md",
     "Aprendizaje/Programación/Lenguajes/C/Puntero.md",

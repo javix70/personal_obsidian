@@ -24,7 +24,7 @@
     ""
   ],
   "startup_templates": [
-    "templates/Daily notes.md"
+    "templates/tpl.dailynote.md"
   ],
   "enable_ribbon_icon": true
 }
