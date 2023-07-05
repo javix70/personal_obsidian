@@ -1,18 +1,12 @@
 # Nota Diaria - {{tp_date}}
 
 ## Realizado Ayer
-<%* tp.user.yesterday_completed = '' %>
-
-## Pendientes de Ayer
-<%* tp.user.yesterday_pending = '' %>
+<%* const yesterdayNote = await tp.file.get_note('Daily Notes/' + tp.date.now("YYYY-MM-DD", -1)); %>
+<%* const yesterdayContent = yesterdayNote ? await tp.file.read(yesterdayNote) : ''; %>
+<%* const pendingTasks = yesterdayContent.split('## Pendientes para Hoy')[1] || ''; %>
+<%- pendingTasks %>
 
 ## Trabajando Hoy
-<%* if (tp.user.yesterday_pending) { %>
-### Pendiente de Ayer
-- <%* tp.user.yesterday_pending %>
-<%* } %>
-
-### Programado para Hoy
 - 
 
 ## Pendientes para Hoy
