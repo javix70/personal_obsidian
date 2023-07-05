@@ -1,3 +1,28 @@
-```
-# <% tp.date.now("dddd Do MMM YYYY", 0, tp.file.title, "YYYY-MM-DD") %>
-```
+# Nota Diaria - {{tp_date}}
+
+## Realizado Ayer
+<%* tp.user.yesterday_completed = '' %>
+
+## Pendientes de Ayer
+<%* tp.user.yesterday_pending = '' %>
+
+## Trabajando Hoy
+<%* if (tp.user.yesterday_pending) { %>
+### Pendiente de Ayer
+- <%* tp.user.yesterday_pending %>
+<%* } %>
+
+### Programado para Hoy
+- 
+
+## Pendientes para Hoy
+- 
+
+## Próximos Desarrollos
+- 
+
+## Reflexión del Día
+- 
+
+## Ideas y Pensamientos
+- 
