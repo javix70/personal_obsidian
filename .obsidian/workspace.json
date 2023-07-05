@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Daily notes.md",
+                "file": "2023-07-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5086555480957
+    "width": 241.5110321044922
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Daily notes.md",
+                "file": "2023-07-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Daily notes.md",
+                "file": "2023-07-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Daily notes.md"
+                "file": "2023-07-04.md"
               }
             }
           },
@@ -158,12 +158,13 @@
   },
   "active": "42361b027fcfdbbb",
   "lastOpenFiles": [
-    "2023-07-03.md",
-    "templates/Daily notes.md",
-    "2023-07-04.md",
-    "templates/Aprendizaje.md",
     "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
     "Aprendizaje/Programación/patrones de dise/dominio/Index.md",
+    "2023-07-04.md",
+    "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
+    "templates/Daily notes.md",
+    "2023-07-03.md",
+    "templates/Aprendizaje.md",
     "Aprendizaje/Programación/Glosario.md",
     "Aprendizaje/Programación/Lenguajes/C/comandos.md",
     "Aprendizaje/Programación/Lenguajes/C/Puntero.md",
@@ -179,7 +180,6 @@
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol binario.md",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol B.md",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
-    "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
     "2023-07-18.md",
     "Aprendizaje/Programación/patrones de dise/dominio",
     "Aprendizaje/Programación/patrones de dise/comportacionales",
