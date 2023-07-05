@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9838b63baeedd2e",
+        "id": "63eddee1b3d10afa",
         "type": "tabs",
         "children": [
           {
-            "id": "c9f490ce0741b417",
+            "id": "c99e4b924cb4192c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - Niufoods/Daily notes/2023-07-05.md",
-                "mode": "source",
+                "file": "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 - Niufoods/Daily notes/2023-07-05.md",
+                "file": "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 - Niufoods/Daily notes/2023-07-05.md",
+                "file": "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 - Niufoods/Daily notes/2023-07-05.md"
+                "file": "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md"
               }
             }
           },
@@ -156,47 +156,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9f490ce0741b417",
+  "active": "c99e4b924cb4192c",
   "lastOpenFiles": [
-    "100 - Niufoods/Acuerdos team/Documentación.md",
-    "100 - Niufoods/Daily notes/2023-07-05.md",
-    "100 - Niufoods/Acuerdos team/Conversación pendiente.md",
-    "100 - Niufoods/Acuerdos team/Contenido de tarjeta.md",
+    "100 - Niufoods/Anotaciones y sugerencias prs/mejoras para kushki.md",
+    "100 - Niufoods/Anexos/Pasted image 20230615111549.png",
+    "100 - Niufoods/Anexos/Pasted image 20230615111139.png",
     "100 - Niufoods/Acuerdos team/Cómo revisar un pr.md",
+    "100 - Niufoods/Acuerdos team/Contenido de tarjeta.md",
+    "100 - Niufoods/Acuerdos team/Conversación pendiente.md",
+    "100 - Niufoods/Acuerdos team/Documentación.md",
+    "100 - Niufoods/Acuerdos team/Linters.md",
+    "100 - Niufoods/Acuerdos team/Prefijos commit.md",
+    "001 - Aprendizaje/Programación/Glosario.md",
+    "001 - Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol B.md",
+    "001 - Aprendizaje/Programación/Qa and Testing",
+    "001 - Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
+    "001 - Aprendizaje/Programación/Infomación/Datos primitivos.md",
+    "001 - Aprendizaje/Programación/Lenguajes/C/Puntero.md",
+    "001 - Aprendizaje/Programación/Lenguajes/C/comandos.md",
+    "001 - Aprendizaje/Programación/patrones de diseño/dominio/Value Object (VO).md",
+    "001 - Aprendizaje/Programación/patrones de diseño/dominio/Index.md",
+    "001 - Aprendizaje/Libros/Mangas/bersek/Personajes.md",
+    "001 - Aprendizaje/Libros/Mangas/bersek/Timeline.md",
+    "100 - Niufoods/Daily notes/2023-07-05.md",
     "100 - Niufoods/Solicitudes/chuteo de la karla de pof.md",
     "200 - Templates/Aprendizaje.md",
     "100 - Niufoods/Daily notes/2023-07-06.md",
     "005 - Proyectos/Largo plazo/Modificacion de planos de la casa.md",
     "200 - Templates/tpl.dailynote.md",
-    "100 - Niufoods/Anotaciones y sugerencias prs/mejoras para kushki.md",
     "100 - Niufoods/Templates/dailynotes.md",
     "100 - Niufoods/Anotaciones y sugerencias prs/Grape logger de pr.md",
     "100 - Niufoods/Templates",
     "100 - Niufoods/Solicitudes/anexos/Pasted image 20230630124124.png",
-    "100 - Niufoods/Solicitudes/investigación.md",
     "100 - Niufoods/Solicitudes/anexos",
-    "100 - Niufoods/Solicitudes/POF services - propina mala *.md",
-    "100 - Niufoods/Solicitudes/Falla con pago con webpay *.md",
-    "100 - Niufoods/Solicitudes/Cliente señala que no puede eliminar dirección *.md",
     "100 - Niufoods/Solicitudes",
-    "100 - Niufoods/Proyectos/China backend/tareas recurrentes/Actualizando hora en Rails.md",
-    "100 - Niufoods/Proyectos/China backend/creencias de desarollo/5 Cancelación o Expiración de la Orden.md",
-    "100 - Niufoods/Proyectos/China backend/creencias de desarollo/4 Confirmación de la Orden.md",
-    "100 - Niufoods/Proyectos/China backend/creencias de desarollo/3 Intentos de Pago.md",
-    "100 - Niufoods/Proyectos/China backend/creencias de desarollo/2 Creación de la Orden.md",
-    "100 - Niufoods/Proyectos/China backend/creencias de desarollo/1 Carrito de Compras.md",
-    "100 - Niufoods/Proyectos/China backend/comandos utiles/Crear test de modelo automaticamente.md",
     "100 - Niufoods/Proyectos/pof/tareas recurrentes",
     "100 - Niufoods/Proyectos/pof/lógica",
     "100 - Niufoods/Proyectos/pof/comandos utiles",
     "100 - Niufoods/Proyectos/China backend/tareas recurrentes",
     "100 - Niufoods/Proyectos/China backend/lógica",
     "100 - Niufoods/Proyectos/China backend/creencias de desarollo",
-    "100 - Niufoods/Proyectos/China backend/comandos utiles",
-    "100 - Niufoods/Postgresql/historia.md",
-    "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
-    "100 - Niufoods/Anexos/Pasted image 20230615111549.png",
-    "100 - Niufoods/Anexos/Pasted image 20230615111139.png",
     "Untitled.canvas"
   ]
 }
