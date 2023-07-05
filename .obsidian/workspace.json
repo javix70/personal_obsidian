@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 - Templates/Dayily Note.md.md",
-                "mode": "preview",
+                "file": "201 - _scripts/AltCheckbox.js.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 - Templates/Dayily Note.md.md",
+                "file": "201 - _scripts/AltCheckbox.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 - Templates/Dayily Note.md.md",
+                "file": "201 - _scripts/AltCheckbox.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 - Templates/Dayily Note.md.md"
+                "file": "201 - _scripts/AltCheckbox.js.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "c99e4b924cb4192c",
   "lastOpenFiles": [
+    "100 - Niufoods/Daily notes/2023-07-06.md",
+    "201 - _scripts/AltCheckbox.js.md",
     "201 - _scripts/generate_periodic_link_markdown.js.md",
     "200 - Templates/Dayily Note.md.md",
+    "100 - Niufoods/Daily notes/2023-07-05.md",
     "200 - Templates/Aprendizaje.md",
     "200 - Templates/tpl.dailynote.md",
     "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
@@ -167,7 +170,6 @@
     "200 - Templates/Untitled",
     "100 - Niufoods/Proyectos/China backend/documentacion/save_params.md",
     "100 - Niufoods/Proyectos/China backend/documentacion",
-    "100 - Niufoods/Daily notes/2023-07-05.md",
     "100 - Niufoods/Acuerdos team/Conversación pendiente.md",
     "100 - Niufoods/Acuerdos team/Contenido de tarjeta.md",
     "100 - Niufoods/Anotaciones y sugerencias prs/mejoras para kushki.md",
@@ -188,8 +190,6 @@
     "001 - Aprendizaje/Programación/patrones de diseño/dominio/Index.md",
     "001 - Aprendizaje/Libros/Mangas/bersek/Personajes.md",
     "001 - Aprendizaje/Libros/Mangas/bersek/Timeline.md",
-    "100 - Niufoods/Solicitudes/chuteo de la karla de pof.md",
-    "100 - Niufoods/Daily notes/2023-07-06.md",
     "100 - Niufoods/Templates",
     "100 - Niufoods/Solicitudes/anexos/Pasted image 20230630124124.png",
     "100 - Niufoods/Solicitudes/anexos",
