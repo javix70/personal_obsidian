@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
-                "mode": "source",
+                "file": "templates/Daily notes.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
+                "file": "templates/Daily notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
+                "file": "templates/Daily notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md"
+                "file": "templates/Daily notes.md"
               }
             }
           },
@@ -152,11 +152,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "42361b027fcfdbbb",
   "lastOpenFiles": [
+    "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
     "Aprendizaje/Programación/patrones de dise/dominio/Index.md",
     "Aprendizaje/Programación/Glosario.md",
     "Aprendizaje/Programación/Lenguajes/C/comandos.md",
@@ -170,7 +172,6 @@
     "Ideas de remodelación/2023-07-04 - askjdhksajd.md",
     "Aprendizaje/Libros/Mangas/bersek/Timeline.md",
     "Aprendizaje/Taxonomía/Taxonomía.md",
-    "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
     "Untitled.canvas",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Profundidad (DFS).md",
     "Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Trie (Árbol de prefijos).md",
