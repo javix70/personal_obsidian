@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 - Templates/tpl.dailynote.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2347b5018cf91fc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
-                "mode": "source",
+                "file": "200 - Templates/Dayily Note.md.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 - Templates/tpl.dailynote.md",
+                "file": "200 - Templates/Dayily Note.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 - Templates/tpl.dailynote.md",
+                "file": "200 - Templates/Dayily Note.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 - Templates/tpl.dailynote.md"
+                "file": "200 - Templates/Dayily Note.md.md"
               }
             }
           },
@@ -168,11 +156,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "966de0a33a82f8d0",
+  "active": "c99e4b924cb4192c",
   "lastOpenFiles": [
+    "201 - _scripts/generate_periodic_link_markdown.js.md",
+    "200 - Templates/Dayily Note.md.md",
+    "200 - Templates/Aprendizaje.md",
+    "200 - Templates/tpl.dailynote.md",
+    "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
+    "201 - _scripts",
     "200 - Templates/Untitled",
     "100 - Niufoods/Proyectos/China backend/documentacion/save_params.md",
-    "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
     "100 - Niufoods/Proyectos/China backend/documentacion",
     "100 - Niufoods/Daily notes/2023-07-05.md",
     "100 - Niufoods/Acuerdos team/Conversación pendiente.md",
@@ -196,10 +189,7 @@
     "001 - Aprendizaje/Libros/Mangas/bersek/Personajes.md",
     "001 - Aprendizaje/Libros/Mangas/bersek/Timeline.md",
     "100 - Niufoods/Solicitudes/chuteo de la karla de pof.md",
-    "200 - Templates/Aprendizaje.md",
     "100 - Niufoods/Daily notes/2023-07-06.md",
-    "005 - Proyectos/Largo plazo/Modificacion de planos de la casa.md",
-    "200 - Templates/tpl.dailynote.md",
     "100 - Niufoods/Templates",
     "100 - Niufoods/Solicitudes/anexos/Pasted image 20230630124124.png",
     "100 - Niufoods/Solicitudes/anexos",
@@ -207,8 +197,6 @@
     "100 - Niufoods/Proyectos/pof/tareas recurrentes",
     "100 - Niufoods/Proyectos/pof/lógica",
     "100 - Niufoods/Proyectos/pof/comandos utiles",
-    "100 - Niufoods/Proyectos/China backend/tareas recurrentes",
-    "100 - Niufoods/Proyectos/China backend/lógica",
     "Untitled.canvas"
   ]
 }
