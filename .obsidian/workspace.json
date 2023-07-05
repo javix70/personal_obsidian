@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 - Templates/Aprendizaje.md",
+                "file": "100 - Niufoods/Daily notes/2023-07-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 - Templates/Aprendizaje.md",
+                "file": "100 - Niufoods/Daily notes/2023-07-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 - Templates/Aprendizaje.md",
+                "file": "100 - Niufoods/Daily notes/2023-07-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 - Templates/Aprendizaje.md"
+                "file": "100 - Niufoods/Daily notes/2023-07-05.md"
               }
             }
           },
@@ -158,8 +158,15 @@
   },
   "active": "c9f490ce0741b417",
   "lastOpenFiles": [
-    "005 - Proyectos/Largo plazo/Modificacion de planos de la casa.md",
+    "100 - Niufoods/Acuerdos team/Documentación.md",
+    "100 - Niufoods/Daily notes/2023-07-05.md",
+    "100 - Niufoods/Acuerdos team/Conversación pendiente.md",
+    "100 - Niufoods/Acuerdos team/Contenido de tarjeta.md",
+    "100 - Niufoods/Acuerdos team/Cómo revisar un pr.md",
+    "100 - Niufoods/Solicitudes/chuteo de la karla de pof.md",
     "200 - Templates/Aprendizaje.md",
+    "100 - Niufoods/Daily notes/2023-07-06.md",
+    "005 - Proyectos/Largo plazo/Modificacion de planos de la casa.md",
     "200 - Templates/tpl.dailynote.md",
     "100 - Niufoods/Anotaciones y sugerencias prs/mejoras para kushki.md",
     "100 - Niufoods/Templates/dailynotes.md",
@@ -167,7 +174,6 @@
     "100 - Niufoods/Templates",
     "100 - Niufoods/Solicitudes/anexos/Pasted image 20230630124124.png",
     "100 - Niufoods/Solicitudes/investigación.md",
-    "100 - Niufoods/Solicitudes/chuteo de la karla de pof.md",
     "100 - Niufoods/Solicitudes/anexos",
     "100 - Niufoods/Solicitudes/POF services - propina mala *.md",
     "100 - Niufoods/Solicitudes/Falla con pago con webpay *.md",
@@ -189,12 +195,6 @@
     "100 - Niufoods/Proyectos/China backend/comandos utiles",
     "100 - Niufoods/Postgresql/historia.md",
     "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
-    "100 - Niufoods/Daily notes/2023-07-04 - Correcciones pr de Logger.md",
-    "100 - Niufoods/Daily notes/2023-07-03 - Revisión POF.md",
-    "100 - Niufoods/Daily notes/2023-06-30.md",
-    "100 - Niufoods/Daily notes/2023-06-27 - corrección pr kushki.md",
-    "100 - Niufoods/Daily notes/2023-06-22 - deshabilitar y imagenes admin..md",
-    "100 - Niufoods/Daily notes/2023-06-19 - Correción pr de imagenes.md",
     "100 - Niufoods/Anexos/Pasted image 20230615111549.png",
     "100 - Niufoods/Anexos/Pasted image 20230615111139.png",
     "Untitled.canvas"

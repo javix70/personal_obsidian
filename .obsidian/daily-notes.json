@@ -1,4 +1,5 @@
 {
-  "template": "",
-  "autorun": false
+  "template": "200 - Templates/tpl.dailynote",
+  "autorun": true,
+  "folder": "100 - Niufoods/Daily notes"
 }
