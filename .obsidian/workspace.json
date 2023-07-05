@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/tpl.dailynote.md",
+                "file": "2023-07-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5110321044922
+    "width": 230.5110321044922
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/tpl.dailynote.md",
+                "file": "2023-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/tpl.dailynote.md",
+                "file": "2023-07-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/tpl.dailynote.md"
+                "file": "2023-07-03.md"
               }
             }
           },
@@ -158,12 +158,13 @@
   },
   "active": "42361b027fcfdbbb",
   "lastOpenFiles": [
-    "Untitled.md",
     "templates/tpl.dailynote.md",
-    "Untitled.canvas",
-    "templates/Aprendizaje.md",
     "2023-07-03.md",
     "2023-07-04.md",
+    "2023-07-05.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "templates/Aprendizaje.md",
     "Aprendizaje/Programación/patrones de dise/dominio/Value Object (VO).md",
     "Aprendizaje/Programación/patrones de dise/dominio/Index.md",
     "Aprendizaje/Libros/Mangas/bersek/Personajes.md",
@@ -193,7 +194,6 @@
     "Aprendizaje/Programación/debug y testing",
     "Aprendizaje/Libros/Mangas/Berserk.md",
     "Aprendizaje/Programación/Infomación/Datos primitivos.md",
-    "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md",
-    "Aprendizaje/Programación/Infomación/Datos primitivos/Datos.md"
+    "Aprendizaje/Programación/Infomación/Tipos de datos/Tipos de datos.md"
   ]
 }
