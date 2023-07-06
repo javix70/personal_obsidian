@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "201 - _scripts/AltCheckbox.js.md",
+                "file": "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 459.5,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "201 - _scripts/AltCheckbox.js.md",
+                "file": "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "201 - _scripts/AltCheckbox.js.md",
+                "file": "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "201 - _scripts/AltCheckbox.js.md"
+                "file": "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md"
               }
             }
           },
@@ -158,9 +159,9 @@
   },
   "active": "c99e4b924cb4192c",
   "lastOpenFiles": [
+    "201 - _scripts/AltCheckbox.js.md",
     "200 - Templates/Dayily Note.md.md",
     "100 - Niufoods/Daily notes/2023-07-06.md",
-    "201 - _scripts/AltCheckbox.js.md",
     "201 - _scripts/generate_periodic_link_markdown.js.md",
     "100 - Niufoods/Daily notes/2023-07-05.md",
     "200 - Templates/Aprendizaje.md",
