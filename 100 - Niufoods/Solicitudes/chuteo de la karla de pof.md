@@ -29,3 +29,14 @@ cachar el que el cambio donde se fue a modificar y actualizar el nombre donde co
 
 en los lugares en donde no se modificó
 - [ ] 
+
+
+Consideración en QA.
+
+combo box
+app/helpers/combo_definitions_helper.rb
+
+```ruby
+default_price: variant.provider_price_cents(provider_id),
+extra_price: variant.extra_price,
+```
