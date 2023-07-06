@@ -23,7 +23,7 @@ ese es el último pr que se subio.
 
 WIP:
 
-- [ ] default money price -> default price.
+- [x] default money price -> default price.
 
 cachar el que el cambio donde se fue a modificar y actualizar el nombre donde correponda.
 
