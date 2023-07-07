@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/daily_notes/2023-07-08.md",
+                "file": "200_templates/weekly_notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,20 +81,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ba4ec13fde3d84d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "79859b6dc0444b12",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/daily_notes/2023-07-08.md",
+                "file": "200_templates/weekly_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/daily_notes/2023-07-08.md",
+                "file": "200_templates/weekly_notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/daily_notes/2023-07-08.md"
+                "file": "200_templates/weekly_notes.md"
               }
             }
           },
@@ -139,10 +131,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "768a9b5e20c65e0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ba4ec13fde3d84d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +165,10 @@
   "active": "b087384df677c922",
   "lastOpenFiles": [
     "200_templates/daily_notes.md",
+    "200_templates/weekly_notes.md",
     "100_niufoods/daily_notes/2023-07-08.md",
     "Invalid date.md",
+    "100_niufoods/daily_notes/2023-07-07.md",
     "100_niufoods/daily_notes/2023-07-04_correcciones-logger-cb.md",
     "100_niufoods/team_agreements/pending_conversations.md",
     "100_niufoods/team_agreements/function_params_named.md",
@@ -175,7 +183,6 @@
     "001_learning/TI",
     "001_learning/TI/programing/diagrams/UML/modelo.md",
     "001_learning/TI/programing/diagrams/Secuencia.md",
-    "100_niufoods/daily_notes/2023-07-07.md",
     "100_niufoods/projects/pof/logics",
     "100_niufoods/projects/pof/repetitive_tasks",
     "100_niufoods/projects/pof/utils_commands",
@@ -188,7 +195,6 @@
     "100_niufoods/daily_notes/2023-06-16_separar_prs_de_kushki.md",
     "100_niufoods/daily_notes/2023-06-14_separar_prs_y_enviar_correo_ kushki.md",
     "100_niufoods/daily_notes/2023-06-13_kushki_and_des-able_picking.md",
-    "100_niufoods/daily_notes/2023-06-22_deshabilitar_imagenes_admin.md",
     "100_niufoods/projects/china_backend/development_belief",
     "100_niufoods/anexs/Pasted image 20230615111139.png",
     "201_scripts",
