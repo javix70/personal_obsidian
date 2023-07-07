@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/team_agreements/how_to_create_a_content_card.md",
+                "file": "100_niufoods/team_agreements/function_params_named.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/team_agreements/how_to_create_a_content_card.md",
+                "file": "100_niufoods/team_agreements/function_params_named.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/team_agreements/how_to_create_a_content_card.md",
+                "file": "100_niufoods/team_agreements/function_params_named.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/team_agreements/how_to_create_a_content_card.md"
+                "file": "100_niufoods/team_agreements/function_params_named.md"
               }
             }
           },
@@ -158,15 +158,17 @@
   },
   "active": "b087384df677c922",
   "lastOpenFiles": [
+    "100_niufoods/team_agreements/prefix_commit.md",
+    "100_niufoods/team_agreements/function_params_named.md",
+    "100_niufoods/team_agreements/pending_conversations.md",
+    "100_niufoods/team_agreements/how_to_review_pr.md",
+    "100_niufoods/team_agreements/linters.md",
+    "100_niufoods/team_agreements/how_to_create_a_content_card.md",
+    "100_niufoods/team_agreements/documentation.md",
     "001_learning/TI/programing/diagrams/UML/index.md",
     "001_learning/TI/programing/Glosario.md",
-    "100_niufoods/team_agreements/documentation.md",
     "001_learning/TI/data_base",
     "001_learning/TI",
-    "100_niufoods/team_agreements/linters.md",
-    "100_niufoods/team_agreements/how_to_review_pr.md",
-    "100_niufoods/team_agreements/pending_conversations.md",
-    "100_niufoods/team_agreements/prefix_commit.md",
     "001_learning/TI/programing/diagrams/UML/modelo.md",
     "001_learning/TI/programing/diagrams/Secuencia.md",
     "100_niufoods/daily_notes/2023-07-07.md",
@@ -189,8 +191,6 @@
     "100_niufoods/Daily notes/2023-06-30.md",
     "100_niufoods/projects/china_backend/development_belief",
     "100_niufoods/anexs/Pasted image 20230615111139.png",
-    "100_niufoods/requests/Cliente señala que no puede eliminar dirección *.md",
-    "001_learning/TI/programing/Infomación/primitive_data_types.md",
     "201_scripts",
     "200 - Templates/Untitled",
     "100_niufoods/projects/china_backend/documentation",
