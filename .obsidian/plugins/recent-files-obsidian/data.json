@@ -1,5 +1,14 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "daily_notes",
+      "path": "200_templates/daily_notes.md"
+    },
+    {
+      "basename": "weekly_notes",
+      "path": "200_templates/weekly_notes.md"
+    }
+  ],
   "omittedPaths": [],
   "maxLength": null,
   "openType": "tab"
