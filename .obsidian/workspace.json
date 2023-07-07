@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_learning/TI/programing/diagrams/UML/index.md",
+                "file": "100_niufoods/team_agreements/how_to_create_a_content_card.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_learning/TI/programing/diagrams/UML/index.md",
+                "file": "100_niufoods/team_agreements/how_to_create_a_content_card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_learning/TI/programing/diagrams/UML/index.md",
+                "file": "100_niufoods/team_agreements/how_to_create_a_content_card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001_learning/TI/programing/diagrams/UML/index.md"
+                "file": "100_niufoods/team_agreements/how_to_create_a_content_card.md"
               }
             }
           },
@@ -156,8 +156,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ba4ec13fde3d84d",
+  "active": "b087384df677c922",
   "lastOpenFiles": [
+    "001_learning/TI/programing/diagrams/UML/index.md",
     "001_learning/TI/programing/Glosario.md",
     "100_niufoods/team_agreements/documentation.md",
     "001_learning/TI/data_base",
@@ -167,7 +168,6 @@
     "100_niufoods/team_agreements/pending_conversations.md",
     "100_niufoods/team_agreements/prefix_commit.md",
     "001_learning/TI/programing/diagrams/UML/modelo.md",
-    "001_learning/TI/programing/diagrams/UML/index.md",
     "001_learning/TI/programing/diagrams/Secuencia.md",
     "100_niufoods/daily_notes/2023-07-07.md",
     "100_niufoods/projects/pof/logics",
