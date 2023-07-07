@@ -8,7 +8,7 @@
     "enabled": true
   },
   "weekly": {
-    "format": "gggg-[W]w-MM",
+    "format": "gggg-MMM-[W]w",
     "template": "200_templates/weekly_notes.md",
     "folder": "100_niufoods/02_weekly_notes",
     "enabled": true
