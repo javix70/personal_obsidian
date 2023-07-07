@@ -20,7 +20,7 @@ Revisar donde deberíamos trabajar con el truncamientos
 CB -> solo los calculos finales es cuando se trunca.
 
 
-no los subtotales, sino que el de después.
+truncado (utilizar el método que corresponda). la vista, subtotal, potcentaje
 generar linea extra para mostrar algo como: ley de redondeo pero con TODO para verlo más adelante
 
 
