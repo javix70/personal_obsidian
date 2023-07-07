@@ -17,4 +17,11 @@ prs
 Revisar donde deberíamos trabajar con el truncamientos
 
 
-CB -> 
+CB -> solo los calculos finales es cuando se trunca.
+
+
+no los subtotales, sino que el de después.
+generar linea extra para mostrar algo como: ley de redondeo pero con TODO para verlo más adelante
+
+
+ENV. Truncated_amount true o false... 
