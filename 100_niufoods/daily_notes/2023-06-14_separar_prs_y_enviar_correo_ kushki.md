@@ -2,7 +2,7 @@
 Que voy hacer hoy?
 
 Dudas
-En la docu de kuhski, piden minimos para [[2023-06-13 - Kushki y des-habilitar#Checklist certificación Kushki|Obtener Certificado]]  que se encuentran en  insertar link [Preparar certificación](https://docs.kushki.com/mx/one-time-payments/card/on-demand#4-prepara-tu-certificaci%C3%B3n)
+En la docu de kuhski, piden minimos para [[2023-06-13_kushki_and_des-able_picking#Checklist certificación Kushki|Obtener Certificado]]  que se encuentran en  insertar link [Preparar certificación](https://docs.kushki.com/mx/one-time-payments/card/on-demand#4-prepara-tu-certificaci%C3%B3n)
 
 
  Tengo duda con lo que dice en la [Docu kushki](https://docs.kushki.com/mx/getting-started/go-live)
