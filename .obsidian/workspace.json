@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - Niufoods/Solicitudes/POF services - propina mala *.md",
+                "file": "100_niufoods/Daily notes/2023-06-13 - Kushki y des-habilitar.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 448.5
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 - Niufoods/Solicitudes/POF services - propina mala *.md",
+                "file": "100_niufoods/Daily notes/2023-06-13 - Kushki y des-habilitar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 - Niufoods/Solicitudes/POF services - propina mala *.md",
+                "file": "100_niufoods/Daily notes/2023-06-13 - Kushki y des-habilitar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 - Niufoods/Solicitudes/POF services - propina mala *.md"
+                "file": "100_niufoods/Daily notes/2023-06-13 - Kushki y des-habilitar.md"
               }
             }
           },
@@ -158,9 +158,20 @@
   },
   "active": "c99e4b924cb4192c",
   "lastOpenFiles": [
-    "100 - Niufoods/Solicitudes/chuteo de la karla de pof.md",
-    "100 - Niufoods/Daily notes/2023-06-12 -  Kushki.md",
-    "100 - Niufoods/Daily notes/2023-07-05 Cambiar nombre de metodos.md",
+    "100_niufoods/Daily notes/2023-06-12_start_with_kushki_integration.md",
+    "100_niufoods/Daily notes/2023-06-22_deshabilitar_imagenes_admin.md",
+    "100_niufoods/Daily notes/2023-06-27_correcion_pr_kushki.md",
+    "100_niufoods/Daily notes/2023-07-03_revisión_soporte-china-deli.md",
+    "100_niufoods/Daily notes/2023-07-04_Correcciones-logger-cb.md",
+    "100_niufoods/Daily notes/2023-07-05_Cambiar_nombre-metodos_pof.md",
+    "100_niufoods/requests/falla_pago_webpay *.md",
+    "100_niufoods/Daily notes/2023-06-30.md",
+    "100_niufoods/Proyectos/china_backend/development_belief",
+    "100_niufoods/Anexos/Pasted image 20230615111139.png",
+    "100_niufoods/requests/Cliente señala que no puede eliminar dirección *.md",
+    "001_learning/Programación/Infomación/primitive_data_types.md",
+    "100_niufoods/requests/pof_services_propina_mala *.md",
+    "100_niufoods/requests/chuteo_karla_pof.md",
     "201 - _scripts/AltCheckbox.js.md",
     "200 - Templates/Dayily Note.md.md",
     "100 - Niufoods/Daily notes/2023-07-06.md",
@@ -170,33 +181,22 @@
     "200 - Templates/tpl.dailynote.md",
     "201 - _scripts",
     "200 - Templates/Untitled",
-    "100 - Niufoods/Proyectos/China backend/documentacion/save_params.md",
-    "100 - Niufoods/Proyectos/China backend/documentacion",
-    "100 - Niufoods/Acuerdos team/Conversación pendiente.md",
-    "100 - Niufoods/Acuerdos team/Contenido de tarjeta.md",
-    "100 - Niufoods/Anotaciones y sugerencias prs/mejoras para kushki.md",
-    "100 - Niufoods/Anexos/Pasted image 20230615111549.png",
-    "100 - Niufoods/Anexos/Pasted image 20230615111139.png",
-    "100 - Niufoods/Acuerdos team/Cómo revisar un pr.md",
-    "100 - Niufoods/Acuerdos team/Documentación.md",
-    "100 - Niufoods/Acuerdos team/Linters.md",
-    "100 - Niufoods/Acuerdos team/Prefijos commit.md",
-    "001 - Aprendizaje/Programación/Glosario.md",
-    "001 - Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Árbol B.md",
-    "001 - Aprendizaje/Programación/Qa and Testing",
-    "001 - Aprendizaje/Programación/Infomación/Tipos de datos/Estructuras de datos/Árbol/Busqueda/Anchura (BFS).md",
-    "001 - Aprendizaje/Programación/Infomación/Datos primitivos.md",
-    "001 - Aprendizaje/Programación/Lenguajes/C/Puntero.md",
-    "001 - Aprendizaje/Programación/Lenguajes/C/comandos.md",
-    "001 - Aprendizaje/Programación/patrones de diseño/dominio/Value Object (VO).md",
-    "001 - Aprendizaje/Programación/patrones de diseño/dominio/Index.md",
+    "100_niufoods/Proyectos/china_backend/documentation/save_params.md",
+    "100_niufoods/Proyectos/china_backend/documentation",
+    "100_niufoods/team_agreements/Conversación pendiente.md",
+    "100_niufoods/team_agreements/Contenido de tarjeta.md",
+    "100_niufoods/pull_request/kushki_improvements.md",
+    "100_niufoods/Anexos/Pasted image 20230615111549.png",
+    "100_niufoods/team_agreements/Cómo revisar un pr.md",
+    "100_niufoods/team_agreements/Documentación.md",
+    "100_niufoods/team_agreements/Linters.md",
+    "001_learning/Programación/qa_and_testing",
     "100 - Niufoods/Templates",
-    "100 - Niufoods/Solicitudes/anexos/Pasted image 20230630124124.png",
-    "100 - Niufoods/Solicitudes/anexos",
-    "100 - Niufoods/Solicitudes",
-    "100 - Niufoods/Proyectos/pof/tareas recurrentes",
-    "100 - Niufoods/Proyectos/pof/lógica",
-    "100 - Niufoods/Proyectos/pof/comandos utiles",
+    "100_niufoods/requests/anexos/Pasted image 20230630124124.png",
+    "100_niufoods/requests/anexos",
+    "100_niufoods/requests",
+    "100_niufoods/Proyectos/pof/tareas recurrentes",
+    "100_niufoods/Proyectos/pof/lógica",
     "Untitled.canvas"
   ]
 }
