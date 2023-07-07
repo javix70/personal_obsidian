@@ -47,8 +47,6 @@ Todo truncado, excepto las propinas
 
 y duplicar una orden..
 
-
-
 ![[Pasted image 20230707154337.png]]
 
 Ser propina, no hay que truncar
