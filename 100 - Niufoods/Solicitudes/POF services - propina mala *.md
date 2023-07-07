@@ -28,5 +28,3 @@ antes correr las migraciones debe estar las variables de entorno.
 `var value = +(parseFloat(currencyToNumber(_this.val())).toFixed(2));`
 
 
-
-Resuleto, la solución si sirvió
