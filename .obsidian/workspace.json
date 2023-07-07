@@ -11,12 +11,8 @@
             "id": "b087384df677c922",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -32,7 +28,6 @@
       {
         "id": "7b774ddf0096e9eb",
         "type": "tabs",
-        "dimension": 72.6775956284153,
         "children": [
           {
             "id": "966de0a33a82f8d0",
@@ -50,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,27 +62,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8aed61eb1fd8a788",
-        "type": "tabs",
-        "dimension": 27.322404371584703,
-        "children": [
-          {
-            "id": "7864e5ba538e15b8",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 448.5
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -96,16 +75,22 @@
       {
         "id": "693805e84790397d",
         "type": "tabs",
-        "dimension": 51.91256830601093,
         "children": [
+          {
+            "id": "9ba4ec13fde3d84d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "79859b6dc0444b12",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -121,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,83 +131,71 @@
             }
           }
         ]
-      },
-      {
-        "id": "768a9b5e20c65e0d",
-        "type": "tabs",
-        "dimension": 48.08743169398907,
-        "children": [
-          {
-            "id": "9ba4ec13fde3d84d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "templates:Insert template": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b087384df677c922",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154337.png",
-    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154241.png",
-    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154224.png",
-    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154033.png",
-    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707153837.png",
-    "100_niufoods/03_projects/pof/requests/attachments",
-    "100_niufoods/03_projects/china_backend/requests/investigation.md",
-    "100_niufoods/03_projects/china_backend/requests",
-    "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
-    "100_niufoods/03_projects/pof/requests",
+    "001_learning/books/Mangas/bersek/Timeline.md",
+    "001_learning/books/Mangas/bersek/Personajes.md",
+    "001_learning/books/Mangas/bersek",
+    "001_learning/books/Mangas",
+    "001_learning/books",
+    "100_niufoods/daily_notes/2023-07-07.md",
+    "200_templates/weekly_notes.md",
+    "200_templates/daily_notes.md",
+    "200_templates",
     "100_niufoods/200_anexs/Pasted image 20230630124124.png",
     "100_niufoods/200_anexs/Pasted image 20230615111549.png",
     "100_niufoods/200_anexs/Pasted image 20230615111139.png",
-    "100_niufoods/03_projects/pof/requests/chuteo_karla_pof.md",
-    "200_templates/daily_notes.md",
-    "200_templates/weekly_notes.md",
-    "100_niufoods/01_daily_notes/Untitled.md",
-    "100_niufoods/01_daily_notes/2023-07-06.md",
-    "Fecha inválida.md",
-    "Invalid date.md",
-    "100_niufoods/01_daily_notes/2023-07-04_correcciones-logger-cb.md",
-    "100_niufoods/01_daily_notes/2023-07-05_Cambiar_nombre-metodos_pof.md",
-    "100_niufoods/01_daily_notes/2023-06-16_separar_prs_de_kushki.md",
-    "100_niufoods/01_daily_notes/2023-06-14_separar_prs_y_enviar_correo_ kushki.md",
-    "100_niufoods/01_daily_notes/2023-06-13_kushki_and_des-able_picking.md",
-    "100_niufoods/01_daily_notes/2023-06-12_start_with_kushki_integration.md",
-    "100_niufoods/01_daily_notes/2023-06-19_correcion_pr_de_imagenes.md",
-    "100_niufoods/01_daily_notes/2023-06-22_deshabilitar_imagenes_admin.md",
-    "100_niufoods/01_daily_notes/2023-06-27_correcion_pr_kushki.md",
-    "100_niufoods/01_daily_notes/2023-07-03_revisión_soporte-china-deli.md",
-    "100_niufoods/01_daily_notes/2023-07-07.md",
-    "100_niufoods/102_weekly_notes/Untitled.md",
-    "100_niufoods/02_weekly_notes",
-    "100_niufoods/daily_notes/2023-07-08.md",
-    "100_niufoods/daily_notes/2023-07-07.md",
+    "100_niufoods/200_anexs",
+    "100_niufoods/06_team_agreements/prefix_commit.md",
     "100_niufoods/06_team_agreements/pending_conversations.md",
+    "100_niufoods/06_team_agreements/linters.md",
+    "100_niufoods/06_team_agreements/how_to_review_pr.md",
+    "100_niufoods/06_team_agreements/how_to_create_a_content_card.md",
     "100_niufoods/06_team_agreements/function_params_named.md",
-    "001_learning/TI/data_base",
-    "001_learning/TI",
-    "100_niufoods/03_projects/pof/logics",
-    "100_niufoods/03_projects/pof/repetitive_tasks",
-    "100_niufoods/03_projects/pof/utils_commands",
-    "100_niufoods/03_projects/china_backend/development_belief",
+    "100_niufoods/06_team_agreements/documentation.md",
+    "100_niufoods/06_team_agreements",
+    "100_niufoods/04_pull_request/kushki_improvements.md",
+    "100_niufoods/04_pull_request",
+    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154224.png",
+    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154337.png",
+    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154241.png",
+    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154033.png",
+    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707153837.png",
+    "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
+    "100_niufoods/03_projects/pof/requests/chuteo_karla_pof.md",
+    "100_niufoods/03_projects/pof/requests/attachments",
+    "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
+    "100_niufoods/03_projects/china_backend/requests/investigation.md",
+    "100_niufoods/03_projects/china_backend/repetitive_tasks/update_restorant_datetime.md",
+    "100_niufoods/03_projects/china_backend/documentation/save_params.md",
+    "100_niufoods/03_projects/pof/requests",
+    "100_niufoods/03_projects/china_backend/utils_commands",
+    "100_niufoods/01_daily_notes/2023-07-07.md",
+    "100_niufoods/01_daily_notes/2023-07-05_Cambiar_nombre-metodos_pof.md",
+    "100_niufoods/01_daily_notes/2023-07-04_correcciones-logger-cb.md",
+    "100_niufoods/01_daily_notes/2023-07-03_revisión_soporte-china-deli.md",
+    "100_niufoods/01_daily_notes/2023-06-27_correcion_pr_kushki.md",
+    "100_niufoods/01_daily_notes/2023-06-22_deshabilitar_imagenes_admin.md",
+    "100_niufoods/01_daily_notes/2023-06-19_correcion_pr_de_imagenes.md",
+    "100_niufoods/anexs/Pasted image 20230615111139.png",
+    "100_niufoods/anexs/Pasted image 20230615111549.png",
     "Untitled.canvas"
   ]
 }
