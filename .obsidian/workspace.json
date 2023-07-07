@@ -11,8 +11,12 @@
             "id": "b087384df677c922",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "001_learning/taxonomy/taxonomy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -28,6 +32,7 @@
       {
         "id": "7b774ddf0096e9eb",
         "type": "tabs",
+        "dimension": 66.88741721854305,
         "children": [
           {
             "id": "966de0a33a82f8d0",
@@ -61,7 +66,14 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1a8778cd53dc2a2f",
+        "type": "tabs",
+        "dimension": 33.11258278145696,
+        "children": [
           {
             "id": "2b5dc41b6f5d288d",
             "type": "leaf",
@@ -70,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001_learning/taxonomy/taxonomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "001_learning/taxonomy/taxonomy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "001_learning/taxonomy/taxonomy.md"
+              }
             }
           },
           {
@@ -157,8 +172,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2b5dc41b6f5d288d",
+  "active": "966de0a33a82f8d0",
   "lastOpenFiles": [
+    "100_niufoods/200_anexs/Pasted image 20230615111549.png",
     "001_learning/books/Mangas/bersek/Timeline.md",
     "001_learning/books/Mangas/bersek/Personajes.md",
     "001_learning/books/Mangas/bersek",
@@ -169,7 +185,6 @@
     "200_templates/daily_notes.md",
     "200_templates",
     "100_niufoods/200_anexs/Pasted image 20230630124124.png",
-    "100_niufoods/200_anexs/Pasted image 20230615111549.png",
     "100_niufoods/200_anexs/Pasted image 20230615111139.png",
     "100_niufoods/200_anexs",
     "100_niufoods/06_team_agreements/prefix_commit.md",
@@ -202,7 +217,6 @@
     "100_niufoods/01_daily_notes/2023-07-03_revisión_soporte-china-deli.md",
     "100_niufoods/01_daily_notes/2023-06-27_correcion_pr_kushki.md",
     "100_niufoods/01_daily_notes/2023-06-22_deshabilitar_imagenes_admin.md",
-    "100_niufoods/01_daily_notes/2023-06-19_correcion_pr_de_imagenes.md",
     "100_niufoods/anexs/Pasted image 20230615111139.png",
     "100_niufoods/anexs/Pasted image 20230615111549.png",
     "Untitled.canvas"
