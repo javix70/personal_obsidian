@@ -1,11 +1,11 @@
 ---
-created: 2023-07-07 12:03
+created: <% tp.file.creation_date() %>
 ---
 tags:: [[+Daily Notes]]
 
-# Fecha inválida
+# <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 
-<< [[Fecha inválida|Yesterday]] | [[Fecha inválida|Tomorrow]] >>
+<< [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>|Tomorrow]] >>
 
 ---
 ### 📅 Daily Questions
@@ -28,10 +28,10 @@ tags:: [[+Daily Notes]]
 ---
 ### Notes created today
 ```dataview
-List FROM "" WHERE file.cday = date("2023-07-07") SORT file.ctime asc
+List FROM "" WHERE file.cday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.ctime asc
 ```
 
 ### Notes last touched today
 ```dataview
-List FROM "" WHERE file.mday = date("2023-07-07") SORT file.mtime asc
+List FROM "" WHERE file.mday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.mtime asc
 ```
