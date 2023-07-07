@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200_templates/daily-note-template.md",
+                "file": "100_niufoods/daily_notes/2023-07-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200_templates/daily-note-template.md",
+                "file": "100_niufoods/daily_notes/2023-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200_templates/daily-note-template.md",
+                "file": "100_niufoods/daily_notes/2023-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200_templates/daily-note-template.md"
+                "file": "100_niufoods/daily_notes/2023-07-08.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "b087384df677c922",
   "lastOpenFiles": [
+    "200_templates/daily_notes.md",
+    "100_niufoods/daily_notes/2023-07-08.md",
+    "Invalid date.md",
+    "100_niufoods/daily_notes/2023-07-04_correcciones-logger-cb.md",
     "100_niufoods/team_agreements/pending_conversations.md",
-    "200_templates/daily-note-template.md",
     "100_niufoods/team_agreements/function_params_named.md",
     "100_niufoods/team_agreements/prefix_commit.md",
     "100_niufoods/team_agreements/how_to_review_pr.md",
@@ -186,9 +189,6 @@
     "100_niufoods/daily_notes/2023-06-14_separar_prs_y_enviar_correo_ kushki.md",
     "100_niufoods/daily_notes/2023-06-13_kushki_and_des-able_picking.md",
     "100_niufoods/daily_notes/2023-06-22_deshabilitar_imagenes_admin.md",
-    "100_niufoods/daily_notes/2023-06-27_correcion_pr_kushki.md",
-    "100_niufoods/daily_notes/2023-07-03_revisión_soporte-china-deli.md",
-    "100_niufoods/daily_notes/2023-07-04_Correcciones-logger-cb.md",
     "100_niufoods/projects/china_backend/development_belief",
     "100_niufoods/anexs/Pasted image 20230615111139.png",
     "201_scripts",
