@@ -1,5 +1,5 @@
 {
   "template": "200_templates/daily_notes",
-  "autorun": true,
+  "autorun": false,
   "folder": "100_niufoods/daily_notes"
 }
