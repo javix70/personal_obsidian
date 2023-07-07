@@ -1,0 +1,31 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "folder": "100_niufoods/01_daily_notes",
+    "template": "200_templates/daily_notes",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "gggg-MMM-[W]w",
+    "template": "200_templates/weekly_notes.md",
+    "folder": "100_niufoods/02_weekly_notes",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

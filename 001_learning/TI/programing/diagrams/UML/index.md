@@ -1,5 +1,4 @@
-
-Más común para explicar patrones de diseño, muestran las clases involucradas en el patron, sus atributos, métodos y relaciones entre ella.
+Más común para explicar patrones de diseño, muestran las clases involucradas en el patrón, sus atributos, métodos y relaciones entre ella.
 
 
 ## Historia
@@ -15,7 +14,6 @@ de la combinación de 3 metodologías como recencia para crear este lenguaje
 Rational software, las combino
 
 ## Para qué sirve?
-
 
 Lenguaje visual y los elementos
 
