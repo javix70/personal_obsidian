@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/01_daily_notes/2023-06-16_separar_prs_de_kushki.md",
+                "file": "100_niufoods/01_daily_notes/2023-07-04_correcciones-logger-cb.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,6 +32,7 @@
       {
         "id": "7b774ddf0096e9eb",
         "type": "tabs",
+        "dimension": 72.6775956284153,
         "children": [
           {
             "id": "966de0a33a82f8d0",
@@ -67,10 +68,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "8aed61eb1fd8a788",
+        "type": "tabs",
+        "dimension": 27.322404371584703,
+        "children": [
+          {
+            "id": "7864e5ba538e15b8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 200
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -87,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/01_daily_notes/2023-06-16_separar_prs_de_kushki.md",
+                "file": "100_niufoods/01_daily_notes/2023-07-04_correcciones-logger-cb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/01_daily_notes/2023-06-16_separar_prs_de_kushki.md",
+                "file": "100_niufoods/01_daily_notes/2023-07-04_correcciones-logger-cb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/01_daily_notes/2023-06-16_separar_prs_de_kushki.md"
+                "file": "100_niufoods/01_daily_notes/2023-07-04_correcciones-logger-cb.md"
               }
             }
           },
@@ -166,6 +182,9 @@
   },
   "active": "b087384df677c922",
   "lastOpenFiles": [
+    "100_niufoods/01_daily_notes/2023-07-05_Cambiar_nombre-metodos_pof.md",
+    "100_niufoods/01_daily_notes/2023-07-04_correcciones-logger-cb.md",
+    "100_niufoods/01_daily_notes/2023-06-16_separar_prs_de_kushki.md",
     "100_niufoods/01_daily_notes/2023-06-14_separar_prs_y_enviar_correo_ kushki.md",
     "100_niufoods/01_daily_notes/2023-06-13_kushki_and_des-able_picking.md",
     "100_niufoods/01_daily_notes/2023-06-12_start_with_kushki_integration.md",
@@ -173,8 +192,6 @@
     "100_niufoods/01_daily_notes/2023-06-22_deshabilitar_imagenes_admin.md",
     "100_niufoods/01_daily_notes/2023-06-27_correcion_pr_kushki.md",
     "100_niufoods/01_daily_notes/2023-07-03_revisión_soporte-china-deli.md",
-    "100_niufoods/01_daily_notes/2023-07-04_correcciones-logger-cb.md",
-    "100_niufoods/01_daily_notes/2023-07-05_Cambiar_nombre-metodos_pof.md",
     "100_niufoods/01_daily_notes/2023-07-07.md",
     "200_templates/weekly_notes.md",
     "100_niufoods/102_weekly_notes/Untitled.md",
@@ -194,7 +211,6 @@
     "001_learning/TI/programing/Glosario.md",
     "001_learning/TI/data_base",
     "001_learning/TI",
-    "001_learning/TI/programing/diagrams/UML/modelo.md",
     "100_niufoods/03_projects/pof/logics",
     "100_niufoods/03_projects/pof/repetitive_tasks",
     "100_niufoods/03_projects/pof/utils_commands",
