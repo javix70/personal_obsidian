@@ -11,8 +11,12 @@
             "id": "b087384df677c922",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "100_niufoods/requests/falla_pago_webpay_done.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100_niufoods/requests/falla_pago_webpay_done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100_niufoods/requests/falla_pago_webpay_done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100_niufoods/requests/falla_pago_webpay_done.md"
+              }
             }
           },
           {
@@ -148,7 +156,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b087384df677c922",
+  "active": "966de0a33a82f8d0",
   "lastOpenFiles": [
     "100_niufoods/team_agreements/prefix_commit.md",
     "100_niufoods/team_agreements/linters.md",
@@ -166,13 +174,13 @@
     "100_niufoods/daily_notes/2023-07-03_revisión_soporte-china-deli.md",
     "100_niufoods/daily_notes/2023-07-04_Correcciones-logger-cb.md",
     "100_niufoods/daily_notes/2023-07-05_Cambiar_nombre-metodos_pof.md",
-    "100_niufoods/requests/falla_pago_webpay *.md",
+    "100_niufoods/requests/falla_pago_webpay_done.md",
     "100_niufoods/Daily notes/2023-06-30.md",
     "100_niufoods/projects/china_backend/development_belief",
     "100_niufoods/anexs/Pasted image 20230615111139.png",
     "100_niufoods/requests/Cliente señala que no puede eliminar dirección *.md",
     "001_learning/Programación/Infomación/primitive_data_types.md",
-    "100_niufoods/requests/pof_services_propina_mala *.md",
+    "100_niufoods/requests/pof_services_propina_mala_done.md",
     "100_niufoods/requests/chuteo_karla_pof.md",
     "201_scripts/AltCheckbox.js.md",
     "200 - Templates/Dayily Note.md.md",
