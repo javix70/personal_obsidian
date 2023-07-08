@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Ejemplos de usos",
+      "path": "001_learning/TI/programing/diagrams/UML/Ejemplos de usos.md"
+    },
+    {
+      "basename": "index",
+      "path": "001_learning/TI/programing/diagrams/UML/index.md"
+    },
+    {
       "basename": "index",
       "path": "001_learning/TI/programing/pattern_design/index.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Secuencia",
       "path": "001_learning/TI/programing/diagrams/Secuencia.md"
-    },
-    {
-      "basename": "index",
-      "path": "001_learning/TI/programing/diagrams/UML/index.md"
     },
     {
       "basename": "taxonomy",

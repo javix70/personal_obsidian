@@ -24,3 +24,10 @@ Para modelar, **software**, sistemas, procesos. etc
 Extensible: podemos adicionar nuevos elementos
 Flexibilidad: Facilidad de uso
 Escalable: Puedo utilizarlo UML de los más chico a lo más complejo, en todos los niveles.
+
+## Modelos que lo soportan
+
+1. 4+1
+2. estatico
+3. dinamico
+4. de implementacion

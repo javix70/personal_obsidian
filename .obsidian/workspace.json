@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_learning/TI/programing/pattern_design/index.md",
+                "file": "001_learning/TI/programing/diagrams/UML/Ejemplos de usos.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_learning/TI/programing/pattern_design/index.md",
+                "file": "001_learning/TI/programing/diagrams/UML/Ejemplos de usos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_learning/TI/programing/pattern_design/index.md",
+                "file": "001_learning/TI/programing/diagrams/UML/Ejemplos de usos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001_learning/TI/programing/pattern_design/index.md"
+                "file": "001_learning/TI/programing/diagrams/UML/Ejemplos de usos.md"
               }
             }
           },
@@ -172,11 +172,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "966de0a33a82f8d0",
+  "active": "b087384df677c922",
   "lastOpenFiles": [
+    "001_learning/TI/programing/diagrams/UML/index.md",
+    "001_learning/TI/programing/diagrams/UML/Ejemplos de usos.md",
+    "001_learning/TI/programing/pattern_design/index.md",
     "001_learning/TI/programing/Infomación/primitive_data_types.md",
     "001_learning/TI/programing/diagrams/Secuencia.md",
-    "001_learning/TI/programing/diagrams/UML/index.md",
     "001_learning/TI/programing/diagrams/UML/modelo.md",
     "001_learning/taxonomy/taxonomy.md",
     "100_niufoods/200_anexs/Pasted image 20230615111549.png",
@@ -216,8 +218,6 @@
     "100_niufoods/03_projects/china_backend/documentation/save_params.md",
     "100_niufoods/03_projects/pof/requests",
     "100_niufoods/03_projects/china_backend/utils_commands",
-    "100_niufoods/01_daily_notes/2023-07-07.md",
-    "100_niufoods/01_daily_notes/2023-07-05_Cambiar_nombre-metodos_pof.md",
     "100_niufoods/anexs/Pasted image 20230615111139.png",
     "100_niufoods/anexs/Pasted image 20230615111549.png",
     "Untitled.canvas"
