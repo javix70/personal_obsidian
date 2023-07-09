@@ -1,5 +1,8 @@
 
-# Remodelación del Patio
+# Remodelación del Patio 
+
+Fecha Inicio:
+
 
 ## Planificación y Diseño
 
@@ -64,21 +67,28 @@ Contactar con la empresa o persona encargada para poner los muros divisores.
 ## Instalación de Iluminación Exterior
 
 previamente:
-1. Comprar dos focos nuevos
+1. Comprar dos focos nuevos, pensados para exterior
 2. Ver donde irán estos focos
 3. Tenemos cable
 4. comprar Canaletas Legrand(para en el interior poner los cables)
 5. Conexión en paralelo
-6. Cortar según punto 2
+6. Averiguar sobre electricidad para poder hacer la instalación
+7. Qué herramientas necestiamos para cumplir esta labor.
+8. Cortar canaletas según punto 2
 
+Instalación
 
+1. Poner la base de los focos
+2. Instalación de base de canaletas hacia las bases de los focos
+3. Extensión de cables, por las canaletas
+4.  Unir los cables con los focos.
+5. Probar la instalación (prender y apagar)
+6. Sellar las canaletas con la parte exterior de las caneletas
+7. Verificación de sello con silicona, en el foco para que no le entre humedad, y en las uniones de las canaletas
 
+## Revisión Final y Limpieza
 
-## Día 8 - Instalación de Mobiliario de Patio
-Ahora que la construcción está casi completa, puedes comenzar a agregar muebles. Esto puede incluir mesas, sillas, hamacas, etc.
-
-## Día 9 - Instalación de Accesorios y Decoraciones
-Este es el momento de agregar los toques finales a tu patio. Esto puede incluir macetas, estatuas, campanas de viento, etc.
-
-## Día 10 - Revisión Final y Limpieza
-Finalmente, revisa todo tu trabajo para asegurarte de que estás satisfecho con él. Limpia cualquier escombro que haya quedado y ¡disfruta de tu nuevo patio!
+Revisar que hacemos con las latas antiguas
+opciones, personas recicladoras.
+Basura
+Otra
