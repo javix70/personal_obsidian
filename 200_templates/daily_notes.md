@@ -6,7 +6,7 @@ tags:: [[+Daily Notes]]
 
 << [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] >>
 
-
+<% tp.user %>
 
 # <% tp.date.now('YYYY-MM-DD') %>
 
