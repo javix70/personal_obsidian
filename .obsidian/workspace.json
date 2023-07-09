@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5,
+    "width": 264.5,
     "collapsed": true
   },
   "right": {
@@ -147,8 +147,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "63ae186b1b5f326f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "39334f508164cb73",
@@ -184,8 +193,9 @@
   },
   "active": "3b0a999a9011150b",
   "lastOpenFiles": [
-    "100_niufoods/01_daily_notes/2023-07-09.md",
+    "Fecha inválida.md",
     "200_templates/daily_notes.md",
+    "100_niufoods/01_daily_notes/2023-07-09.md",
     "Untitled.md",
     "Untitled 1.md",
     "001_learning/TI/programing/diagrams/UML/index.md",
@@ -224,7 +234,6 @@
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154241.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154033.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707153837.png",
-    "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
     "100_niufoods/03_projects/pof/requests/attachments",
     "100_niufoods/03_projects/pof/requests",
     "100_niufoods/03_projects/china_backend/utils_commands",
