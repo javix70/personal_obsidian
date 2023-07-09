@@ -1,7 +1,5 @@
 
-# Remodelación del Patio 
-
-Fecha Inicio:
+# Remodelación del Patio  
 
 
 ## Planificación y Diseño
@@ -9,24 +7,34 @@ Fecha Inicio:
 Cambiar el muro divisor y reemplazar el techo.
 Agregar iluminación artificial en el patio.
 
-Cotizaciones de muros divisores, Minimo 3 cotizaciones.
+- [ ] Cotizaciones de muros divisores, Minimo 3 cotizaciones 🛫 2023-07-10 
 
 
 
-Averiguar que herramientas necestiamos para la instalación de un techo.
+- [ ] Averiguar que herramientas necestiamos para la instalación de un techo.📅 2023-07-16
 
-Dibujar en la pizarrá el diseño, más tener medidas.
-con esto podemos saber cuantas maderas necesitamos.
-que qué tamaño tienen que ser las maderas
-que necesitamos para unir las maderas
-que necesitamos para poner las latas
-que necestiamos para poner el plastico en el techo
-A qué distancias deberían ir las maderas.
+Dibujar en la pizarrá el diseño
+- [ ] Medidas del patio 🛫 2023-07-09
+- [ ] Elaboración del mono del diseño  🛫 2023-07-11 
 
-Hacia donde debería ir el agua de las canaletas?? (Averiguar)
-Considerar la inclinación de por lo menos 1° para que el agua corra
-Considerar que el techo irá por sobre el techo de la cocina, para eventualmente cambiar la altura de la cocina y el baño.
+Respecto a la madera
+	- [ ] Que tipo de manera necesitamos, en qué formato vienen (medidas)
+	- [ ] Hacer calculos de cuantas maderas necesitamos
+	- [ ] cotizar madera
+	- [ ] que necesitamos para unir las maderas
+	- [ ] A qué distancias deberían ir las maderas.
+Respecto al techo
+- [ ] Considerar la inclinación de por lo menos 1° para que el agua corra
+- [ ] Considerar que el techo irá por sobre el techo de la cocina, para eventualmente cambiar la altura de la cocina y el baño.
+- [ ] Cuantas latas necesitamos
+- [ ] Cuantos plasticos necestiamos
+- [ ] que necesitamos para poner las latas
+- [ ] que necestiamos para poner el plastico en el techo
+- [ ] Hacia donde debería ir el agua de las canaletas?? (Averiguar)
 
+Repecto a la iluminación
+- [ ] Comprar focos
+- [ ] Comprar c
 
 ##  Selección de Materiales
 Muro: bulldogs (pendiente, el metraje de cuantos necesitamos)
@@ -47,15 +55,12 @@ Contactar con la empresa o persona encargada para poner los muros divisores.
 ## Instalación del techo
 
 **previamente**
-1. Cuantas latas necesitamos,
-2. Cuanta maderas necesitamos
-3. Cuantos plasticos necesitamos
-4. Pre diseño del techo (Medidas de las maderas)
-5. Averiguar sobre la instalacion de canaletas.
-6. Comprar canaletas
-7. Cortar madera según  medidas
-8. Cortar canaletas según medidas.
-9. organizar los materiales para fácil acceso a ellos.
+1. Averiguar sobre la instalacion de canaletas.
+2. Tener canaletas
+3. Tener la Madera
+4. Cortar madera
+5. Cortar canaletas
+6. organizar los materiales para fácil acceso a ellos.
 
 **Instalación del techo**
 
