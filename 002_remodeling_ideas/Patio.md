@@ -4,7 +4,26 @@
 ## Planificación y Diseño
 
 Cambiar el muro divisor y reemplazar el techo.
+Agregar iluminación artificial en el patio.
+
 Cotizaciones de muros divisores, Minimo 3 cotizaciones.
+
+
+
+Averiguar que herramientas necestiamos para la instalación de un techo.
+
+Dibujar en la pizarrá el diseño, más tener medidas.
+con esto podemos saber cuantas maderas necesitamos.
+que qué tamaño tienen que ser las maderas
+que necesitamos para unir las maderas
+que necesitamos para poner las latas
+que necestiamos para poner el plastico en el techo
+A qué distancias deberían ir las maderas.
+
+Hacia donde debería ir el agua de las canaletas?? (Averiguar)
+Considerar la inclinación de por lo menos 1° para que el agua corra
+Considerar que el techo irá por sobre el techo de la cocina, para eventualmente cambiar la altura de la cocina y el baño.
+
 
 ##  Selección de Materiales
 Muro: bulldogs (pendiente, el metraje de cuantos necesitamos)
@@ -27,20 +46,24 @@ Contactar con la empresa o persona encargada para poner los muros divisores.
 1. Cuantas latas necesitamos,
 2. Cuanta maderas necesitamos
 3. Cuantos plasticos necesitamos
-4. Pre diseño del techo,
+4. Pre diseño del techo (Medidas de las maderas)
 5. Averiguar sobre la instalacion de canaletas.
 6. Comprar canaletas
+7. Cortar madera según  medidas
+8. Cortar canaletas según medidas.
+9. organizar los materiales para fácil acceso a ellos.
 
 **Instalación del techo**
 
-1. 
+1. Crear la estructura con madera, el esqueleto
+2. Poner latas y plasticos
+3. instalar canaletas 
 
 
-## Día 6 - Plantación de Árboles y Plantas
-Ahora puedes comenzar a plantar. Recuerda considerar la cantidad de sol que cada planta necesita, así como el tamaño que alcanzará cuando esté completamente crecida.
+## Instalación de Iluminación Exterior
 
-## Día 7 - Instalación de Iluminación Exterior
-La iluminación puede hacer una gran diferencia en cómo se ve tu patio, especialmente por la noche. Considera la instalación de luces de camino, luces de acento para resaltar características especiales, y luces de patio para áreas de entretenimiento.
+Contar´
+
 
 ## Día 8 - Instalación de Mobiliario de Patio
 Ahora que la construcción está casi completa, puedes comenzar a agregar muebles. Esto puede incluir mesas, sillas, hamacas, etc.
