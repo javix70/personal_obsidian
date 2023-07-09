@@ -28,6 +28,7 @@ Considerar que el techo irá por sobre el techo de la cocina, para eventualmente
 ##  Selección de Materiales
 Muro: bulldogs (pendiente, el metraje de cuantos necesitamos)
 Techo: Latas, madera de 1x1 y plasticos para iluminación
+Iluminación: 2 instancias de ilumación de exterior. 
 
 ## Preparación del Terreno
 
@@ -62,7 +63,15 @@ Contactar con la empresa o persona encargada para poner los muros divisores.
 
 ## Instalación de Iluminación Exterior
 
-Contar´
+previamente:
+1. Comprar dos focos nuevos
+2. Ver donde irán estos focos
+3. Tenemos cable
+4. comprar Canaletas Legrand(para en el interior poner los cables)
+5. Conexión en paralelo
+6. Cortar según punto 2
+
+
 
 
 ## Día 8 - Instalación de Mobiliario de Patio

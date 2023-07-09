@@ -7,7 +7,7 @@
 - Pasar a planos digitales la casa, el terreno y revisar que programa podemos utilizar para esto
 - el cómo mejor la aislación termica y acustica para la casa
 - cosas con cartón
-- Cambiar muro del patio
+-  [[Muros y techo| Remodelación de patio ]]
 
 Procedimiento
 - [ ] Revisar el clima para pintar la casa

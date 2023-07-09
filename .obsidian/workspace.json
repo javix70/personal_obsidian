@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_remodeling_ideas/Patio.md",
+                "file": "002_remodeling_ideas/Patio/Muros y techo.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_remodeling_ideas/Patio.md",
+                "file": "002_remodeling_ideas/Patio/Muros y techo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_remodeling_ideas/Patio.md",
+                "file": "002_remodeling_ideas/Patio/Muros y techo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002_remodeling_ideas/Patio.md"
+                "file": "002_remodeling_ideas/Patio/Muros y techo.md"
               }
             }
           },
@@ -192,10 +192,12 @@
   },
   "active": "3b0a999a9011150b",
   "lastOpenFiles": [
+    "002_remodeling_ideas/Patio/Parrila u Horno.md",
+    "002_remodeling_ideas/Patio/Index.md",
+    "002_remodeling_ideas/Patio/Muros y techo.md",
     "002_remodeling_ideas/lluvia.md",
-    "002_remodeling_ideas/Patio.md",
+    "002_remodeling_ideas/Patio",
     "200_templates/daily_notes.md",
-    "002_remodeling_ideas/Untitled",
     "+Daily Notes.md",
     "Fecha inválida.md",
     "100_niufoods/01_daily_notes/2023-07-09.md",
@@ -225,8 +227,6 @@
     "100_niufoods/06_team_agreements/prefix_commit.md",
     "100_niufoods/06_team_agreements/pending_conversations.md",
     "100_niufoods/06_team_agreements/linters.md",
-    "100_niufoods/06_team_agreements/how_to_review_pr.md",
-    "100_niufoods/06_team_agreements/how_to_create_a_content_card.md",
     "100_niufoods/06_team_agreements",
     "100_niufoods/04_pull_request",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154224.png",
