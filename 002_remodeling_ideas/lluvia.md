@@ -5,8 +5,9 @@
 - hace un taller para trabajar en la madera
 - cosas para gatos
 - Pasar a planos digitales la casa, el terreno y revisar que programa podemos utilizar para esto
-- el cómo mejoa la aislación termica y acustica para la casa
+- el cómo mejor la aislación termica y acustica para la casa
 - cosas con cartón
+- Cambiar muro del patio
 
 Procedimiento
 - [ ] Revisar el clima para pintar la casa
