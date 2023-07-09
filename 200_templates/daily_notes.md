@@ -7,6 +7,8 @@ tags:: [[+Daily Notes]]
 
 << [[Fecha inválida|Yesterday]] | [[Fecha inválida|Tomorrow]] >>
 
+
+
 ---
 ### 📅 Daily Questions
 ##### 🌜 Last night, after work, I...
