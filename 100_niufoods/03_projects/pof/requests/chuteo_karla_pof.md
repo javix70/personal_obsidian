@@ -9,7 +9,7 @@ podian ser integer o money
 
 se empezó a definir un solo retorno y por el camino de monetize
 
-hay que revisar toa la app, en donde se pueda morir..
+hay que revisar toda la app, en donde se pueda morir por el cambio de nombre
 
 **solo los flujos que afecte a monetize y unbillable_cents**
 
@@ -28,7 +28,6 @@ WIP:
 cachar el que el cambio donde se fue a modificar y actualizar el nombre donde correponda.
 
 en los lugares en donde no se modificó
-- [ ] 
 
 
 Consideración en QA.

@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1a8778cd53dc2a2f",
@@ -183,10 +184,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "34c7d54a6de57582",
+  "active": "a55be47b5f263771",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/pof/before_start/config_change_between_countries.md",
+    "100_niufoods/03_projects/pof/requests/chuteo_karla_pof.md",
     "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
+    "100_niufoods/03_projects/pof/before_start/config_change_between_countries.md",
     "100_niufoods/01_daily_notes/2023-07-10.md",
     "100_niufoods/01_daily_notes/2023-07-05_Cambiar_nombre-metodos_pof.md",
     "Untitled.md",
@@ -216,7 +218,6 @@
     "100_niufoods/01_daily_notes/2023-07-07.md",
     "001_learning/TI/programing/pattern_design/index.md",
     "001_learning/TI/programing/diagrams/Secuencia.md",
-    "001_learning/TI/programing/diagrams/UML/modelo.md",
     "100_niufoods/200_anexs/Pasted image 20230615111549.png",
     "001_learning/books/Mangas/bersek",
     "001_learning/books/Mangas",
