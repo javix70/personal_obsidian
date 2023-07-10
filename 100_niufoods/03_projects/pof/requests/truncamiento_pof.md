@@ -29,7 +29,7 @@ toda la vista truncada, igual se muestran los 2 decimales.
 ENV. Truncated_amount true o false... 
 ![[Pasted image 20230707153837.png]]
 
-truncadomientos
+**truncamientos**
 
 monto medios de pago: no
 total cuenta: si
@@ -67,4 +67,5 @@ En teoria no debería cambiar nada. agregar TODO
 ## Informe **ZETA**
 files.
 day_count_sheet, y count_sheet
+
 
