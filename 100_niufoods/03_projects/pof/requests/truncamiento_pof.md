@@ -4,7 +4,7 @@
 1. [[#Vistas involucradas|Vistas involucradas]]
 	1. [[#Vistas involucradas#Venta rapida|Venta rapida]]
 	1. [[#Vistas involucradas#Rendiciones|Rendiciones]]
-	1. [[#Vistas involucradas#Indes de ventas|Indes de ventas]]
+	1. [[#Vistas involucradas#Index de ventas|Index de ventas]]
 	1. [[#Vistas involucradas#Edit de venta rápida|Edit de venta rápida]]
 	1. [[#Vistas involucradas#Cierre de caja|Cierre de caja]]
 1. [[#Para impresiones|Para impresiones]]
@@ -62,7 +62,7 @@ diferencia a pagar: si, TODO
 Vuelto, no.
 propina, no
 
-### Indes de ventas
+### Index de ventas
 ![[Pasted image 20230707154224.png]]
 
 Todo truncado, excepto las propinas
@@ -99,5 +99,19 @@ El Gabriel me ayudó a configurar el projecto, por que no me acordaba de cómo c
 ---
 Checklist de tareas que hacer 
 
+Para todos, habla de referente a montos
+
 [[#Venta rapida]]
-- [ ] 
+- [ ] Menú lateral izquirdo
+- [ ] Cada item del menú central
+- [ ] Sección de calculos y totales
+
+[[#Rendiciones]]
+- [ ] monto medios de pago: no
+- [ ] total cuenta: si
+- [ ] total rendido: no
+- [ ] diferencia a pagar: si, TODO
+- [ ] Vuelto, no.
+- [ ] propina, no
+
+[[#Index de ventas]]
