@@ -33,8 +33,13 @@ Respecto al techo
 - [ ] Hacia donde debería ir el agua de las canaletas?? (Averiguar)
 
 Repecto a la iluminación
-- [ ] Comprar focos
-- [ ] Comprar c
+- [ ] Qué herramientas necestiamos para cumplir esta labor.|
+- [ ] Comprar focos x2
+- [ ] Comprar canaletas legrand
+- [ ] Comprar utencilios para la union de los cables
+- [ ] Ver donde irán estos focos
+- [ ] Tenemos cable
+
 
 ##  Selección de Materiales
 Muro: bulldogs (pendiente, el metraje de cuantos necesitamos)
@@ -72,14 +77,8 @@ Contactar con la empresa o persona encargada para poner los muros divisores.
 ## Instalación de Iluminación Exterior
 
 previamente:
-1. Comprar dos focos nuevos, pensados para exterior
-2. Ver donde irán estos focos
-3. Tenemos cable
-4. comprar Canaletas Legrand(para en el interior poner los cables)
-5. Conexión en paralelo
 6. Averiguar sobre electricidad para poder hacer la instalación
-7. Qué herramientas necestiamos para cumplir esta labor.
-8. Cortar canaletas según punto 2
+7. Conexión en paralelo
 
 Instalación
 

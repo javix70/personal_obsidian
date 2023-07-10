@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "301cca7752a86334",
+        "id": "2cba9fdd028abf39",
         "type": "tabs",
         "children": [
           {
-            "id": "b087384df677c922",
+            "id": "3b0a999a9011150b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md",
+                "file": "002_remodeling_ideas/Patio/Muros y techo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 264.5
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -95,22 +95,15 @@
       {
         "id": "693805e84790397d",
         "type": "tabs",
+        "dimension": 50.28409090909091,
         "children": [
-          {
-            "id": "9ba4ec13fde3d84d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "79859b6dc0444b12",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md",
+                "file": "002_remodeling_ideas/Patio/Muros y techo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md",
+                "file": "002_remodeling_ideas/Patio/Muros y techo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md"
+                "file": "002_remodeling_ideas/Patio/Muros y techo.md"
               }
             }
           },
@@ -153,13 +146,36 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "63ae186b1b5f326f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "39334f508164cb73",
+        "type": "tabs",
+        "dimension": 49.71590909090909,
+        "children": [
+          {
+            "id": "9ba4ec13fde3d84d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,31 +189,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b087384df677c922",
+  "active": "3b0a999a9011150b",
   "lastOpenFiles": [
-    "001_learning/TI/programing/diagrams/UML/attachments/Pasted image 20230709205419.png",
-    "001_learning/TI/programing/diagrams/UML/attachments/Pasted image 20230709205313.png",
-    "001_learning/TI/programing/diagrams/UML/attachments/Pasted image 20230709204556.png",
-    "001_learning/TI/programing/diagrams/UML/attachments/Pasted image 20230709204517.png",
-    "001_learning/TI/programing/diagrams/UML/attachments/Pasted image 20230709204158.png",
-    "001_learning/TI/programing/diagrams/UML/attachments",
-    "001_learning/TI/programing/diagrams/UML/01 modelos en donde se pueden usar.md",
-    "001_learning/TI/programing/diagrams/UML/00 index.md",
-    "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md",
     "Untitled.md",
     "Untitled 1.md",
-    "100_niufoods/01_daily_notes/2023-07-09.md",
-    "002_remodeling_ideas/Patio/Muros y techo.md",
     "002_remodeling_ideas/Patio/Parrila u Horno.md",
     "002_remodeling_ideas/Patio/Index.md",
+    "002_remodeling_ideas/Patio/Muros y techo.md",
+    "002_remodeling_ideas/lluvia.md",
     "002_remodeling_ideas/Patio",
+    "200_templates/daily_notes.md",
+    "+Daily Notes.md",
+    "Fecha inválida.md",
+    "100_niufoods/01_daily_notes/2023-07-09.md",
+    "001_learning/TI/programing/diagrams/UML/index.md",
+    "001_learning/TI/programing/diagrams/UML/Ejemplos de usos.md",
     "001_learning/books/taxonomy/taxonomy.md",
-    "001_learning/books/taxonomy",
-    "001_learning/TI/programing/pattern_design/index.md",
+    "003_portfolio/brainstorming.md",
     "001_learning/TI/programing/Infomación/primitive_data_types.md",
+    "100_niufoods/01_daily_notes/2023-07-07.md",
+    "001_learning/TI/programing/pattern_design/index.md",
     "001_learning/TI/programing/diagrams/Secuencia.md",
     "001_learning/TI/programing/diagrams/UML/modelo.md",
-    "001_learning/taxonomy/taxonomy.md",
     "100_niufoods/200_anexs/Pasted image 20230615111549.png",
     "001_learning/books/Mangas/bersek/Timeline.md",
     "001_learning/books/Mangas/bersek/Personajes.md",
@@ -206,7 +219,6 @@
     "001_learning/books",
     "100_niufoods/daily_notes/2023-07-07.md",
     "200_templates/weekly_notes.md",
-    "200_templates/daily_notes.md",
     "200_templates",
     "100_niufoods/200_anexs/Pasted image 20230630124124.png",
     "100_niufoods/200_anexs/Pasted image 20230615111139.png",
@@ -214,13 +226,17 @@
     "100_niufoods/06_team_agreements/prefix_commit.md",
     "100_niufoods/06_team_agreements/pending_conversations.md",
     "100_niufoods/06_team_agreements/linters.md",
-    "100_niufoods/06_team_agreements/how_to_review_pr.md",
-    "100_niufoods/06_team_agreements/how_to_create_a_content_card.md",
     "100_niufoods/06_team_agreements",
     "100_niufoods/04_pull_request",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154224.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154337.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154241.png",
+    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154033.png",
+    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707153837.png",
+    "100_niufoods/03_projects/pof/requests/attachments",
+    "100_niufoods/03_projects/pof/requests",
+    "100_niufoods/anexs/Pasted image 20230615111139.png",
+    "100_niufoods/anexs/Pasted image 20230615111549.png",
     "Untitled.canvas"
   ]
 }
