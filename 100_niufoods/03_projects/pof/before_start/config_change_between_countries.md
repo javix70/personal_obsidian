@@ -44,4 +44,5 @@ y para Chile
 > Rendition.all.update_all(tip_currency: 'CLP')
 
 
-## En caso de Cambio
+## En caso de cambio, revisar este pr
+[configuración de valores mexico valores / chile](https://bitbucket.org/nnodes/pof/pull-requests/129)
