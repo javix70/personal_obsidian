@@ -49,13 +49,13 @@ propina, no
 
 Todo truncado, excepto las propinas
 
-![[Pasted image 20230707154241.png]] ### **edit**
+![[Pasted image 20230707154241.png]] ### **Editar**
 
 y duplicar una orden..
 ![[Pasted image 20230707154337.png]]
-
 **Propina**, no hay que truncar
 
+---
 ### **Para impresiones impresiones **
 
 **app/services/printer_manager/thermal_utils/templates**
