@@ -96,6 +96,8 @@ day_count_sheet, y count_sheet
 El Gabriel me ayudó a configurar el projecto, por que no me acordaba de cómo cambiar entre paises.
 
 
+
+
 ---
 Checklist de tareas que hacer 
 
