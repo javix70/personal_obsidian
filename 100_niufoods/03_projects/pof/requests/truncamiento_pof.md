@@ -68,4 +68,7 @@ En teoria no debería cambiar nada. agregar TODO
 files.
 day_count_sheet, y count_sheet
 
+---
+# Cambiar entre 
 
+[configuración de valores mexico valores / chile](https://bitbucket.org/nnodes/pof/pull-requests/129)
