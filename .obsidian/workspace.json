@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md"
+                "file": "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md"
               }
             }
           },
@@ -186,14 +185,21 @@
   },
   "active": "a2011d377baa4c00",
   "lastOpenFiles": [
-    "100_niufoods/01_daily_notes/2023-07-10.md",
+    "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
+    "100_niufoods/03_projects/china_backend/before_start",
+    "100_niufoods/03_projects/pof/before_start/config_change_between_countries.md",
     "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
+    "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
+    "100_niufoods/03_projects/pof/urils_commands",
+    "100_niufoods/03_projects/pof/before_start/Untitled",
+    "100_niufoods/03_projects/pof/before_start",
+    "Untitled.md",
+    "100_niufoods/01_daily_notes/2023-07-10.md",
     "100_niufoods/01_daily_notes/2023-07-09.md",
     "200_templates/daily_notes.md",
     "100_niufoods/02_weekly_notes",
     "002_remodeling_ideas/Patio/Index.md",
     "100_niufoods/01_daily_notes/2023-07-05_Cambiar_nombre-metodos_pof.md",
-    "Untitled.md",
     "002_remodeling_ideas/Patio/Muros y techo.md",
     "Untitled 1.md",
     "002_remodeling_ideas/Patio/Parrila u Horno.md",
@@ -211,25 +217,17 @@
     "001_learning/TI/programing/diagrams/Secuencia.md",
     "001_learning/TI/programing/diagrams/UML/modelo.md",
     "100_niufoods/200_anexs/Pasted image 20230615111549.png",
-    "001_learning/books/Mangas/bersek/Timeline.md",
-    "001_learning/books/Mangas/bersek/Personajes.md",
     "001_learning/books/Mangas/bersek",
     "001_learning/books/Mangas",
     "001_learning/books",
-    "100_niufoods/daily_notes/2023-07-07.md",
-    "200_templates/weekly_notes.md",
     "200_templates",
     "100_niufoods/200_anexs/Pasted image 20230630124124.png",
     "100_niufoods/200_anexs/Pasted image 20230615111139.png",
-    "100_niufoods/200_anexs",
-    "100_niufoods/06_team_agreements",
-    "100_niufoods/04_pull_request",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154224.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154337.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154241.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154033.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707153837.png",
-    "100_niufoods/03_projects/pof/requests/attachments",
     "100_niufoods/anexs/Pasted image 20230615111139.png",
     "100_niufoods/anexs/Pasted image 20230615111549.png",
     "Untitled.canvas"
