@@ -1,3 +1,8 @@
+---
+created_at: <% tp.file.creation_date %>
+updated_at
+---
+
 tabla de contenido
 
 ## Requerimiento
@@ -12,24 +17,26 @@ Descubrir cúal es el objetivo del problema
 
 ## Información útil
 
+Antes de empezar
 
+Consideraciones (referencias)
 
+## Prs involucrados
 
+**Actual**:
 
-
-Antes de empezar + consideraciones (referencias)
--
-
-
-## prs involucrados
-
-## Vistas involucradas
-
+**Dependencias**:
 
 ---
 ## Avance
+
+Esta sección es una sección libre, en donde tienes que anotar cada cosa que sientas que sea relevante.
 
 
 
 ---
 ## Checklist de tareas que hacer 
+
+Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
+
+- [ ] push?
