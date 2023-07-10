@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "daily_notes",
-      "path": "200_templates/daily_notes.md"
-    },
-    {
       "basename": "requirement",
       "path": "200_templates/requirement.md"
+    },
+    {
+      "basename": "daily_notes",
+      "path": "200_templates/daily_notes.md"
     },
     {
       "basename": "weekly_notes",
