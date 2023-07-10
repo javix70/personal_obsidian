@@ -25,7 +25,8 @@ Extensible: podemos adicionar nuevos elementos
 Flexibilidad: Facilidad de uso
 Escalable: Puedo utilizarlo UML de los más chico a lo más complejo, en todos los niveles.
 
-## Modelos que lo soportan
+## [[01 modelos en donde se pueden usar | Modelos que lo soportan]]
+
 
 1. 4+1
 2. estatico

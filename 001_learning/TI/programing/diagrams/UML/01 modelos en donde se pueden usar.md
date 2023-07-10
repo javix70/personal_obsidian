@@ -1,5 +1,4 @@
 
-
 # Modelo de 4+1
 
 secciones'
@@ -46,7 +45,7 @@ la vista de casos de usos
 - Diagramas de casos de usos
 
 ---
-Otras formas de ver el sistema es a traves de modelos
+# Otras formas de ver el sistema es a traves de modelos
 
 **Estatico**
 	- caracterisiticas estructurturales del sistemas
