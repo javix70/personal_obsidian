@@ -7,22 +7,19 @@
 Cambiar el muro divisor y reemplazar el techo.
 Agregar iluminación artificial en el patio.
 
-- [ ] Cotizaciones de muros divisores, Minimo 3 cotizaciones 🛫 2023-07-10 
-
-
-
-- [ ] Averiguar que herramientas necestiamos para la instalación de un techo.📅 2023-07-16
+- [ ] Cotizaciones de muros divisores, Minimo 3 cotizaciones 
+- [ ] Averiguar que herramientas necestiamos para la instalación de un techo
 
 Dibujar en la pizarrá el diseño
-- [ ] Medidas del patio 🛫 2023-07-09
-- [ ] Elaboración del mono del diseño  🛫 2023-07-11 
+- [ ] Medidas del patio
+- [ ] Elaboración del mono del diseño 
 
 Respecto a la madera
-	- [ ] Que tipo de manera necesitamos, en qué formato vienen (medidas)
-	- [ ] Hacer calculos de cuantas maderas necesitamos
-	- [ ] cotizar madera
-	- [ ] que necesitamos para unir las maderas
-	- [ ] A qué distancias deberían ir las maderas.
+- [ ] Que tipo de manera necesitamos, en qué formato vienen (medidas)
+- [ ] Hacer calculos de cuantas maderas necesitamos
+- [ ] cotizar madera
+- [ ] que necesitamos para unir las maderas
+- [ ] A qué distancias deberían ir las maderas.
 Respecto al techo
 - [ ] Considerar la inclinación de por lo menos 1° para que el agua corra
 - [ ] Considerar que el techo irá por sobre el techo de la cocina, para eventualmente cambiar la altura de la cocina y el baño.

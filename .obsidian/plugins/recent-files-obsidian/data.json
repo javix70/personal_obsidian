@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "requirement",
-      "path": "200_templates/requirement.md"
-    },
-    {
-      "basename": "daily_notes",
-      "path": "200_templates/daily_notes.md"
-    },
-    {
-      "basename": "weekly_notes",
-      "path": "200_templates/weekly_notes.md"
-    },
-    {
       "basename": "2023-07-10",
       "path": "100_niufoods/01_daily_notes/2023-07-10.md"
     },
     {
-      "basename": "truncamiento_pof",
-      "path": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md"
+      "basename": "taxonomy",
+      "path": "001_learning/books/taxonomy/taxonomy.md"
+    },
+    {
+      "basename": "Index",
+      "path": "002_remodeling_ideas/Patio/Index.md"
+    },
+    {
+      "basename": "Muros y techo",
+      "path": "002_remodeling_ideas/Patio/Muros y techo.md"
+    },
+    {
+      "basename": "Parrila u Horno",
+      "path": "002_remodeling_ideas/Patio/Parrila u Horno.md"
     }
   ],
   "omittedPaths": [],

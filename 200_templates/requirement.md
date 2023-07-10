@@ -1,6 +1,7 @@
 ---
 created_at: <% tp.file.creation_date %>
-updated_at
+updated_at: <% tp.file.last_modified_date %>
+tags: [requirement]
 ---
 
 tabla de contenido
