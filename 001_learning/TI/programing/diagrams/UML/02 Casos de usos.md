@@ -16,7 +16,7 @@ nos indica que hay una relación entre los diferentes casos de usos, no olvidar
 
 Existen dos tipos de **depencias**
 
-**include**
+### **include**
 
 Existen dos casos de usos.
 ![[Pasted image 20230709204158.png]]
@@ -25,7 +25,35 @@ Existen dos casos de usos.
 - El invocador no puede finalizar su objetivo sin la ayuda del incluido
 - El invocador depende del incluido
 - el incluido siempre es a la derecha de invoador
+- La fecha va del invocador al incluido 
+### Ejemplo
+
+![[Pasted image 20230709204517.png]]
 
 
+### Extend
+
+La dependecia es opción, 
+Base **puede** finalizar sus objetivos sin la necesidad del extend
+algunos objetivos son con ayuda de la extends
+La flecha va de la extensión a la base 
 
 
+![[Pasted image 20230709204556.png]]
+
+
+## Generalización
+
+- Similar a la herencia pero con Casos de usos
+
+- Casos de uso Padre
+- Casos de usos hijos
+
+- los Hijos son más especificos.
+
+![[Pasted image 20230709205313.png]]
+
+
+Ejemplo 
+
+![[Pasted image 20230709205419.png]]
