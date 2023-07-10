@@ -7,5 +7,7 @@
   "periodic-notes",
   "recent-files-obsidian",
   "obsidian-tasks-plugin",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-memos"
 ]
