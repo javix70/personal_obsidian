@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c0a67d911be44b8",
+        "id": "3ebff48f8b6dc981",
         "type": "tabs",
         "children": [
           {
-            "id": "34c7d54a6de57582",
+            "id": "3b206c4dd3268081",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,16 +173,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "34c7d54a6de57582",
+  "active": "3b206c4dd3268081",
   "lastOpenFiles": [
+    "200_templates/daily_notes.md",
+    "200_templates/requirement.md",
+    "200_templates/weekly_notes.md",
     "100_niufoods/01_daily_notes/2023-07-10.md",
+    "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
     "100_niufoods/03_projects/pof/repetitive_tasks",
     "100_niufoods/03_projects/pof/documentation",
     "100_niufoods/03_projects/china_backend/requests/add_logger_to_Order_save_param_method.md",
-    "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
     "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
     "100_niufoods/03_projects/china_backend/requests/add_logger_transbank.md",
-    "200_templates/requirement.md",
     "100_niufoods/03_projects/pof/requests/chuteo_karla_pof.md",
     "100_niufoods/03_projects/pof/before_start/config_change_between_countries.md",
     "100_niufoods/01_daily_notes/2023-07-05_Cambiar_nombre-metodos_pof.md",
@@ -202,7 +196,6 @@
     "100_niufoods/03_projects/pof/before_start/Untitled",
     "100_niufoods/03_projects/pof/before_start",
     "100_niufoods/01_daily_notes/2023-07-09.md",
-    "200_templates/daily_notes.md",
     "100_niufoods/02_weekly_notes",
     "002_remodeling_ideas/Patio/Index.md",
     "002_remodeling_ideas/Patio/Muros y techo.md",
