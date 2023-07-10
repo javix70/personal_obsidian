@@ -21,6 +21,14 @@
       "path": "200_templates/daily_notes.md"
     },
     {
+      "basename": "index",
+      "path": "001_learning/TI/programing/diagrams/UML/index.md"
+    },
+    {
+      "basename": "Ejemplos de usos",
+      "path": "001_learning/TI/programing/diagrams/UML/Ejemplos de usos.md"
+    },
+    {
       "basename": "taxonomy",
       "path": "001_learning/books/taxonomy/taxonomy.md"
     },
