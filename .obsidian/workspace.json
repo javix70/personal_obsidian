@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "784aac3a64eb3ed9",
+        "id": "2c0a67d911be44b8",
         "type": "tabs",
         "children": [
           {
-            "id": "a2011d377baa4c00",
+            "id": "34c7d54a6de57582",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
+                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -87,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
+                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
+                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md"
+                "file": "100_niufoods/03_projects/pof/requests/truncamiento_pof.md"
               }
             }
           },
@@ -183,18 +183,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a2011d377baa4c00",
+  "active": "34c7d54a6de57582",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
-    "100_niufoods/03_projects/china_backend/before_start",
     "100_niufoods/03_projects/pof/before_start/config_change_between_countries.md",
     "100_niufoods/03_projects/pof/requests/truncamiento_pof.md",
+    "100_niufoods/01_daily_notes/2023-07-10.md",
+    "Untitled.md",
+    "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
+    "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
+    "100_niufoods/03_projects/china_backend/before_start",
     "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
     "100_niufoods/03_projects/pof/urils_commands",
     "100_niufoods/03_projects/pof/before_start/Untitled",
     "100_niufoods/03_projects/pof/before_start",
-    "Untitled.md",
-    "100_niufoods/01_daily_notes/2023-07-10.md",
     "100_niufoods/01_daily_notes/2023-07-09.md",
     "200_templates/daily_notes.md",
     "100_niufoods/02_weekly_notes",

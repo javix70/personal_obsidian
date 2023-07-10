@@ -1,12 +1,27 @@
+## Requerimiento
+
+Se requiere que la aplicación tenga truncamiento en los precios
+
+## Objetivo
+
+No tener problemas legales con cobrarle de más a los clientes. y se hará truncamiento de los centavos en méxico
+
+
+## Información útil
+
+Antes de empezar + consideraciones
+- [[config_change_between_countries |Cambiar entre paises]]: Provar que ambos paises funcionen
+- [[close_shift|Cerrar turno forzadamente]]: Opcional
+- 
 
 
 ChinaBackend está truncado. no la lógica, pero si revisar de ahí el cómo se hace el truncamiento
 
-en pof existe un mismo archivo de 
+En ChinaBackend y Pof existen los mismo archivos de truncamiento
 
-**Money Helper**
-**config_money_helper**
-extensión de **gettable**
+- Money Helper
+- config_money_helper
+- extensión de gettable
 
 prs
 [https://bitbucket.org/niusushi/china-backend/pull-requests/300](https://bitbucket.org/niusushi/china-backend/pull-requests/300)
@@ -69,7 +84,7 @@ files.
 day_count_sheet, y count_sheet
 
 ---
-# Cambiar entre 
+Avanzando más notas
 
-[configuración de valores mexico valores / chile](https://bitbucket.org/nnodes/pof/pull-requests/129)
+El Gabriel me ayudó a configurar el projecto, por que no me acordaba de cómo cambiar entre paises
 
