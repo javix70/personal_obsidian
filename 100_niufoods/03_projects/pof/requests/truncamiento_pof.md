@@ -27,7 +27,7 @@ prs
 [https://bitbucket.org/niusushi/china-backend/pull-requests/298](https://bitbucket.org/niusushi/china-backend/pull-requests/298)
 
 
-### Vistas
+## Vistas
 ![[Pasted image 20230707154033.png]]
 toda la vista truncada, igual se muestran los 2 decimales.
 
@@ -49,7 +49,7 @@ propina, no
 
 Todo truncado, excepto las propinas
 
-![[Pasted image 20230707154241.png]] **edit** 
+![[Pasted image 20230707154241.png]] ### **edit**
 
 y duplicar una orden..
 ![[Pasted image 20230707154337.png]]
@@ -66,13 +66,14 @@ si quiero imprimir, veo el string de utils_pre_receipt
 ### **Reportes**.
 En teoria no debería cambiar nada. agregar TODO
 
-### **Informe ZETA**
+### Informe ZETA
 files.
 day_count_sheet, y count_sheet
 
 ---
 ## Avance
 
+El Gabriel me ayudó a configurar el projecto, por que no me acordaba de cómo cambiar entre paises.
 
-El Gabriel me ayudó a configurar el projecto, por que no me acordaba de cómo cambiar entre paises
+
 
