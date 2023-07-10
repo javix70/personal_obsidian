@@ -7,20 +7,14 @@ tags:: [[+Daily Notes]]
 << [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] >>
 
 
-## Pendientes
-
-
-## Realizadas
-
-## Requerimientos entrantes hoy
+> [!warning]+ OverDue
 - [ ] 
 
-## Trabajando actualmente
+> [!todo]+ Today's Tasks
 - [ ] 
 
-## Tareas futuras
+> [!Warning]+ Unscheduled Tasks
 - [ ] 
 
-## Reuniones
-- [  - ] hola
- 
+> [!success]+ Tasks Done Today
+- [ ] 
