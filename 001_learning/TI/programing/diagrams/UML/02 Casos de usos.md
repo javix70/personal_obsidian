@@ -2,6 +2,8 @@
 ## Sirve para
 identificar los componentes principales que conforman al sistema
 Capturas de requerimientos fundamentales
+mostrar el qué muestra no el cómo
+
 
 Nos provee vista de alto nivel
 
@@ -55,5 +57,17 @@ La flecha va de la extensión a la base
 
 
 Ejemplo 
+Pueden suceder con los Casos de Usos y de los actores.
 
 ![[Pasted image 20230709205419.png]]
+
+
+# test WAVE
+
+corrborar si los casos de uso están bienn definidos, a traves de 4 preguntas
+
+W: Describe QUÉ hacer y no COMO hacerlo
+A: Está descrito desde la perspectiva del Actor: Que hace el actor con mi sistema, que objetivos
+V: incluye Valor para el actor?
+E: Flujo de eventos, un escenario completo
+
