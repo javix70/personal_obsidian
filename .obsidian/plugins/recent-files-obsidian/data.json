@@ -7,9 +7,13 @@
     {
       "basename": "daily_notes",
       "path": "200_templates/daily_notes.md"
+    },
+    {
+      "basename": "2023-07-10",
+      "path": "100_niufoods/01_daily_notes/2023-07-10.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null,
+  "maxLength": 5,
   "openType": "tab"
 }
