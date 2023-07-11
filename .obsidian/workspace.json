@@ -183,8 +183,9 @@
   },
   "active": "3b206c4dd3268081",
   "lastOpenFiles": [
-    "201_scripts/set_tags.js.md",
     "201_scripts/set_tags.js",
+    "201_scripts/my_script.js",
+    "201_scripts/set_tags.js.md",
     "200_templates/daily_notes.md",
     "201_scripts/AltCheckbox.js.md",
     "200_templates/requirement.md",
