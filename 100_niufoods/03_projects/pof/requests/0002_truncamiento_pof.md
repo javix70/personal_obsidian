@@ -96,24 +96,31 @@ Los prs del Gabriel no están actualizados, por lo que, le procedí a preguntar 
 
 13:09
 
-existe un modeo llamado blocking_discount.
+existe un modeo llamado BlockingDiscount.
 este se crea al momento de hacer una rendición, y asignarle un porcentaje de descuento
 
 El flujo padre viene de check controller
-def create_quick_sale
+`def create_quick_sale`
 
-llama al save_check. que si se logra guardar bien, crea un add_line_discount (metodo de check)
-y ejecuta un par de callback, uno de los callbacks de after_save, crea la rendición
+llama al `save_check`. que si se logra guardar bien, crea un `add_line_discount` (metodo de check)
+y ejecuta un par de callback, uno de los callbacks de `after_save, crea la rendición`
 
-add_line_discount, va a buscar un descuento y con el descuento(BlockingDiscount encontrado)
-ejecuta un metodo del descuento llamado add_discount recibiendo por parametro la rendición
-leugo crea una instancia intermedia entre descuentro y rendición de tipo polimorfica que almacena el valor, esta intermedia se llama LineDiscount
+`add_line_discount`, va a buscar un descuento y con el descuento(BlockingDiscount encontrado)
+ejecuta un metodo del descuento llamado `add_discount` recibiendo por parametro la rendición
+leugo crea una instancia intermedia entre descuentro y rendición de tipo polimorfica que almacena el valor, esta intermedia se llama `LineDiscount`
 
 dentro de LineDiscount, tenemos lso montos que serán descontado.
 
-el problema, es que inmediatamente despues, en otro callback, se llama un método llamado recalculate_discounts, after_update :recalculate_discounts
+el problema, es que inmediatamente despues, en otro callback, se llama un método llamado recalculate_discounts, `after_update :recalculate_discounts`
 
 y recalcula y se pasa por el forro lo anterior de add_discount.
+
+13:57
+
+LineDiscount posee un callback: `after_save :set_check_total_price`
+Que la intención es actualizar el total_price de check,
+
+llamando al meodo de `update_total_price` que a su vez llama `calculate_total_price`
 
 
 
