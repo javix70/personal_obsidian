@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200_templates/requirement.md",
+                "file": "100_niufoods/03_projects/pof/requests/0003_.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 383.5
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200_templates/requirement.md",
+                "file": "100_niufoods/03_projects/pof/requests/0003_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200_templates/requirement.md",
+                "file": "100_niufoods/03_projects/pof/requests/0003_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200_templates/requirement.md"
+                "file": "100_niufoods/03_projects/pof/requests/0003_.md"
               }
             }
           },
@@ -183,6 +182,9 @@
   },
   "active": "720a244723dc553d",
   "lastOpenFiles": [
+    "200_templates/requirement.md",
+    "100_niufoods/03_projects/pof/requests/0003_.md",
+    "100_niufoods/03_projects/pof/requests/0003_.md",
     "201_scripts/utils/get_current_folder.js",
     "201_scripts/utils/get_current_folder.ts",
     "201_scripts/utils",
@@ -195,7 +197,6 @@
     "100_niufoods/01_daily_notes/2023-07-11.md",
     "100_niufoods/03_projects/china_backend/requests/0003_.md",
     "100_niufoods/01_daily_notes/2023-07-10.md",
-    "200_templates/requirement.md",
     "100_niufoods/03_projects/china_backend/requests/0001_add_logger_to_Order_save_param_method.md",
     "100_niufoods/03_projects/china_backend/requests/0002_add_logger_transbank.md",
     "100_niufoods/03_projects/pof/requests/0001_chuteo_karla_pof.md",
@@ -218,10 +219,8 @@
     "002_remodeling_ideas/lluvia.md",
     "200_templates/weekly_notes.md",
     "100_niufoods/03_projects/pof/repetitive_tasks",
-    "100_niufoods/03_projects/pof/documentation",
     "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
     "100_niufoods/03_projects/pof/before_start/config_change_between_countries.md",
-    "100_niufoods/01_daily_notes/2023-07-05_Cambiar_nombre-metodos_pof.md",
     "100_niufoods/200_anexs/Pasted image 20230615111549.png",
     "100_niufoods/200_anexs/Pasted image 20230630124124.png",
     "100_niufoods/200_anexs/Pasted image 20230615111139.png",
