@@ -120,7 +120,11 @@ y recalcula y se pasa por el forro lo anterior de add_discount.
 LineDiscount posee un callback: `after_save :set_check_total_price`
 Que la intención es actualizar el total_price de check,
 
-llamando al meodo de `update_total_price` que a su vez llama `calculate_total_price`
+llamando al meodo de `update_total_price` que a su vez llama `calculate_total_price` para actualizar el line total_price de check.
+
+
+
+
 
 
 
