@@ -100,12 +100,17 @@ existe un modeo llamado blocking_discount.
 este se crea al momento de hacer una rendición, y asignarle un porcentaje de descuento
 
 El flujo padre viene de check controller
+def create_quick_sale
 
-antes de entrar hace un save_check. que si se logra guardar bien, crea un add_line_discount (metodo de check)
+llama al save_check. que si se logra guardar bien, crea un add_line_discount (metodo de check)
+y ejecuta un par de callback, uno de los callbacks de after_save, crea la rendición
 
-de check se crea la rendition
+add_line_discount, va a buscar un descuento y con el descuento(BlockingDiscount), 
+le crea una instancia intermedia de tipo polimorfica que almacena el valor, esta intermedia se llama LineDiscount
 
-de rendition 
+dentro de LineDiscount, tenemos lso montos que serán descontado.
+
+
 
 
 
