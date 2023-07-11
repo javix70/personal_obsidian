@@ -32,4 +32,4 @@ tengo que cambiar un StandardError a argument error
 ```
 
 
-undefined
+<% tp.user.new_prefix_requirements(tp)%>
