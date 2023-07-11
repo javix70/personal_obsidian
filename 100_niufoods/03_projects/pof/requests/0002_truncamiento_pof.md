@@ -94,6 +94,20 @@ hay calculos tanto de front cómo de back, hay una alta probabilidad de que esto
 12:13
 Los prs del Gabriel no están actualizados, por lo que, le procedí a preguntar y esperar la respuesta. esto lo necesito dado que necesito utilizar los métodos (modificados en el pr de cambiar los nombres de los metodos para que no tengan money) en calculos de descuentos del 40 y 50%
 
+13:09
+
+existe un modeo llamado blocking_discount.
+este se crea al momento de hacer una rendición, y asignarle un porcentaje de descuento
+
+El flujo padre viene de check controller
+
+antes de entrar hace un save_check. que si se logra guardar bien, crea un add_line_discount (metodo de check)
+
+de check se crea la rendition
+
+de rendition 
+
+
 
 ---
 Checklist de tareas que hacer 
