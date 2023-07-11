@@ -148,6 +148,10 @@ debe ser una regla de negocio.
 ![[Pasted image 20230711155626.png]]
 
 
+17:24
+Cómo útlimo, tengo que esperar que Gabriel Toro, actualice sus prs para inyectar el código ahí
+
+
 ---
 Checklist de tareas que hacer 
 
@@ -162,7 +166,7 @@ Para todos, habla de referente a montos
 - [x] monto medios de pago: no
 - [x] total cuenta: si
 - [x] total rendido: no
-- [ ] diferencia a pagar: si, TODO (yo creo que no, porque ya le hiciste el descuento en el total, sería doble truncamiento sale ganando por mucho el cliente)
+- [x] diferencia a pagar: si, TODO (yo creo que no, porque ya le hiciste el descuento en el total, sería doble truncamiento sale ganando por mucho el cliente)
 - [x] Vuelto, no.
 - [x] propina, no
 
