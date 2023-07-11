@@ -85,10 +85,15 @@ day_count_sheet, y count_sheet
 El Gabriel me ayudó a configurar el projecto, por que no me acordaba de cómo cambiar entre paises.
 
 
-12:04, Metodos se ejecutan demasiadas veces en el check.
+12:04
+Metodos se ejecutan demasiadas veces en el check.
 sin siquiera hacer lo que realmente tiene que hacer en un comienzo.
 
 hay calculos tanto de front cómo de back, hay una alta probabilidad de que esto no calcen con los valores calculados, por ejemplo, cuando uno hace una comanda, y luego la rinde, el 50 y 40% se vuelven a calcular pero ahora por el lado del back. y el la comanda se calculan por el lado de front, uno tiende a pensar que por modificar el precio del front debería estar ok, pero no.
+
+12:13
+Los prs del Gabriel no están actualizados, por lo que, le procedí a preguntar y esperar la respuesta. esto lo necesito dado que necesito utilizar los métodos (modificados en el pr de cambiar los nombres de los metodos para que no tengan money) en calculos de descuentos del 40 y 50%
+
 
 ---
 Checklist de tareas que hacer 
