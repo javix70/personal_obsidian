@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/add_logger_to_Order_save_param_method.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0002_add_logger_transbank.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 383.5
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/add_logger_to_Order_save_param_method.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0002_add_logger_transbank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/add_logger_to_Order_save_param_method.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0002_add_logger_transbank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/add_logger_to_Order_save_param_method.md"
+                "file": "100_niufoods/03_projects/china_backend/requests/0002_add_logger_transbank.md"
               }
             }
           },
@@ -185,15 +184,17 @@
   },
   "active": "3b206c4dd3268081",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/china_backend/requests/add_logger_transbank.md",
+    "100_niufoods/03_projects/china_backend/requests/0003_awa.md",
+    "100_niufoods/03_projects/china_backend/requests/0004_.md",
+    "100_niufoods/03_projects/china_backend/requests/0002_add_logger_transbank.md",
     "200_templates/requirement.md",
+    "100_niufoods/03_projects/china_backend/requests/0001_add_logger_to_Order_save_param_method.md",
     "201_scripts/new_prefix_requirements.js",
     "201_scripts/set_tags.js",
     "201_scripts/set_requirement.js",
     "201_scripts/z",
     "100_niufoods/03_projects/china_backend/requests/investigation.md",
     "100_niufoods/03_projects/china_backend/requests/e.md",
-    "100_niufoods/03_projects/china_backend/requests/add_logger_to_Order_save_param_method.md",
     "200_templates/daily_notes.md",
     "201_scripts/my_script.js",
     "201_scripts/set_tags.js.md",
@@ -219,7 +220,6 @@
     "100_niufoods/03_projects/pof/urils_commands",
     "100_niufoods/03_projects/pof/before_start/Untitled",
     "100_niufoods/01_daily_notes/2023-07-09.md",
-    "Untitled 1.md",
     "100_niufoods/200_anexs/Pasted image 20230615111549.png",
     "100_niufoods/200_anexs/Pasted image 20230630124124.png",
     "100_niufoods/200_anexs/Pasted image 20230615111139.png",

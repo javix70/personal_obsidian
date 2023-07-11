@@ -30,6 +30,3 @@ tengo que cambiar un StandardError a argument error
 
     end
 ```
-
-
-<% tp.user.new_prefix_requirements(tp)%>

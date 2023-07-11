@@ -5,7 +5,7 @@ project: <% tp.user.set_tags(tp) %>
 tags: [requirement]
 ---
 
-<% tp.file.rename(tp.date.now("YYYY-MM-DD") + " - " + "Nombre de tu archivo") %>
+<% tp.file.rename(tp.user.new_prefix_requirements(tp)) %>
 
 ## Requerimiento
 
