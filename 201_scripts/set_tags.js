@@ -1,11 +1,7 @@
-// module.exports = async function (tp) {
-//   let folderPath = tp.file.folder();
-//   let folders = folderPath.split("/");
-//   let projectFolder = folders[1]; 
-//   return projectFolder;
-// };
 
-// function set_tags(lvl_deep, tp) {
-//   let current_folder = tp.file.folder();
+function set_tags(tp) {
+  name_project = tp.config.active_file.parent.parent.name
+  return name_project
+}
 
-// }
+module.exports = set_tags;

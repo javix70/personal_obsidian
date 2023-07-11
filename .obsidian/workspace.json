@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200_templates/daily_notes.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/add_logger_to_Order_save_param_method.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200_templates/daily_notes.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/add_logger_to_Order_save_param_method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200_templates/daily_notes.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/add_logger_to_Order_save_param_method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200_templates/daily_notes.md"
+                "file": "100_niufoods/03_projects/china_backend/requests/add_logger_to_Order_save_param_method.md"
               }
             }
           },
@@ -167,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,12 +185,12 @@
   },
   "active": "3b206c4dd3268081",
   "lastOpenFiles": [
+    "200_templates/requirement.md",
+    "200_templates/daily_notes.md",
     "201_scripts/set_tags.js",
     "201_scripts/my_script.js",
     "201_scripts/set_tags.js.md",
-    "200_templates/daily_notes.md",
     "201_scripts/AltCheckbox.js.md",
-    "200_templates/requirement.md",
     "100_niufoods/03_projects/china_backend/requests/add_logger_to_Order_save_param_method.md",
     "100_niufoods/01_daily_notes/2023-07-10.md",
     "001_learning/books/taxonomy/taxonomy.md",
@@ -219,7 +221,6 @@
     "+Daily Notes.md",
     "Fecha inválida.md",
     "100_niufoods/200_anexs/Pasted image 20230615111549.png",
-    "001_learning/books/Mangas/bersek",
     "100_niufoods/200_anexs/Pasted image 20230630124124.png",
     "100_niufoods/200_anexs/Pasted image 20230615111139.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230707154224.png",
