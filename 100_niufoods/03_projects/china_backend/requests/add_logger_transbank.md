@@ -1,12 +1,4 @@
 
-1. [[#Requerimiento|Requerimiento]]
-1. [[#Objetivo|Objetivo]]
-1. [[#Información útil|Información útil]]
-1. [[#prs involucrados|prs involucrados]]
-1. [[#Vistas involucradas|Vistas involucradas]]
-1. [[#Avance|Avance]]
-
-
 ## Requerimiento
 
 Agregar logger en el endpoint de transbank

@@ -1,10 +1,3 @@
-1. [[#Requerimiento|Requerimiento]]
-1. [[#Objetivo|Objetivo]]
-1. [[#Información útil|Información útil]]
-1. [[#Antes de empezar + consideraciones (referencias)|Antes de empezar + consideraciones (referencias)]]
-1. [[#prs involucrados|prs involucrados]]
-1. [[#Avance|Avance]]
-
 ## Requerimiento
 
 Se necesita agregar mensajes de errores más claros, dado que este metodo tiene errores y es dificil seguir el tracking

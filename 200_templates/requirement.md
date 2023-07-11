@@ -1,10 +1,11 @@
 ---
-created_at: <% tp.file.creation_date %>
-updated_at: <% tp.file.last_modified_date %>
-tags: [requirement ]
+created_at: <% tp.file.creation_date() %>
+updated_at: <% tp.file.last_modified_date() %>
+project: <% tp.user.set_tags(tp) %>
+tags: [requirement]
 ---
 
-tabla de contenido
+<% tp.file.rename(tp.date.now("YYYY-MM-DD") + " - " + "Nombre de tu archivo") %>
 
 ## Requerimiento
 
