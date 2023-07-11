@@ -1,5 +1,5 @@
 ---
-tags: [china_backend]
+tags: requirement china_backend
 ---
 ## Requerimiento
 

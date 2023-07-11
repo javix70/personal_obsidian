@@ -1,8 +1,9 @@
 ---
 created_at: <% tp.file.creation_date() %>
 updated_at: <% tp.file.last_modified_date() %>
-project: <% tp.user.set_tags(tp) %>
-tags: [requirement]
+tags: 
+	- requirement
+	- <% tp.user.set_tags(tp) %>
 ---
 
 <% tp.file.rename(tp.user.new_prefix_requirements(tp)) %>

@@ -1,6 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Cybertron",
-  "baseFontSize": 22,
-  "theme": "obsidian"
+  "baseFontSize": 30,
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }

@@ -1,7 +1,6 @@
 [
   "file-explorer",
   "global-search",
-  "switcher",
   "graph",
   "backlink",
   "canvas",
@@ -16,6 +15,5 @@
   "markdown-importer",
   "outline",
   "word-count",
-  "slides",
   "file-recovery"
 ]

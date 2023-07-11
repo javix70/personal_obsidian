@@ -1,5 +1,5 @@
 ---
-tags: [pof]
+tags: pof requirement
 ---
 
 ## Requerimiento
