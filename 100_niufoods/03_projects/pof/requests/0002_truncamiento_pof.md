@@ -140,7 +140,10 @@ al momento de pagar, no puede pagar lo justo, sale bloqueado
 
 15:56
 
-Cuando hago un retiro, los montos no calzan
+Cuando hago un retiro, los montos no calzan, esto no tiene na que ver conmigo. es un posible #rare_operation
+
+El envio se le suma despues de hacer los calculos de descuento de los porcentajes.
+debe ser una regla de negocio.
 
 ![[Pasted image 20230711155626.png]]
 
