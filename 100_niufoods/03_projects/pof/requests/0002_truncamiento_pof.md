@@ -138,6 +138,11 @@ al momento de pagar, no puede pagar lo justo, sale bloqueado
 ![[Pasted image 20230711154511.png]]
 
 
+15:56
+
+Cuando hago un retiro, los montos no calzan
+
+![[Pasted image 20230711155626.png]]
 
 
 ---
