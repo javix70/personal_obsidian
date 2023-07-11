@@ -131,11 +131,11 @@ ejemp:
 pero si ahora lo sacamos al reves
 `88*0.6=52.8` truncado es `52`
 
+Al final, se opta por truncar el calculate_total_price, dado que el descuento tiene que ser el completo
 
 
-
-
-
+al momento de pagar, no puede pagar lo justo, sale bloqueado
+![[Pasted image 20230711154511.png]]
 
 
 
@@ -146,16 +146,16 @@ Checklist de tareas que hacer
 Para todos, habla de referente a montos
 
 [[#Venta rapida]]
-- [ ] Menú lateral izquirdo
-- [ ] Cada item del menú central
-- [ ] Sección de calculos y totales
+- [x] Menú lateral izquirdo
+- [x] Cada item del menú central
+- [x] Sección de calculos y totales
 
 [[#Rendiciones]]
-- [ ] monto medios de pago: no
-- [ ] total cuenta: si
-- [ ] total rendido: no
+- [x] monto medios de pago: no
+- [x] total cuenta: si
+- [x] total rendido: no
 - [ ] diferencia a pagar: si, TODO
-- [ ] Vuelto, no.
-- [ ] propina, no
+- [x] Vuelto, no.
+- [x] propina, no
 
 [[#Index de ventas]]
