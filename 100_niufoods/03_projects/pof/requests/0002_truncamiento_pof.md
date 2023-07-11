@@ -123,7 +123,13 @@ Que la intención es actualizar el total_price de check,
 llamando al meodo de `update_total_price` que a su vez llama `calculate_total_price` para actualizar el line total_price de check.
 
 
-Me estoy dando cuenta que hay calcul
+Me estoy dando cuenta que hay calculos que lo hacen directamente con el %, y otros con el 1 -%, para los calculos no dan igual dado que si uno trunca, los resultados difieren.
+
+ejemp: 
+`88*0.4=35.2`  truncado es `35`
+`88-35=53`
+pero si ahora lo sacamos al reves
+`88*0.6=52.8` truncado es `52`
 
 
 
