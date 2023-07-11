@@ -1,5 +1,8 @@
+import { miFuncion } from './utils/get_current_folder.js';
+
 function new_prefix_requirements(tp){
-  var fs = require('fs');
+  const getCurrentFolder = require('./get_current_folder.js');
+  
 
   const filePath = tp.file.path();
   const lastSlashIndex = filePath.lastIndexOf('/');
