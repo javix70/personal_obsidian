@@ -151,6 +151,8 @@ debe ser una regla de negocio.
 17:24
 Cómo útlimo, tengo que esperar que Gabriel Toro, actualice sus prs para inyectar el código ahí
 
+esta guardado en un stash mientras
+
 
 ---
 Checklist de tareas que hacer 
@@ -171,3 +173,4 @@ Para todos, habla de referente a montos
 - [x] propina, no
 
 [[#Index de ventas]]
+- [x] 
