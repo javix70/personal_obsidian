@@ -154,7 +154,7 @@ Para todos, habla de referente a montos
 - [x] monto medios de pago: no
 - [x] total cuenta: si
 - [x] total rendido: no
-- [ ] diferencia a pagar: si, TODO
+- [ ] diferencia a pagar: si, TODO (yo creo que no, porque ya le hiciste el descuento en el total, sería doble truncamiento sale ganando por mucho el cliente)
 - [x] Vuelto, no.
 - [x] propina, no
 
