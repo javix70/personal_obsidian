@@ -123,6 +123,7 @@ Que la intención es actualizar el total_price de check,
 llamando al meodo de `update_total_price` que a su vez llama `calculate_total_price` para actualizar el line total_price de check.
 
 
+Me estoy dando cuenta que hay calcul
 
 
 
