@@ -87,6 +87,7 @@ El Gabriel me ayudó a configurar el projecto, por que no me acordaba de cómo c
 
 
 
+
 ---
 Checklist de tareas que hacer 
 

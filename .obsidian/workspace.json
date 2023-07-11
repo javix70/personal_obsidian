@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b206c4dd3268081",
+            "id": "edaa1b7722a57147",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200_templates/requirement.md",
+                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pof",
+                "query": "tag:#tp.user.set_tags(tp)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1a8778cd53dc2a2f",
@@ -87,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200_templates/requirement.md",
+                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200_templates/requirement.md",
+                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200_templates/requirement.md"
+                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
               }
             }
           },
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +181,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3b206c4dd3268081",
+  "active": "edaa1b7722a57147",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/china_backend/requests/0001_add_logger_to_Order_save_param_method.md",
+    "100_niufoods/01_daily_notes/2023-07-11.md",
+    "100_niufoods/01_daily_notes/2023-07-10.md",
+    "200_templates/daily_notes.md",
     "200_templates/requirement.md",
+    "100_niufoods/03_projects/china_backend/requests/0001_add_logger_to_Order_save_param_method.md",
     "100_niufoods/03_projects/china_backend/requests/0002_add_logger_transbank.md",
     "100_niufoods/03_projects/pof/requests/0001_chuteo_karla_pof.md",
     "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
@@ -191,8 +195,6 @@
     "002_remodeling_ideas/Patio/Parrila u Horno.md",
     "002_remodeling_ideas/Patio/Index.md",
     "003_portfolio/brainstorming.md",
-    "200_templates/daily_notes.md",
-    "100_niufoods/01_daily_notes/2023-07-10.md",
     "100_niufoods/03_projects/china_backend/requests/0003_awa.md",
     "100_niufoods/03_projects/china_backend/requests/0004_.md",
     "201_scripts/new_prefix_requirements.js",
@@ -215,7 +217,6 @@
     "Untitled.md",
     "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
     "100_niufoods/03_projects/china_backend/before_start",
-    "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
     "100_niufoods/03_projects/pof/urils_commands",
     "100_niufoods/03_projects/pof/before_start/Untitled",
     "100_niufoods/200_anexs/Pasted image 20230615111549.png",
