@@ -105,10 +105,17 @@ def create_quick_sale
 llama al save_check. que si se logra guardar bien, crea un add_line_discount (metodo de check)
 y ejecuta un par de callback, uno de los callbacks de after_save, crea la rendición
 
-add_line_discount, va a buscar un descuento y con el descuento(BlockingDiscount), 
-le crea una instancia intermedia de tipo polimorfica que almacena el valor, esta intermedia se llama LineDiscount
+add_line_discount, va a buscar un descuento y con el descuento(BlockingDiscount encontrado)
+ejecuta un metodo del descuento llamado add_discount recibiendo por parametro la rendición
+leugo crea una instancia intermedia entre descuentro y rendición de tipo polimorfica que almacena el valor, esta intermedia se llama LineDiscount
 
 dentro de LineDiscount, tenemos lso montos que serán descontado.
+
+el problema, es que inmediatamente despues, en otro callback, se llama un método llamado recalculate_discounts, after_update :recalculate_discounts
+
+y recalcula y se pasa por el forro lo anterior de add_discount.
+
+
 
 
 
