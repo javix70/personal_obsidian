@@ -1,17 +1,6 @@
-1. [[#Requerimiento|Requerimiento]]
-1. [[#Objetivo|Objetivo]]
-1. [[#Información útil|Información útil]]
-1. [[#Vistas involucradas|Vistas involucradas]]
-	1. [[#Vistas involucradas#Venta rapida|Venta rapida]]
-	1. [[#Vistas involucradas#Rendiciones|Rendiciones]]
-	1. [[#Vistas involucradas#Index de ventas|Index de ventas]]
-	1. [[#Vistas involucradas#Edit de venta rápida|Edit de venta rápida]]
-	1. [[#Vistas involucradas#Cierre de caja|Cierre de caja]]
-1. [[#Para impresiones|Para impresiones]]
-	1. [[#Para impresiones#Reportes.|Reportes.]]
-	1. [[#Para impresiones#Informe ZETA|Informe ZETA]]
-1. [[#Avance|Avance]]
-
+---
+tags: [pof]
+---
 
 ## Requerimiento
 
