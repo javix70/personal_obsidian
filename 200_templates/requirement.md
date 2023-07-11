@@ -43,5 +43,3 @@ Esta sección es una sección libre, en donde tienes que anotar cada cosa que si
 Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
 - [ ] push?
-
-<% tp.user.reorganize_checkboxes(tp) %>
