@@ -163,7 +163,10 @@ esta guardado en un stash mientras
 
 2023-07-12 15:19
 
-Gabo me está ayudando a ver lo de las impresiones <3
+Gabo me está ayudando a ver lo de las impresiones
+
+
+
 
 
 ---
