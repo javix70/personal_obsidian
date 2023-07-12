@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0002_truncamiento_pof",
+      "path": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
+    },
+    {
       "basename": "2023-07-12",
       "path": "100_niufoods/01_daily_notes/2023-07-12.md"
     },
@@ -9,16 +13,12 @@
       "path": "100_niufoods/01_daily_notes/2023-07-11.md"
     },
     {
+      "basename": "2023-07-10",
+      "path": "100_niufoods/01_daily_notes/2023-07-10.md"
+    },
+    {
       "basename": "requirement",
       "path": "200_templates/requirement.md"
-    },
-    {
-      "basename": "daily_notes",
-      "path": "200_templates/daily_notes.md"
-    },
-    {
-      "basename": "0002_truncamiento_pof",
-      "path": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
     }
   ],
   "omittedPaths": [],
