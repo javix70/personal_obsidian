@@ -6,7 +6,12 @@ function reorganize(tp){
   const filesIntoFolder = fs.readdirSync(currentFolderPath)
   
   const currentFileName = tp.config.active_file.basename
-  const nameToDate = new Date(currentFileName)
+  
+  let dateObjects = filesIntoFolder.map(filename => new Date(filename.split('_')[0]));
+  debugger
+  dateObjects = dateObjects.filter(date => date.toISOString().split('T')[0] !== currentFileName);
+  dateObjects.sort((a, b) => b - a);
+  let highestDate = dateObjects[0];
 
   // TODO: pensar que hacer cuando hay dias faltantes entremedio
   debugger
