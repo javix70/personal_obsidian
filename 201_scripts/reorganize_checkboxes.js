@@ -6,14 +6,17 @@ function reorganize(tp){
   const filesIntoFolder = fs.readdirSync(currentFolderPath)
   
   const currentFileName = tp.config.active_file.basename
-  const nameToDate = new Date(currentFileName);
-  let previousNameToDate = new Date(nameToDate).setDate(nameToDate.getDate() - 1)
+  const nameToDate = new Date(currentFileName)
+
+  // TODO: pensar que hacer cuando hay dias faltantes entremedio
   debugger
-  toString(previousNameToDate)
+  const previousDate = new Date(nameToDate.getTime());
+  previous.setDate(date.getDate() - 1);
+
   debugger
   const previousFileName = filesIntoFolder.find(filename => {
     const match = filename.match(/^(\d+)_/)
-    return match ? +match[1] === previousFileNumber : false
+    return match ? +match[1] === previousDate : false
   });
 
   const previousFile = tp.file.find_tfile(previousFileName)
