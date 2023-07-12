@@ -7,14 +7,14 @@ function reorganize(tp){
   
   const currentFileName = tp.config.active_file.basename
   
-  let dateObjects = filesIntoFolder.map(filename => new Date(filename.split('_')[0]));
   debugger
+  let dateObjects = filesIntoFolder.map(filename => new Date((filename.replace('.md', '') + 'T00:00:00').split('_')[0]));
   dateObjects = dateObjects.filter(date => date.toISOString().split('T')[0] !== currentFileName);
+  debugger
   dateObjects.sort((a, b) => b - a);
   let highestDate = dateObjects[0];
 
   // TODO: pensar que hacer cuando hay dias faltantes entremedio
-  debugger
   const previousDate = new Date(nameToDate.getTime());
   previous.setDate(date.getDate() - 1);
 
