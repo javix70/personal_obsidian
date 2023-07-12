@@ -197,3 +197,5 @@ Para todos, habla de referente a montos
 [[#VIsta cash Delivery]]
 - [x] Modal con detalle de cobro
 
+
+
