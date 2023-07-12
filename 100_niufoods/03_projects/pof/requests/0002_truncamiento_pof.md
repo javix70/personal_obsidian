@@ -63,14 +63,14 @@ y duplicar una orden..
 ### Cierre de caja
 ![[Pasted image 20230707154337.png]]
 **Propina**, no hay que truncar
-#nota
-Por alguna razón, se está truncando. porqué? no lo sé.
+
 
 ## VIsta cash Delivery
 
 ![[Pasted image 20230712120300.png]]
 
-
+#nota
+Por alguna razón, se está truncando. porqué? no lo sé.
 
 ---
 ## Para impresiones
@@ -163,7 +163,7 @@ esta guardado en un stash mientras
 
 
 ---
-Checklist de tareas que hacer 
+## Checklist de tareas que hacer 
 
 Para todos, habla de referente a montos
 
@@ -184,15 +184,16 @@ Para todos, habla de referente a montos
 - [x] SI
 
 [[#Edit de venta rápida]]
-- [ ] Calculos de totales
-- [ ] Corroborar los productos
-- [ ] Corroborar Sidebar izquiera
+- [x] Calculos de totales
+- [x] Corroborar los productos
+- [x] Corroborar Sidebar izquiera
 
 **Duplicar orden**
-- [ ]  Tenga los valores truncados 
+- [x]  Tenga los valores truncados 
 
 [[#Cierre de caja]]
-- [ ] corroborar
+- [x] corroborar
 
-
+[[#VIsta cash Delivery]]
+- [x] Modal con detalle de cobro
 
