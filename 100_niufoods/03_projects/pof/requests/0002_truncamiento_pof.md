@@ -63,6 +63,14 @@ y duplicar una orden..
 ### Cierre de caja
 ![[Pasted image 20230707154337.png]]
 **Propina**, no hay que truncar
+#nota
+Por alguna razón, se está truncando. porqué? no lo sé.
+
+## VIsta cash Delivery
+
+![[Pasted image 20230712120300.png]]
+
+
 
 ---
 ## Para impresiones
@@ -173,4 +181,18 @@ Para todos, habla de referente a montos
 - [x] propina, no
 
 [[#Index de ventas]]
-- [x] 
+- [x] SI
+
+[[#Edit de venta rápida]]
+- [ ] Calculos de totales
+- [ ] Corroborar los productos
+- [ ] Corroborar Sidebar izquiera
+
+**Duplicar orden**
+- [ ]  Tenga los valores truncados 
+
+[[#Cierre de caja]]
+- [ ] corroborar
+
+
+
