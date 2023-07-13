@@ -205,3 +205,51 @@ Para todos, habla de referente a montos
 - [ ] BOleta fiscal. Para el SII
 - [ ] Boleta comun y silvestre del cliente (copia)
 - [ ] BOleta de cuadratura de caja
+
+**Informe z**
+
+Parte en 
+
+app/controllers/admin/printers_controller.rb
+Admin::PrintersController.close_day
+
+```ruby
+ReceiptManager::Receipt.close_day(registers: Register.all, service_day: sd)
+```
+
+app/services/receipt_manager/receipt.rb
+```ruby
+class ReceiptManager::Receipt
+	def self.close_day(options = {})
+		receipt_klass.close_day(options) # call method in the next service
+	end
+	# ... other methods
+	def self.receipt_klass
+	      case ENV['RECEIPT_TYPE']
+	      when 'fiscal'
+	        PrinterManager::Fiscal
+	      when 'libre_dte'
+	        ElectronicBilling::Receipt 
+	      end
+```
+
+app/services/electronic_billing/receipt.rb
+```ruby
+class ElectronicBilling::Receipt
+	 def self.close_day(options = {})
+      options[:service_day].register_shifts.flat_map(&:register).uniq.each do |register|
+        PrinterManager::Thermal.print(action: :day_count_sheet,
+                                      data:   { service_day: options[:service_day],
+                                                register:    register })
+      end
+    end
+```
+
+app/services/printer_manager/thermal.rb
+```ruby
+class PrinterManager::Thermal
+	def self.print(args = {})
+	      PrinterManager::ThermalUtils::Print.new.perform(args)
+	    end
+ 
+```
