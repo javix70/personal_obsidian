@@ -65,7 +65,7 @@ y duplicar una orden..
 **Propina**, no hay que truncar
 
 
-## VIsta cash Delivery
+### VIsta cash Delivery
 
 ![[Pasted image 20230712120300.png]]
 
@@ -163,8 +163,6 @@ esta guardado en un stash mientras
 
 2023-07-12 15:19
 
-Gabo me está ayudando a ver lo de las impresiones
-
 
 
 
@@ -204,5 +202,6 @@ Para todos, habla de referente a montos
 [[#VIsta cash Delivery]]
 - [x] Modal con detalle de cobro
 
-
-
+BOleta fiscal. Para el SII
+#Boleta comun y silvestre del cliente (copia)
+#BOleta de cuadratura de caja
