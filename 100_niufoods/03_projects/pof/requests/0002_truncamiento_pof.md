@@ -253,3 +253,19 @@ class PrinterManager::Thermal
 	    end
  
 ```
+
+app/services/printer_manager/thermal_utils/print.rb
+
+para finalmente llegar a
+
+app/services/printer_manager/thermal_utils/templates/day_count_sheet.rb
+
+
+extra:
+helper utilizado
+
+app/services/printer_manager/thermal_utils/templates/helpers.rb
+
+Me levantó la duda, la verdad los servicios de printer no deberían truncar, sólo mostrar la info formateada. no tiene sentido agregar lógica de truncamiento en algo que solo sirve para imprimir. 
+
+Una vez hecho los calculos, deberian mostrarse los valores que corresponden.
