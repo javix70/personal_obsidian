@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+                "file": "100_niufoods/03_projects/pof/requests/0001_chuteo_karla_pof.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Boleta",
+                "query": "tag:#china_backend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1a8778cd53dc2a2f",
@@ -86,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5124969482422
+    "width": 240.5124969482422
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+                "file": "100_niufoods/03_projects/pof/requests/0001_chuteo_karla_pof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+                "file": "100_niufoods/03_projects/pof/requests/0001_chuteo_karla_pof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
+                "file": "100_niufoods/03_projects/pof/requests/0001_chuteo_karla_pof.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "39334f508164cb73",
@@ -181,8 +180,8 @@
   },
   "active": "a6675be7b885f803",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
     "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+    "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
     "003_portfolio/brainstorming.md",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230712120300.png",
     "002_remodeling_ideas/lluvia.md",

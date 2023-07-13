@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0001_chuteo_karla_pof",
+      "path": "100_niufoods/03_projects/pof/requests/0001_chuteo_karla_pof.md"
+    },
+    {
       "basename": "0002_truncamiento_pof",
       "path": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "lluvia",
       "path": "002_remodeling_ideas/lluvia.md"
-    },
-    {
-      "basename": "Muros y techo",
-      "path": "002_remodeling_ideas/Patio/Muros y techo.md"
     }
   ],
   "omittedPaths": [],
