@@ -202,6 +202,6 @@ Para todos, habla de referente a montos
 [[#VIsta cash Delivery]]
 - [x] Modal con detalle de cobro
 
-BOleta fiscal. Para el SII
-#Boleta comun y silvestre del cliente (copia)
-#BOleta de cuadratura de caja
+- [ ] BOleta fiscal. Para el SII
+- [ ] Boleta comun y silvestre del cliente (copia)
+- [ ] BOleta de cuadratura de caja
