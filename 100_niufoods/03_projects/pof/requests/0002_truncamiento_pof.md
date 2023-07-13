@@ -268,4 +268,4 @@ app/services/printer_manager/thermal_utils/templates/helpers.rb
 
 Me levantó la duda, la verdad los servicios de printer no deberían truncar, sólo mostrar la info formateada. no tiene sentido agregar lógica de truncamiento en algo que solo sirve para imprimir. 
 
-Una vez hecho los calculos, deberian mostrarse los valores que corresponden.
+Una vez hecho los calculos, deberian mostrarse los valores que corresponden. supuestamente ya debererian estár truncados en la base de datos por lo que, la impresión no debería de mostrar otra cosa que no sea lectura de datos. sino tendremos inconsistencia entre los datos de la base de datos y los datos mostrados. si salen centavos será porque algo estamos haciendo algo mal de antes.
