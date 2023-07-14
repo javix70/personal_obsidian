@@ -47,7 +47,8 @@ ENV. Truncated_amount true o false...
 monto medios de pago: no
 total cuenta: si
 total rendido: no
-diferencia a pagar: si, TODO
+diferencia a pagar: si,  
+
 Vuelto, no.
 propina, no
 
@@ -70,7 +71,7 @@ y duplicar una orden..
 ![[Pasted image 20230712120300.png]]
 
 #nota
-Por alguna razón, se está truncando. porqué? no lo sé.
+Por alguna razón, se está truncando la propina. porqué? no lo sé.
 
 ---
 ## Para impresiones
