@@ -6,7 +6,7 @@ mostrar el qué muestra no el cómo
 
 Nos provee vista de alto nivel
 
-## Actor: 
+## **Actor**: 
 aquel que interactura con el sistema para poder hacer algo con el sistema,
 Puede ser una persona o un nuevo sistema(ROL)
 
@@ -18,8 +18,6 @@ nos indica que hay una relación entre los diferentes casos de usos, no olvidar
 Existen dos tipos de **depencias**
 
 ### **include**
-
-Existen dos casos de usos.
 ![[Pasted image 20230709204158.png]]
 
 
