@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/06_team_agreements/function_params_named.md",
+                "file": "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/06_team_agreements/function_params_named.md",
+                "file": "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/06_team_agreements/function_params_named.md",
+                "file": "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/06_team_agreements/function_params_named.md"
+                "file": "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "a6675be7b885f803",
   "lastOpenFiles": [
-    "100_niufoods/06_team_agreements/documentation.md",
+    "001_learning/TI/programing/diagrams/UML/01 modelos en donde se pueden usar.md",
+    "001_learning/TI/programing/diagrams/UML/00 index.md",
     "100_niufoods/06_team_agreements/function_params_named.md",
+    "100_niufoods/06_team_agreements/documentation.md",
     "100_niufoods/06_team_agreements/how_to_create_a_content_card.md",
     "100_niufoods/06_team_agreements/how_to_review_pr.md",
     "100_niufoods/06_team_agreements/linters.md",
@@ -206,7 +208,6 @@
     "200_templates/daily_notes.md",
     "100_niufoods/03_projects/pof/requests/0004_.md",
     "201_scripts/utils/current_folder_path.js",
-    "100_niufoods/03_projects/pof/requests/0005_.md",
     "201_scripts/utils/get_current_folder.js",
     "201_scripts/utils/get_current_folder.ts",
     "201_scripts/utils",
@@ -214,7 +215,6 @@
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230711155626.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230711155616.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230711154511.png",
-    "100_niufoods/03_projects/china_backend/requests/0003_.md",
     "201_scripts/new_prefix_requirements.js",
     "201_scripts/set_tags.js",
     "201_scripts/set_requirement.js",

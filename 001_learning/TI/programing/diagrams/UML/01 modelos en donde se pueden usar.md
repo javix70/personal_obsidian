@@ -10,7 +10,7 @@ Vista de desarollo
 +1 
 la vista de casos de usos
 
-## Vista lógica
+**Vista lógica**
 
 - Muestra las partes del sistema y sus interacciones
 - Enfasis en clases y objetos
@@ -56,6 +56,6 @@ la vista de casos de usos
  - caracteriticas de comportamiento ante los eventos externos
  - La parte de la lógica y comportamiento
  - Diagrama, secuencia, 
-**Implementeación:**
+**Implementación:**
 	 - Organizar los diferentes componente que tenemos para la implementación del sistema
 	 - Diagrama de componentes, Implementación

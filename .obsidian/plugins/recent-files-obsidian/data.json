@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "02 Casos de usos",
+      "path": "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md"
+    },
+    {
+      "basename": "01 modelos en donde se pueden usar",
+      "path": "001_learning/TI/programing/diagrams/UML/01 modelos en donde se pueden usar.md"
+    },
+    {
+      "basename": "00 index",
+      "path": "001_learning/TI/programing/diagrams/UML/00 index.md"
+    },
+    {
       "basename": "function_params_named",
       "path": "100_niufoods/06_team_agreements/function_params_named.md"
     },
     {
       "basename": "documentation",
       "path": "100_niufoods/06_team_agreements/documentation.md"
-    },
-    {
-      "basename": "how_to_create_a_content_card",
-      "path": "100_niufoods/06_team_agreements/how_to_create_a_content_card.md"
-    },
-    {
-      "basename": "how_to_review_pr",
-      "path": "100_niufoods/06_team_agreements/how_to_review_pr.md"
-    },
-    {
-      "basename": "linters",
-      "path": "100_niufoods/06_team_agreements/linters.md"
     }
   ],
   "omittedPaths": [],

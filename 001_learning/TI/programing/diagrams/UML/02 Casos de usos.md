@@ -4,7 +4,6 @@ identificar los componentes principales que conforman al sistema
 Capturas de requerimientos fundamentales
 mostrar el qué muestra no el cómo
 
-
 Nos provee vista de alto nivel
 
 ## Actor: 
