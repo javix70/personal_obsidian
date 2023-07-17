@@ -8,15 +8,13 @@ updated_at: <% tp.file.last_modified_date() %>
 
 > [!warning]+ OverDue
 
-
 - [ ] 
 
 > [!todo]+ Today's Tasks
 
-- [ ] [[0002_truncamiento_pof|Truncamiento (pof)]]
+- [ ]
 
 > [!Warning]+ Unscheduled Tasks
-
 
 - [ ] 
 

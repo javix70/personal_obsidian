@@ -43,9 +43,7 @@ Referencia hacia el daily note que se trabajó antes de crear esta plantilla
 ---
 ## Avance
 
-Esta sección es una sección libre, en donde tienes que anotar cada cosa que sientas que sea relevante.
-
-
+Nada. dado que el avance se fue haciendo incorrectamente en la daily notes
 
 ---
 ## Checklist de tareas que hacer 

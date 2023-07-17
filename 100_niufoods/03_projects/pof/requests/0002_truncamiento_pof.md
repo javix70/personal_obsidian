@@ -202,73 +202,14 @@ Para todos, habla de referente a montos
 [[#Cierre de caja]]
 - [x] corroborar
 
-[[#VIsta cash Delivery]]
-- [x] Modal con detalle de cobro
 
-- [ ] BOleta fiscal. Para el SII
-- [ ] Boleta comun y silvestre del cliente (copia)
-- [ ] BOleta de cuadratura de caja
+## Solución
 
-**Informe z**
+Se hace el truncamiento de los valores price y extra price del modelo PriceList,
+esto se hace a traves de la sobreescritura a traves de los metodos con el mismo nombre que el attributo, luego se llama al super y hace la magia del truncado.
 
-Parte en 
+Porqué ahí?
 
-app/controllers/admin/printers_controller.rb
-Admin::PrintersController.close_day
+Es preferible tener que actualizar un solo lugar que muchos lugares para una funcionalidad.
 
-```ruby
-ReceiptManager::Receipt.close_day(registers: Register.all, service_day: sd)
-```
-
-app/services/receipt_manager/receipt.rb
-```ruby
-class ReceiptManager::Receipt
-	def self.close_day(options = {})
-		receipt_klass.close_day(options) # call method in the next service
-	end
-	# ... other methods
-	def self.receipt_klass
-	      case ENV['RECEIPT_TYPE']
-	      when 'fiscal'
-	        PrinterManager::Fiscal
-	      when 'libre_dte'
-	        ElectronicBilling::Receipt 
-	      end
-```
-
-app/services/electronic_billing/receipt.rb
-```ruby
-class ElectronicBilling::Receipt
-	 def self.close_day(options = {})
-      options[:service_day].register_shifts.flat_map(&:register).uniq.each do |register|
-        PrinterManager::Thermal.print(action: :day_count_sheet,
-                                      data:   { service_day: options[:service_day],
-                                                register:    register })
-      end
-    end
-```
-
-app/services/printer_manager/thermal.rb
-```ruby
-class PrinterManager::Thermal
-	def self.print(args = {})
-	      PrinterManager::ThermalUtils::Print.new.perform(args)
-	    end
- 
-```
-
-app/services/printer_manager/thermal_utils/print.rb
-
-para finalmente llegar a
-
-app/services/printer_manager/thermal_utils/templates/day_count_sheet.rb
-
-
-extra:
-helper utilizado
-
-app/services/printer_manager/thermal_utils/templates/helpers.rb
-
-Me levantó la duda, la verdad los servicios de printer no deberían truncar, sólo mostrar la info formateada. no tiene sentido agregar lógica de truncamiento en algo que solo sirve para imprimir. 
-
-Una vez hecho los calculos, deberian mostrarse los valores que corresponden. supuestamente ya debererian estár truncados en la base de datos por lo que, la impresión no debería de mostrar otra cosa que no sea lectura de datos. sino tendremos inconsistencia entre los datos de la base de datos y los datos mostrados. si salen centavos será porque algo estamos haciendo algo mal de antes.
+En caso de tener que mover el
