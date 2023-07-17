@@ -1,21 +1,34 @@
+# Preguntas
 
-
-Preguntas:
-
-Para crear un OneClick, para los parametros de 
-
-# Create a recurring charge
+## Create a recurring charge
 **contactDetails** 
 
-requerido los atributos de  documentType y documentNumber 
+requerido los atributos de  documentType y documentNumber
+
+rps
 tema con riesgos: aprobó no enviar los campos: Tipo de documento y Número de documento.
 
-# Make an One-click payment
+## Make an One-click payment
 **contactDetails**.
+requerido los atributos de  documentType y documentNumber 
 
-dudas del para qué sirve enviar el shipping details, si el usuario hace retiro en tienda, no tiene sentido usar el shipping detail, y nos genera la duda si es necesario enviarlo o no, de hecho.  
-  
+**orderDetails**
 
-3. Para la sección de productDetails.  
+dentro de él se necesita shippingDetails y billingDetails
 
-Para generar un cobro, ¿por qué es necesario enviar el detalle de la boleta? por temas de seguridad? respaldo?, no nos queda claro el porqué este campo en especifico
+hay campos que no podemos obtener por el momento dado que no se lo solicitamos
+zipCode.
+
+Por otro lado, cuando el usuario tiene retiro en tienda, no existe shipping detail por lo que no deberia ser requerido.
+
+Lo mismo para billing Details. el zipCode y los datos en sí de dirección no los podemos obtener dado que será retiro en tienda
+
+**productDetails**
+
+Para generar un cobro, ¿por qué es necesario enviar el detalle de la boleta? por temas de seguridad? respaldo?, no nos queda claro el porqué este campo en especifico.
+
+
+Cómo será el proceso de solicitud de ayuda con el área técnica?
+Para la integracion de OneClick, tuve un problema relacionado a la eliminación de la tarjeta.
+
+Dado que me dice que no existe el endpoint y estoy utilizando el mismo que sale en la documentación.
