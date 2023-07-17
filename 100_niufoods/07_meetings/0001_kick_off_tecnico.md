@@ -32,3 +32,9 @@ Cómo será el proceso de solicitud de ayuda con el área técnica?
 Para la integracion de OneClick, tuve un problema relacionado a la eliminación de la tarjeta.
 
 Dado que me dice que no existe el endpoint y estoy utilizando el mismo que sale en la documentación.
+
+# Notes
+- 
+
+# Actions
+- 
