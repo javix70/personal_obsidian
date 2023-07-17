@@ -22,6 +22,8 @@ Por otro lado, cuando el usuario tiene retiro en tienda, no existe shipping deta
 
 Lo mismo para billing Details. el zipCode y los datos en sí de dirección no los podemos obtener dado que será retiro en tienda
 
+zipCode, se puede llevar al internal y se maneja.
+
 **productDetails**
 
 Para generar un cobro, ¿por qué es necesario enviar el detalle de la boleta? por temas de seguridad? respaldo?, no nos queda claro el porqué este campo en especifico.
@@ -32,6 +34,7 @@ Para la integracion de OneClick, tuve un problema relacionado a la eliminación 
 
 Dado que me dice que no existe el endpoint y estoy utilizando el mismo que sale en la documentación.
 
+multiplicado a 10 a la 6 al momento de enviar.
 
 > Importante
 Ten en cuenta que, debido a nuestras políticas de riesgo, los medios de pago disponibles y el tipo de integración pueden variar al momento en que formalices la afiliación. Te indicaremos cómo proceder en caso de que este proceso aplique para tu comercio.
