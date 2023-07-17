@@ -33,6 +33,11 @@ Para la integracion de OneClick, tuve un problema relacionado a la eliminación 
 
 Dado que me dice que no existe el endpoint y estoy utilizando el mismo que sale en la documentación.
 
+
+> Importante
+Ten en cuenta que, debido a nuestras políticas de riesgo, los medios de pago disponibles y el tipo de integración pueden variar al momento en que formalices la afiliación. Te indicaremos cómo proceder en caso de que este proceso aplique para tu comercio.
+
+
 # Notes
 - 
 
