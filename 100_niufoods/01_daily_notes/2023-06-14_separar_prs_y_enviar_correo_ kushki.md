@@ -47,8 +47,6 @@ ya tengo la primera separación, me faltan 4 prs más
 11. 1628-add-kushki-to-preferences
 
 
-china-delivery git:(kushki-integration) - destructurar el WIP commit
-
 ---
 
 Para mañana prioridad.
@@ -57,9 +55,3 @@ Para mañana prioridad.
 2. Armar reporte de data real, con fallo, más una solución (con la documentación de transbank)
 3. Hablar con alexis primero
 4. Seguir con la separación de prs.
-
-
-
-
-
-
