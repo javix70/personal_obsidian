@@ -50,9 +50,12 @@ Cómo son los timepos de respuestas?
 - Proceso de integración, Slack (proceso hábil) durante 1 mes.
 - Canal de soporte (correo electronico que está todo el equipo ahí)
 
+Nosotros informamos, después 
 
 1) Configuración de procesadores.
-2) 
+2) el cargo todo iria en 0 en la creacion de la sbcripcion. cuado quedaria activa el start date
+
+Devolución.
 
 # Actions
 - 
