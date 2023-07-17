@@ -13,7 +13,6 @@ tema con riesgos: aprobó no enviar los campos: Tipo de documento y Número de d
 requerido los atributos de  documentType y documentNumber 
 
 **orderDetails**
-
 dentro de él se necesita shippingDetails y billingDetails
 
 hay campos que no podemos obtener por el momento dado que no se lo solicitamos
@@ -45,7 +44,12 @@ Ten en cuenta que, debido a nuestras políticas de riesgo, los medios de pago di
 - Una vez finalizada post producción, equipo de soporte atento
 
 Cómo son los timepos de respuestas?
-- Proceso de integración, Slack (proceso *
+- Proceso de integración, Slack (proceso hábil) durante 1 mes.
+- Canal de soporte (correo electronico que está todo el equipo ahí)
+
+
+1) Configuración de procesadores.
+2) 
 
 # Actions
 - 
