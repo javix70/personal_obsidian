@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa05128d2a20b43",
+        "id": "e73f9d6b93659d6e",
         "type": "tabs",
         "children": [
           {
-            "id": "eb9260842e3ae127",
+            "id": "496a2bbcb9c28c1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+                "file": "100_niufoods/07_meetings/0001_kick_off_tecnico.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+                "file": "100_niufoods/07_meetings/0001_kick_off_tecnico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+                "file": "100_niufoods/07_meetings/0001_kick_off_tecnico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
+                "file": "100_niufoods/07_meetings/0001_kick_off_tecnico.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "39334f508164cb73",
@@ -178,18 +178,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb9260842e3ae127",
+  "active": "496a2bbcb9c28c1b",
   "lastOpenFiles": [
-    "100_niufoods/01_daily_notes/2023-07-17.md",
-    "200_templates/daily_notes.md",
-    "100_niufoods/01_daily_notes/2023-06-14_separar_prs_y_enviar_correo_ kushki.md",
     "200_templates/requirement.md",
+    "200_templates/daily_notes.md",
+    "200_templates/weekly_notes.md",
+    "100_niufoods/07_meetings/0001_kick_off_tecnico.md",
+    "100_niufoods/01_daily_notes/2023-07-17.md",
+    "100_niufoods/07_meetings",
+    "Kick off técnico Niu Sushi MX/Kushki.md",
+    "Kick off técnico Niu Sushi MX",
+    "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+    "100_niufoods/01_daily_notes/2023-06-14_separar_prs_y_enviar_correo_ kushki.md",
     "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
     "100_niufoods/03_projects/china_backend/requests/0002_add_logger_transbank.md",
     "100_niufoods/03_projects/china_backend/requests/0001_add_logger_to_Order_save_param_method.md",
     "100_niufoods/01_daily_notes/2023-06-13_kushki_and_des-able_picking.md",
     "100_niufoods/04_pull_request/kushki_improvements.md",
-    "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
     "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
     "001_learning/books/Mangas/bersek/Timeline.md",
     "001_learning/books/Mangas/bersek/Personajes.md",
@@ -203,9 +208,6 @@
     "100_niufoods/06_team_agreements/how_to_create_a_content_card.md",
     "100_niufoods/06_team_agreements/how_to_review_pr.md",
     "100_niufoods/06_team_agreements/linters.md",
-    "100_niufoods/06_team_agreements/pending_conversations.md",
-    "100_niufoods/06_team_agreements/prefix_commit.md",
-    "100_niufoods/03_projects/pof/requests/0001_chuteo_karla_pof.md",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230712120300.png",
     "201_scripts/utils/current_folder_path.js",
     "201_scripts/utils/get_current_folder.js",
@@ -218,8 +220,6 @@
     "201_scripts/new_prefix_requirements.js",
     "201_scripts/set_tags.js",
     "201_scripts/set_requirement.js",
-    "201_scripts/z",
-    "201_scripts/my_script.js",
     "100_niufoods/200_anexs/Pasted image 20230615111549.png",
     "100_niufoods/200_anexs/Pasted image 20230630124124.png",
     "100_niufoods/200_anexs/Pasted image 20230615111139.png",

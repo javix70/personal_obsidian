@@ -20,4 +20,10 @@ updated_at: <% tp.file.last_modified_date() %>
 
 > [!success]+ Tasks Done Today
 
+- [ ] 
+
+> [!success]+ Meeting
+
+aquí la idea es que se liste automaticamente
+
 <% tp.user.reorganize_checkboxes(tp) %>

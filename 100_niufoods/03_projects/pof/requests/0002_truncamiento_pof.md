@@ -72,7 +72,7 @@ y duplicar una orden..
 
 ![[Pasted image 20230712120300.png]]
 
-#nota
+#note
 Por alguna razón, se está truncando la propina. porqué? no lo sé.
 
 ---
@@ -212,4 +212,6 @@ Porqué ahí?
 
 Es preferible tener que actualizar un solo lugar que muchos lugares para una funcionalidad.
 
-En caso de tener que mover el
+En caso de tener que mover el front, quedaría inconsistente con los valores entregados por el backend, recordemos que front solo muestra y realiza calculos sencillos, para no afectar la logica de backend.
+
+
