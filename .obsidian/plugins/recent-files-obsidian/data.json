@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Timeline",
+      "path": "001_learning/books/Mangas/bersek/Timeline.md"
+    },
+    {
+      "basename": "Personajes",
+      "path": "001_learning/books/Mangas/bersek/Personajes.md"
+    },
+    {
       "basename": "0002_truncamiento_pof",
       "path": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "02 Casos de usos",
       "path": "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md"
-    },
-    {
-      "basename": "01 modelos en donde se pueden usar",
-      "path": "001_learning/TI/programing/diagrams/UML/01 modelos en donde se pueden usar.md"
-    },
-    {
-      "basename": "00 index",
-      "path": "001_learning/TI/programing/diagrams/UML/00 index.md"
     }
   ],
   "omittedPaths": [],

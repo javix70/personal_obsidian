@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+                "file": "001_learning/books/Mangas/bersek/Timeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5124969482422,
-    "collapsed": true
+    "width": 240.5124969482422
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+                "file": "001_learning/books/Mangas/bersek/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+                "file": "001_learning/books/Mangas/bersek/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
+                "file": "001_learning/books/Mangas/bersek/Timeline.md"
               }
             }
           },
@@ -181,8 +180,9 @@
   },
   "active": "a6675be7b885f803",
   "lastOpenFiles": [
-    "100_niufoods/01_daily_notes/2023-07-12.md",
+    "001_learning/books/Mangas/bersek/Personajes.md",
     "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+    "100_niufoods/01_daily_notes/2023-07-12.md",
     "100_niufoods/03_projects/pof/requests/0003_.md",
     "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md",
     "001_learning/TI/programing/diagrams/UML/01 modelos en donde se pueden usar.md",
@@ -203,7 +203,6 @@
     "002_remodeling_ideas/Patio/Muros y techo.md",
     "002_remodeling_ideas/Patio/Parrila u Horno.md",
     "002_remodeling_ideas/Patio/Index.md",
-    "001_learning/books/Mangas/bersek/Personajes.md",
     "001_learning/books/Mangas/bersek/Timeline.md",
     "100_niufoods/01_daily_notes/2023-07-11.md",
     "100_niufoods/01_daily_notes/2023-07-10.md",

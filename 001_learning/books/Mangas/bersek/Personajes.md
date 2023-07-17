@@ -10,5 +10,4 @@ Es de personalidad arisca, nada le importa salvo su vida, es arrogante, y solita
 
 Es muy empático con el resto de seres, demuestra gran preocupación por el bien, y el cree en guts y siente su dolor.
 
-## Secundarios
-
+griff
