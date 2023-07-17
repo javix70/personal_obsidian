@@ -29,9 +29,10 @@ En ChinaBackend y Pof existen los mismo archivos de truncamiento
 
 prs
 [https://bitbucket.org/niusushi/china-backend/pull-requests/300](https://bitbucket.org/niusushi/china-backend/pull-requests/300)
-
 [https://bitbucket.org/niusushi/china-backend/pull-requests/298](https://bitbucket.org/niusushi/china-backend/pull-requests/298)
 
+dependiente: 
+[1587 - Mostrar decimales por localizacion](https://bitbucket.org/nnodes/pof/pull-requests/151)
 
 ## Vistas involucradas
 
