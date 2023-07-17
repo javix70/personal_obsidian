@@ -25,6 +25,8 @@ En ChinaBackend y Pof existen los mismo archivos de truncamiento
 - config_money_helper
 - extensión de gettable
 
+**pedir una base de datos para salón** 
+
 prs
 [https://bitbucket.org/niusushi/china-backend/pull-requests/300](https://bitbucket.org/niusushi/china-backend/pull-requests/300)
 
