@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "100_niufoods/07_meetings/0001_kick_off_tecnico.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5124969482422
+    "width": 240.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -94,7 +95,7 @@
       {
         "id": "693805e84790397d",
         "type": "tabs",
-        "dimension": 66.2748643761302,
+        "dimension": 80.45234248788368,
         "children": [
           {
             "id": "79859b6dc0444b12",
@@ -152,7 +153,7 @@
       {
         "id": "39334f508164cb73",
         "type": "tabs",
-        "dimension": 33.725135623869804,
+        "dimension": 19.547657512116317,
         "children": [
           {
             "id": "9ba4ec13fde3d84d",
@@ -166,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {

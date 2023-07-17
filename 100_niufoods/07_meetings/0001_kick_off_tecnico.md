@@ -38,8 +38,14 @@ Dado que me dice que no existe el endpoint y estoy utilizando el mismo que sale 
 Ten en cuenta que, debido a nuestras políticas de riesgo, los medios de pago disponibles y el tipo de integración pueden variar al momento en que formalices la afiliación. Te indicaremos cómo proceder en caso de que este proceso aplique para tu comercio.
 
 
-# Notes
-- 
+# Nota
+- Fernanda acero es la encargada técnica. a traves de slack
+- son dos etapas de certificación
+- periodo de estabilizacion de 30 dias luego de productivo
+- Una vez finalizada post producción, equipo de soporte atento
+
+Cómo son los timepos de respuestas?
+- Proceso de integración, Slack (proceso *
 
 # Actions
 - 
