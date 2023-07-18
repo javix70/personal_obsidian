@@ -48,6 +48,20 @@ Se abordaron unos puntos que no habia considerado como la multiplicación del to
 
 Y se hará testeo del flujo.
 
+estoy probando el eliminar tarjeta de kushki
+por insomnia me funciona correctamente
+
+endpoint
+https://api-uat.kushkipagos.com/subscriptions/v1/card/1689689114307000
+
+```
+	Content-Type: application/json
+	Accept: application/json
+	Private-Merchant-Id: 9d7395267ddf4ba29481eac794e0bc80
+```
+
+Pero al momento de hacerlo por el código, no me funciona bien.
+
 ---
 ## Checklist de tareas que hacer 
 
@@ -56,3 +70,5 @@ con las ramas de
 [Backend](https://bitbucket.org/niusushi/china-backend/pull-requests/320)
 
 probar el flujo correspondiente para validar que todo esté funcionando como correpsonde
+
+
