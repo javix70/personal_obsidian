@@ -43,11 +43,16 @@ Referencia hacia el daily note que se trabajó antes de crear esta plantilla
 ---
 ## Avance
 
-Nada. dado que el avance se fue haciendo incorrectamente en la daily notes
+Dado la meeting de [[0001_kick_off_tecnico]] con Kushki, tendremos una reunion para el día de mañana 19.
+Se abordaron unos puntos que no habia considerado como la multiplicación del total por 10 a la 6.
+
+Y se hará testeo del flujo.
 
 ---
 ## Checklist de tareas que hacer 
 
-Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
+con las ramas de 
+[Frontend](https://bitbucket.org/niusushi/china-delivery/branch/kushki-integration)
+[Backend](https://bitbucket.org/niusushi/china-backend/pull-requests/320)
 
-- [ ] push?
+probar el flujo correspondiente para validar que todo esté funcionando como correpsonde
