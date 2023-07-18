@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "02 Casos de usos",
+      "path": "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md"
+    },
+    {
+      "basename": "01 modelos en donde se pueden usar",
+      "path": "001_learning/TI/programing/diagrams/UML/01 modelos en donde se pueden usar.md"
+    },
+    {
       "basename": "00 index",
       "path": "001_learning/TI/programing/diagrams/UML/00 index.md"
     },
     {
+      "basename": "Secuencia",
+      "path": "001_learning/TI/programing/diagrams/Secuencia.md"
+    },
+    {
       "basename": "Index",
       "path": "002_remodeling_ideas/Patio/Index.md"
-    },
-    {
-      "basename": "0001_kick_off_tecnico",
-      "path": "100_niufoods/07_meetings/0001_kick_off_tecnico.md"
-    },
-    {
-      "basename": "2023-06-14_separar_prs_y_enviar_correo_ kushki",
-      "path": "100_niufoods/01_daily_notes/2023-06-14_separar_prs_y_enviar_correo_ kushki.md"
-    },
-    {
-      "basename": "2023-06-13_kushki_and_des-able_picking",
-      "path": "100_niufoods/01_daily_notes/2023-06-13_kushki_and_des-able_picking.md"
     }
   ],
   "omittedPaths": [],

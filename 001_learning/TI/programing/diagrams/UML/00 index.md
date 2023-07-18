@@ -27,8 +27,13 @@ Escalable: Puedo utilizarlo UML de los más chico a lo más complejo, en todos l
 
 ## [[01 modelos en donde se pueden usar | Modelos que lo soportan]]
 
-
 1. 4+1
 2. estatico
 3. dinamico
 4. de implementacion
+
+
+---
+Idexación
+
+[[02 Casos de usos]]

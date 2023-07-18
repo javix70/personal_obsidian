@@ -13,18 +13,17 @@ Puede ser una persona o un nuevo sistema(ROL)
 Cada objetivo que el actor quiere hacer es un Caso de uso.
 
 ## **Dependecia**
-nos indica que hay una relación entre los diferentes casos de usos, no olvidar hacer una descripción
+nos indica que hay una relación entre los diferentes casos de usos, no olvidar hacer una descripción
 
 Existen dos tipos de **depencias**
 
 ### **include**
 ![[Pasted image 20230709204158.png]]
 
-
 - El invocador no puede finalizar su objetivo sin la ayuda del incluido
 - El invocador depende del incluido
-- el incluido siempre es a la derecha de invoador
-- La fecha va del invocador al incluido 
+- el incluido siempre es a la derecha de invocador
+- La flecha va del invocador al incluido 
 ### Ejemplo
 
 ![[Pasted image 20230709204517.png]]
