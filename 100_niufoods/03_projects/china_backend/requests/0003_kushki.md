@@ -22,6 +22,8 @@ El cliente puede pagar con kushki en méxico
 [Kushki Online Payment](https://api-docs.kushkipagos.com/docs/online-payments/services-by-country), de aquí podrás sacar detalles y validaciones de cada llamada al servicio
 [[2023-06-16_separar_prs_de_kushki|Linea de prs más correcciones y anotaciones]]
 
+Si quieres puedes utilizar [[update_restorant_datetime|Actualizar hora de los restaunrant]]
+
 
 Referencia hacia el daily note que se trabajó antes de crear esta plantilla
 ## Prs involucrados
