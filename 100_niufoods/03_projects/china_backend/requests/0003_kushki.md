@@ -52,17 +52,13 @@ Y se hará testeo del flujo.
 
 estoy probando el eliminar tarjeta de kushki
 por insomnia me funciona correctamente
-
-endpoint
-https://api-uat.kushkipagos.com/subscriptions/v1/card/1689689114307000
-
-```
-	Content-Type: application/json
-	Accept: application/json
-	Private-Merchant-Id: 9d7395267ddf4ba29481eac794e0bc80
-```
-
 Pero al momento de hacerlo por el código, no me funciona bien.
+
+al final fue un error código, la solucion fue leer la documentación ocn lo que respecta a typhoues gem y vi que no hay que pasarle headers, sino que params..
+
+Las pruebas quedaron ok., probé varios casos, cambié lo mencionado en la reunion de kushkil
+
+Además modifqué el flujo segun lo conversado, de esperar la respuesta del pago en caso de que el pago no se procece correctamente por algún eror
 
 ---
 ## Checklist de tareas que hacer 
@@ -72,5 +68,4 @@ con las ramas de
 [Backend](https://bitbucket.org/niusushi/china-backend/pull-requests/320)
 
 probar el flujo correspondiente para validar que todo esté funcionando como correpsonde
-
 
