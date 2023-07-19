@@ -69,3 +69,14 @@ con las ramas de
 
 probar el flujo correspondiente para validar que todo esté funcionando como correpsonde
 
+
+
+Request to https://api-uat.kushkipagos.com/subscriptions/v1/card
+method     : post
+body       : {"token":"ebe7a4f9e0334bcea69f5396429304de","planName":"basic","periodicity":"custom","contactDetails":{"firstName":"Tomás","lastName":"Florenzano","email":"tomas.florenzanom@gmail.com","phoneNumber":"+56981588093"},"amount":{"subtotalIva":0,"subtotalIva0":0,"ice":0,"iva":0,"currency":"MXN"},"startDate":"2023-07-19","fullResponse":"v2","metadata":{"customerId":"fffff376-f1bd-47c8-b534-b7c14f395be5"}}
+params     : 
+maxredirs  : 50
+ETHON: started MULTI
+ETHON:         performed EASY effective_url=https://api-uat.kushkipagos.com/subscriptions/v1/card response_code=0 return_code=bad_content_encoding total_time=0.153523
+ETHON: performed MULTI
+Response from https://api-uat.kushkipagos.com/subscriptions/v1/card
