@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "update_restorant_datetime",
+      "path": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md"
+    },
+    {
       "basename": "0001_kick_off_tecnico",
       "path": "100_niufoods/07_meetings/0001_kick_off_tecnico.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "2023-07-18",
       "path": "100_niufoods/01_daily_notes/2023-07-18.md"
-    },
-    {
-      "basename": "2023-07-19",
-      "path": "100_niufoods/01_daily_notes/2023-07-19.md"
     }
   ],
   "omittedPaths": [],

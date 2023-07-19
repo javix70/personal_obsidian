@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/07_meetings/0001_kick_off_tecnico.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/07_meetings/0001_kick_off_tecnico.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/07_meetings/0001_kick_off_tecnico.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/07_meetings/0001_kick_off_tecnico.md"
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md"
               }
             }
           },
@@ -179,11 +179,11 @@
   },
   "active": "c0bdd0ad0d935776",
   "lastOpenFiles": [
+    "100_niufoods/07_meetings/0001_kick_off_tecnico.md",
     "100_niufoods/07_meetings/0002_avances_integracion _niufoods_mx_kushki.md",
     "100_niufoods/01_daily_notes/2023-07-17.md",
     "100_niufoods/01_daily_notes/2023-07-18.md",
     "100_niufoods/01_daily_notes/2023-07-19.md",
-    "100_niufoods/07_meetings/0001_kick_off_tecnico.md",
     "001_learning/TI/programing/diagrams/UML/00 index.md",
     "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
     "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md",
