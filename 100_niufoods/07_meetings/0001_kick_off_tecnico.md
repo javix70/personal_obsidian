@@ -54,8 +54,3 @@ Nosotros informamos, después
 
 1) Configuración de procesadores.
 2) el cargo todo iria en 0 en la creacion de la sbcripcion. cuado quedaria activa el start date
-
-Devolución.
-
-# Actions
-- 

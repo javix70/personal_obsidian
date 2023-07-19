@@ -45,7 +45,7 @@ Referencia hacia el daily note que se trabajó antes de crear esta plantilla
 ---
 ## Avance
 
-Dado la meeting de [[0001_kick_off_tecnico]] con Kushki, tendremos una reunion para el día de mañana 19.
+Dado la meeting de [[0001_kick_off_tecnico]] con Kushki.
 Se abordaron unos puntos que no habia considerado como la multiplicación del total por 10 a la 6.
 
 Y se hará testeo del flujo.
