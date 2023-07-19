@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "recovery databases",
-      "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
+      "basename": "0002_avances_integracion _niufoods_mx_kushki",
+      "path": "100_niufoods/07_meetings/0002_avances_integracion _niufoods_mx_kushki.md"
     },
     {
-      "basename": "update_restorant_datetime",
-      "path": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md"
+      "basename": "2023-07-19",
+      "path": "100_niufoods/01_daily_notes/2023-07-19.md"
     },
     {
       "basename": "automatic_test_model",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md"
     },
     {
-      "basename": "0003_kushki",
-      "path": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md"
-    },
-    {
       "basename": "2023-07-18",
       "path": "100_niufoods/01_daily_notes/2023-07-18.md"
+    },
+    {
+      "basename": "update_restorant_datetime",
+      "path": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md"
     }
   ],
   "omittedPaths": [],
