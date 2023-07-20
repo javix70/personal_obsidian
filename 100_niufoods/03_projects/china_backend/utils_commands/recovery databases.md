@@ -28,9 +28,9 @@ Customer.last.update password:123123123
 ```
 
 
-Crear otra base de datos
+# Crear base de datos secundaria
 
-```bash
+```zsh
 psql
 create database niusushi_db_centralized_development2;
 create database niusushi_web_partial2;
