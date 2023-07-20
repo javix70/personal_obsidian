@@ -39,11 +39,6 @@ Consideraciones (referencias)
 ---
 # Avance
 
-Diagramas
-
-Diagrama de estados
-
-
 
 ---
 ## Checklist de tareas que hacer 
