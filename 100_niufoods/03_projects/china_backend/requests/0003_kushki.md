@@ -40,6 +40,9 @@ Referencia hacia el daily note que se trabajó antes de crear esta plantilla
 10. [1628-add-kushki-to-preferences](https://bitbucket.org/niusushi/china-backend/pull-requests/320) -> 1633-show-logger-payment-intent
 11. 1628-add-kushki-to-preferences
 
+front 
+
+
 
 
 ---
