@@ -10,7 +10,6 @@ tags:
 
 ## Requerimiento
 
-
 Hacer descuento con false y otro con true de tax.
 
 pero desde la web los trata a todos iguales
@@ -33,7 +32,16 @@ Consideraciones (referencias)
 **Dependencias**:
 
 ---
-## Avance
+# Investigación
+
+
+
+---
+# Avance
+
+Diagramas
+
+Diagrama de estados
 
 
 
