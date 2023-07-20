@@ -33,12 +33,12 @@ Referencia hacia el daily note que se trabajó antes de crear esta plantilla
 3. [1628-add-kushki-integration](https://bitbucket.org/niusushi/china-backend/pull-requests/312) -> 1628-add-18n-for-activeinteraction
 4. [1628-model-design](https://bitbucket.org/niusushi/china-backend/pull-requests/313) -> 1628-add-kushki-integration
 5. [1628-subscribe-card](https://bitbucket.org/niusushi/china-backend/pull-requests/314) -> 1628-model-design
-	1. [1628-generate-charge](https://bitbucket.org/niusushi/china-backend/pull-requests/315) -> 1628-subscribe-card
-6. [1628-delete-suscribed_card](https://bitbucket.org/niusushi/china-backend/pull-requests/316) -> 1628-generate-charge
-7. [1628-list-card](https://bitbucket.org/niusushi/china-backend/pull-requests/317) -> 1628-delete-suscribed_card
-8. [1633-show-logger-payment-intent](https://bitbucket.org/niusushi/china-backend/pull-requests/319) -> 1628-list-card
-9. [1628-add-kushki-to-preferences](https://bitbucket.org/niusushi/china-backend/pull-requests/320) -> 1633-show-logger-payment-intent
-10. 1628-add-kushki-to-preferences
+6. [1628-generate-charge](https://bitbucket.org/niusushi/china-backend/pull-requests/315) -> 1628-subscribe-card
+7. [1628-delete-suscribed_card](https://bitbucket.org/niusushi/china-backend/pull-requests/316) -> 1628-generate-charge
+8. [1628-list-card](https://bitbucket.org/niusushi/china-backend/pull-requests/317) -> 1628-delete-suscribed_card
+9. [1633-show-logger-payment-intent](https://bitbucket.org/niusushi/china-backend/pull-requests/319) -> 1628-list-card
+10. [1628-add-kushki-to-preferences](https://bitbucket.org/niusushi/china-backend/pull-requests/320) -> 1633-show-logger-payment-intent
+11. 1628-add-kushki-to-preferences
 
 
 
