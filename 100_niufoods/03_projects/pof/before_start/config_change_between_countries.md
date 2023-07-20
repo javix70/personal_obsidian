@@ -3,11 +3,13 @@
 
 **México**:
 
-**DEFAULT_CURRENCY**=MXN y ICU_LOCALE=es-MX
+**DEFAULT_CURRENCY**=MXN
+**ICU_LOCALE**=es-MX
 
 **Chile**:
 
-**DEFAULT_CURRENCY**=CLP y ICU_LOCALE=es-CL
+**DEFAULT_CURRENCY**=CLP
+**ICU_LOCALE**=es-CL
 
 Luego de correr las migraciones se debe correr adicionalmente lo siguiente:
 
