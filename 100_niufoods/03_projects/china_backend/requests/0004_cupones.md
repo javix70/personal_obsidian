@@ -57,7 +57,9 @@ la order llega a pof a webOrderController. create.
 
 ?/// Tratar ojalá de meterla por código en vez de nombre. porque ese es el general.
 
-tabla de tender crear nuevo tipo de tender, tax dice si true
+tabla de tender crear nuevo tipo de tender, tax true
+cupon de descuento debe estar invisible (tentativo), rendicion, cierre de caja.y las impresiones  cuadratura e informe z
+
 TenderClass -> en qué categoria esta el medio de pago, deberia ser ticket (5)
 
 POS_SEVER, CHINA BACKEND, Y POF
@@ -76,3 +78,5 @@ En china backend se asume que hay un tender cuando se hace la orden.
 Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
 - [ ] push?
+
+Cómo agregar un nuevo medio de pago.

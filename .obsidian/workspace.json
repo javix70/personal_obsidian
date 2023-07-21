@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "77d3905b076ef07d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d7138efbec12fba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4a55774b922d71d1",
         "type": "tabs",
         "children": [
@@ -32,6 +14,24 @@
               "type": "markdown",
               "state": {
                 "file": "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "25bc07899ea2a6de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d93062090cfb0f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md"
+                "file": "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,10 +197,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d7138efbec12fba2",
+  "active": "ba64c984e8a5e2c5",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md",
     "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
+    "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md",
+    "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
     "100_niufoods/06_team_agreements/how_to_review_pr.md",
     "100_niufoods/06_team_agreements/how_to_create_a_content_card.md",
     "100_niufoods/06_team_agreements/prefix_commit.md",
@@ -228,7 +229,6 @@
     "100_niufoods/01_daily_notes/2023-07-18.md",
     "100_niufoods/07_meetings/0001_kick_off_tecnico.md",
     "100_niufoods/01_daily_notes/2023-07-17.md",
-    "001_learning/TI/programing/diagrams/UML/00 index.md",
     "100_niufoods/07_meetings",
     "Kick off técnico Niu Sushi MX",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230712120300.png",
