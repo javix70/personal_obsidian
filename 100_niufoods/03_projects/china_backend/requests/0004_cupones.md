@@ -42,16 +42,28 @@ Crear un nuevo nombre de cupon
 
 Descuento y medio de pago
 
+Cupon descuento ()
+Cupon pago - cupones de empleados asignalos a cupon medios de pago
+
 PaymentType 
 
 
 No lo asignes cómo 
 
 
-
+POF SERVER
 la order llega a pof a webOrderController. create.
 
 
+?/// Tratar ojalá de meterla por código en vez de nombre. porque ese es el general.
+
+tabla de tender crear nuevo tipo de tender, tax dice si true
+TenderClass -> en qué categoria esta el medio de pago, deberia ser ticket (5)
+
+POS_SEVER, CHINA BACKEND, Y POF
+
+Documentar el de cómo se comunican y agregar el nuevo descuento
+checkcontroller es el que manda a pedir la informacion a 
 
 ---
 # Avance
