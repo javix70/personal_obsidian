@@ -39,6 +39,7 @@ Consideraciones (referencias)
 ---
 # Avance
 
+En china backend se asume que hay un tender cuando se hace la orden.
 
 ---
 ## Checklist de tareas que hacer 
