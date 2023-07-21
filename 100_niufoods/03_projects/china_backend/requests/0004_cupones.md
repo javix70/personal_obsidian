@@ -8,32 +8,35 @@ tags:
 
 
 
-## Requerimiento
+# Requerimiento
 
-Agregar nuevo medio de pago, en china backend, pof_server y pof.
-Este sea 
+Agregar nuevo tipo de cupon, en china backend, pof_server y pof.
+Este será un nuevo medio de pago para los trabajadores.
 
-## Objetivo
+Irá vinculado a los cupones, y tendrá de tax true y gives_change true.
 
-No estoy claor aún
+# Objetivo
 
+Poder diferenciar un cupón de dsco de un cupón de medio de pago
 
-## Información útil
+# Información útil
 
-Antes de empezar
+Antes de empezar:
 
 Consideraciones (referencias)
+- china backend
+- pof
+- pof_server_new
 
 ## Prs involucrados
 
 **Actual**:
 
-**Dependencias**:
-
 ---
 # Investigación
 
-
+china backend 
+[[100_niufoods/03_projects/china_backend/documentation/]]
 send?order?to?pof
 
 
