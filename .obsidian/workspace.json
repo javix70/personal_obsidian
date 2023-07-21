@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
+                "file": "100_niufoods/06_team_agreements/linters.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
+                "file": "100_niufoods/06_team_agreements/linters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md"
+                "file": "100_niufoods/06_team_agreements/linters.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
+                "file": "100_niufoods/06_team_agreements/linters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,10 +181,17 @@
   },
   "active": "d7138efbec12fba2",
   "lastOpenFiles": [
+    "100_niufoods/06_team_agreements/pending_conversations.md",
+    "100_niufoods/06_team_agreements/prefix_commit.md",
+    "100_niufoods/06_team_agreements/linters.md",
+    "100_niufoods/06_team_agreements/how_to_review_pr.md",
+    "100_niufoods/06_team_agreements/how_to_create_a_content_card.md",
+    "100_niufoods/06_team_agreements/function_params_named.md",
+    "100_niufoods/06_team_agreements/documentation.md",
+    "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
     "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md",
     "100_niufoods/03_projects/china_backend/documentation/Orden/diagramns.md",
     "100_niufoods/03_projects/china_backend/documentation/Orden",
-    "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
     "100_niufoods/03_projects/china_backend/documentation/coupons",
     "100_niufoods/03_projects/china_backend/documentation/diagrams/Untitled",
     "100_niufoods/03_projects/china_backend/documentation/diagrams/Untitled.md",
@@ -204,13 +211,6 @@
     "100_niufoods/07_meetings/0001_kick_off_tecnico.md",
     "100_niufoods/01_daily_notes/2023-07-17.md",
     "001_learning/TI/programing/diagrams/UML/00 index.md",
-    "001_learning/TI/programing/diagrams/UML/02 Casos de usos.md",
-    "001_learning/TI/programing/diagrams/UML/01 modelos en donde se pueden usar.md",
-    "001_learning/TI/programing/diagrams/Secuencia.md",
-    "002_remodeling_ideas/Patio/Index.md",
-    "100_niufoods/01_daily_notes/2023-06-14_separar_prs_y_enviar_correo_ kushki.md",
-    "100_niufoods/01_daily_notes/2023-06-13_kushki_and_des-able_picking.md",
-    "002_remodeling_ideas/lluvia.md",
     "100_niufoods/07_meetings",
     "Kick off técnico Niu Sushi MX",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230712120300.png",
