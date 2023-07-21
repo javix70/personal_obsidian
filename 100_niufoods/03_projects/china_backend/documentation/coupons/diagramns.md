@@ -46,6 +46,7 @@ sequenceDiagram
     participant B as China Backend
     participant D as China Delivery
     actor C as Customer
+    participant POF
 
     rect Green
     note left of A: Flujo de crear un cupon
@@ -72,6 +73,8 @@ sequenceDiagram
     B->>D: Order creada
     D->>C: Mostrar vista de orden creada
     end
+    B-->>POF: Enviar Orden a Tienda si no es oneclick
+    POF-->B: Si es oneclick, va a buscar La orden (Flujo de POF)  
 ```
 
 

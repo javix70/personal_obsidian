@@ -23,6 +23,8 @@ Poder diferenciar un cupón de dsco de un cupón de medio de pago
 
 Antes de empezar:
 
+Utilizar todos los ambientes de Guacamoles, dado que él utiliza toda la lógica con variantes y más
+
 Consideraciones (referencias)
 - china backend
 - pof
@@ -35,33 +37,27 @@ Consideraciones (referencias)
 ---
 # Investigación
 
-china backend 
+## china backend 
 ![[100_niufoods/03_projects/china_backend/documentation/coupons/diagramns#Secuencia|diagramns]]
 
 
-Crear un nuevo nombre de cupon
-
 Descuento y medio de pago
 
-Cupon descuento ()
-Cupon pago - cupones de empleados asignalos a cupon medios de pago
+Cupon descuento 
+- [ ] Cupon pago tax true
 
-PaymentType 
-
-
-No lo asignes cómo 
-
+PaymentType. revisar
 
 POF SERVER
 la order llega a pof a webOrderController. create.
 
 
-?/// Tratar ojalá de meterla por código en vez de nombre. porque ese es el general.
+- [ ] Tratar ojalá de meterla por código en vez de nombre. porque ese es el general.
 
-tabla de tender crear nuevo tipo de tender, tax true
+- [ ] tabla de tender crear nuevo tipo de tender, tax true
 cupon de descuento debe estar invisible (tentativo), rendicion, cierre de caja.y las impresiones  cuadratura e informe z
 
-TenderClass -> en qué categoria esta el medio de pago, deberia ser ticket (5)
+- [ ] TenderClass -> en qué categoria esta el medio de pago, deberia ser ticket (5)
 
 POS_SEVER, CHINA BACKEND, Y POF
 
@@ -71,7 +67,7 @@ checkcontroller es el que manda a pedir la informacion a
 ---
 # Avance
 
-En china backend se asume que hay un tender cuando se hace la orden.
+Ahora voy 
 
 ---
 ## Checklist de tareas que hacer 
