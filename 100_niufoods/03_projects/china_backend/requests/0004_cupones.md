@@ -41,39 +41,24 @@ Consideraciones (referencias)
 ![[100_niufoods/03_projects/china_backend/documentation/coupons/diagramns#Secuencia|diagramns]]
 
 
-Descuento y medio de pago
-
-Cupon descuento 
-- [ ] Cupon pago tax true
-
-PaymentType. revisar
-
-POF SERVER
-la order llega a pof a webOrderController. create.
-
-
-- [ ] Tratar ojalá de meterla por código en vez de nombre. porque ese es el general.
-
-- [ ] tabla de tender crear nuevo tipo de tender, tax true
-cupon de descuento debe estar invisible (tentativo), rendicion, cierre de caja.y las impresiones  cuadratura e informe z
-
-- [ ] TenderClass -> en qué categoria esta el medio de pago, deberia ser ticket (5)
-
-POS_SEVER, CHINA BACKEND, Y POF
-
-Documentar el de cómo se comunican y agregar el nuevo descuento
-checkcontroller es el que manda a pedir la informacion a 
 
 ---
 # Avance
 
-Ahora voy 
+
 
 ---
 ## Checklist de tareas que hacer 
 
 Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
+- [ ] Documentar el de cómo se comunican y agregar el nuevo descuento
+- [ ] Cupon descuento, debe cambiar a invisible
+- [ ] Cupon pago tax true
+- [ ] Tratar ojalá de meterla por código en vez de nombre. porque ese es el general. (Tiene que ver que hace la busqueda por sting y no por el code)
+- [ ] tabla de tender crear nuevo tipo de tender, tax true
+cupon de descuento debe estar invisible (tentativo), rendicion, cierre de caja.y las impresiones  cuadratura e informe z
+- [ ] TenderClass -> en qué categoria esta el medio de pago, deberia ser ticket (5)
 - [ ] push?
 
 Cómo agregar un nuevo medio de pago.
