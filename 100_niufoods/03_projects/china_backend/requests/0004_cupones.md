@@ -35,6 +35,23 @@ Consideraciones (referencias)
 # Investigación
 
 
+send?order?to?pof
+
+
+Crear un nuevo nombre de cupon
+
+Descuento y medio de pago
+
+PaymentType 
+
+
+No lo asignes cómo 
+
+
+
+la order llega a pof a webOrderController. create.
+
+
 
 ---
 # Avance

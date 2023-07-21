@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "0004_cupones",
+      "path": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md"
+    },
+    {
+      "basename": "diagramns",
+      "path": "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md"
+    },
+    {
       "basename": "how_to_review_pr",
       "path": "100_niufoods/06_team_agreements/how_to_review_pr.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "prefix_commit",
       "path": "100_niufoods/06_team_agreements/prefix_commit.md"
-    },
-    {
-      "basename": "pending_conversations",
-      "path": "100_niufoods/06_team_agreements/pending_conversations.md"
-    },
-    {
-      "basename": "linters",
-      "path": "100_niufoods/06_team_agreements/linters.md"
     }
   ],
   "omittedPaths": [],
