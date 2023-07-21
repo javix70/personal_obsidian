@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5124969482422
+    "width": 458.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -199,8 +200,9 @@
   },
   "active": "ba64c984e8a5e2c5",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
+    "100_niufoods/03_projects/china_backend/documentation/Orden/diagramns.md",
     "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md",
+    "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
     "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
     "100_niufoods/06_team_agreements/how_to_review_pr.md",
     "100_niufoods/06_team_agreements/how_to_create_a_content_card.md",
@@ -209,7 +211,6 @@
     "100_niufoods/06_team_agreements/linters.md",
     "100_niufoods/06_team_agreements/function_params_named.md",
     "100_niufoods/06_team_agreements/documentation.md",
-    "100_niufoods/03_projects/china_backend/documentation/Orden/diagramns.md",
     "100_niufoods/03_projects/china_backend/documentation/Orden",
     "100_niufoods/03_projects/china_backend/documentation/coupons",
     "100_niufoods/03_projects/china_backend/documentation/diagrams/Untitled",
