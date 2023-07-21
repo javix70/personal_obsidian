@@ -36,8 +36,7 @@ Consideraciones (referencias)
 # Investigación
 
 china backend 
-[[100_niufoods/03_projects/china_backend/documentation/]]
-send?order?to?pof
+![[100_niufoods/03_projects/china_backend/documentation/coupons/diagramns#Secuencia|diagramns]]
 
 
 Crear un nuevo nombre de cupon

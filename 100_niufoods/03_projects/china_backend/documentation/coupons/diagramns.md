@@ -44,6 +44,7 @@ sequenceDiagram
     actor A as Admin
     participant BA as China Backend Admin
     participant B as China Backend
+    participant P as POF
     participant D as China Delivery
     actor C as Customer
 
@@ -71,6 +72,7 @@ sequenceDiagram
     B-->>B: Aplica descuento y lo desactiva
     B->>D: Order creada
     D->>C: Mostrar vista de orden creada
+    B-->>POF: Enviar orden a pof si no es webpay
     end
 ```
 

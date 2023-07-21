@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7caf25a6255860b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5124969482422
+    "width": 458.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md"
+                "file": "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md"
               }
             }
           },
@@ -135,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,10 +193,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d93062090cfb0f4",
+  "active": "a7caf25a6255860b",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/china_backend/documentation/Orden/diagramns.md",
     "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
+    "100_niufoods/03_projects/china_backend/documentation/Orden/diagramns.md",
     "100_niufoods/03_projects/china_backend/documentation/coupons/diagramns.md",
     "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
     "100_niufoods/06_team_agreements/how_to_review_pr.md",
