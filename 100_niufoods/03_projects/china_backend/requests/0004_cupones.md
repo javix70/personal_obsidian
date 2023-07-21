@@ -10,9 +10,8 @@ tags:
 
 ## Requerimiento
 
-Hacer descuento con false y otro con true de tax.
-
-pero desde la web los trata a todos iguales
+Agregar nuevo medio de pago, en china backend, pof_server y pof.
+Este sea 
 
 ## Objetivo
 
