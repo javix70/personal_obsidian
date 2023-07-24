@@ -26,7 +26,6 @@ sequenceDiagram
 
 	CB->>PSN: Crea un nuevo WebOrder enviando el web_order_id
 	PSN->>PSN: Crea WebOrder vinculandolo con web_order_id y estado pending
-	
 ```
 
 ## Otro metio de pago
