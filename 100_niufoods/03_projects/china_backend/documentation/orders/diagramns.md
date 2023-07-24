@@ -38,7 +38,7 @@ stateDiagram-v2
 
 ```mermaid
 ---
-title: Orden con cupon
+title: Orden con cupon (no incluye casos errores)
 ---
 sequenceDiagram
     autonumber
