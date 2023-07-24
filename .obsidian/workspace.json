@@ -18,13 +18,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "866df4243f3e1474",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "e15834835c5ecd1d",
             "type": "leaf",
@@ -37,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md"
+                "file": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md"
               }
             }
           },
@@ -154,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,14 +193,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "052597b791fedf77",
+  "active": "e15834835c5ecd1d",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/pos_server_new/documentation/web orders/diagramns.md",
+    "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
     "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
     "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
-    "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
     "100_niufoods/01_daily_notes/2023-07-24.md",
     "100_niufoods/03_projects/shared/Levantar las aplicaciones al mismo tiempo.md",
-    "100_niufoods/03_projects/pos_server_new/documentation/web orders/diagramns.md",
     "100_niufoods/03_projects/shared",
     "100_niufoods/03_projects/conexiones.md",
     "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",

@@ -99,10 +99,23 @@ sequenceDiagram
     participant PN as Pos server New
 
 	CB->>CB: Armar data para enviar
-	CB->>PN: Envia el pedido oneclick (SendOrderToPof)
+	CB->>PN: Envia el pedido
 	PN->>PN: Lo procesa (api/v1/web_orders)
 ```
+
 ^05331e
+
+### procesado
+
+```mermaid
+---
+title: Send Order to Pof
+---
+flowchart LR
+	Start --> 
+	
+    
+```
 
 
 
