@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/pos_server_new/documentation/orders/diagramns.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pos_server_new/documentation/orders/diagramns.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/pos_server_new/documentation/orders/diagramns.md"
+                "file": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pos_server_new/documentation/orders/diagramns.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,9 +211,9 @@
   },
   "active": "c0a3c57d3d2d3ee3",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/pos_server_new/documentation/orders/diagramns.md",
     "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
     "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
-    "100_niufoods/03_projects/pos_server_new/documentation/orders/diagramns.md",
     "100_niufoods/03_projects/pof/documentation/orders/diagrams.md",
     "100_niufoods/03_projects/pof/documentation/orders",
     "100_niufoods/03_projects/pos_server_new/utils_commands",

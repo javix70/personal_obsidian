@@ -92,18 +92,17 @@ sequenceDiagram
 ## pof_server_new (adjuntar link a introduccion)
 
 ```mermaid
+---
+title: OneClick
+---
 
 sequenceDiagram
     participant CB as China Backend
     participant PN as Pos server New
 
-    alt es OneClick
-	    CB->>CB: Armar data para enviar
-        CB->>PN: Envia el pedido oneclick (SendOrderToPof)
-        PN->>PN: Lo procesa (api/v1/web_orders)
-    else Otra forma de pago
-        PN->>CB: Pide los pedidos que no son oneclick(pull_web_orders)
-    end
+	CB->>CB: Armar data para enviar
+	CB->>PN: Envia el pedido oneclick (SendOrderToPof)
+	PN->>PN: Lo procesa (api/v1/web_orders)
 ```
 ^05331e
 
