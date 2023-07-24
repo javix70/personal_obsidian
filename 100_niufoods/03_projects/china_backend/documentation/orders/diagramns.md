@@ -93,7 +93,7 @@ sequenceDiagram
 
 ```mermaid
 ---
-title: OneClick
+title: no es OneClick (cualquier otro medio de pago)
 ---
 
 sequenceDiagram
