@@ -72,6 +72,7 @@ Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 - [ ] tabla de tender crear nuevo tipo de tender, tax true
 cupon de descuento debe estar invisible (tentativo), rendicion, cierre de caja.y las impresiones  cuadratura e informe z
 - [ ] TenderClass -> en qué categoria esta el medio de pago, deberia ser ticket (5)
+- [ ] crear task para futuras ocaciones
 - [ ] push?
 
 Cómo agregar un nuevo medio de pago.
