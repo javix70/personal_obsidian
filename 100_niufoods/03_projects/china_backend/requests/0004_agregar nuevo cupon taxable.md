@@ -52,7 +52,7 @@ Comunicación entre china backend y POF
 # Avance
 
 
-Por ahora me enfocaré  en el caso de web y tiene un nuevo cupón  (China backend), liego voy a las siguientes apps.
+Por ahora me enfocaré  en el caso de web y tiene un nuevo cupón  (China backend), luego voy a las siguientes apps.
 ![[Pasted image 20230724152103.png]]
 Si tiene cupon pregunta por el Cupon Amount
 Los cupones no tienen forma de diferenciar si son de descuento de pago
