@@ -20,6 +20,18 @@ stateDiagram-v2
 
 # Secuencia
 
+## pof_server_new (adjuntar link a introduccion)
+
+```mermaid
+sequenceDiagram
+	actor E as Employee 
+	participant P as POF
+	participant PSN as Pos Server New
+
+	PSN: 
+	E->>P: Crear nueva orden
+	 
+```
 
 # Conexiones con otros servicios o apps
 
