@@ -52,8 +52,20 @@ Comunicación entre china backend y POF
 # Avance
 
 Exiten diferentes tipos de variantes cuando se envian un cupon
+En este caso solo será relevante el caso de web y tiene un nuevo cupón  (China backend)
 
-En este caso solo será relevante el caso de web y tiene un nuevo cupón
+![[Pasted image 20230724152103.png]]
+Si tiene cupon pregunta por el Cupon Amount
+Los cupones no tienen forma de diferenciar si son de descuento de pago
+![[Pasted image 20230724152204.png]]
+
+Una opción sería agregar al cupón si tax o no
+Así se puede llegar de la orden al cupon y preguntarle a él.
+Para despues preguntar
+
+El cupon es tax?
+	Entonces **PaymentType cupon Pago**
+	Sino **PaymentType cupon descuento**
 
 
 ![[100_niufoods/03_projects/china_backend/documentation/orders/diagramns#^530135|diagramns]]
