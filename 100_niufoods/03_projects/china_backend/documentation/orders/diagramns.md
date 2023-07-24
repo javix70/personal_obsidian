@@ -75,7 +75,7 @@ sequenceDiagram
     D->>C: Vista de checkout
     C->>D: Pagar
     D->>B: Generar Order
-    B-->>B: Aplica descuento y lo desactiva
+    B-->>B: Aplica descuento y lo desactiva (dependiendo del cupon)
     B->>D: Order creada
     D->>C: Mostrar vista de orden creada
     end
@@ -89,10 +89,6 @@ sequenceDiagram
 ## pof_server_new (adjuntar link a introduccion)
 
 ```mermaid
----
-title: no es OneClick (cualquier otro medio de pago)
----
-
 sequenceDiagram
     participant CB as China Backend
     participant PN as Pos server New
