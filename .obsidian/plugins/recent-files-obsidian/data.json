@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "diagramns",
-      "path": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "100_niufoods/03_projects/Untitled.canvas"
+      "basename": "Flujo de ordenes de compra",
+      "path": "100_niufoods/03_projects/conexiones/Flujo de ordenes de compra.canvas"
     },
     {
       "basename": "diagrams",
@@ -14,11 +10,11 @@
     },
     {
       "basename": "diagramns",
-      "path": "100_niufoods/03_projects/pos_server_new/documentation/web orders/diagramns.md"
+      "path": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md"
     },
     {
-      "basename": "2023-07-24",
-      "path": "100_niufoods/01_daily_notes/2023-07-24.md"
+      "basename": "diagramns",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/web orders/diagramns.md"
     }
   ],
   "omittedPaths": [],

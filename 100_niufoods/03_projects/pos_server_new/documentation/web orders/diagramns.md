@@ -28,6 +28,8 @@ sequenceDiagram
 	PSN->>PSN: Crea WebOrder vinculandolo con web_order_id y estado pending
 ```
 
+^7d5da0
+
 ## Otro metio de pago
 ```mermaid
 ---
@@ -40,6 +42,8 @@ sequenceDiagram
 	
 	
 ```
+
+^9df783
 
 # Conexiones con otros servicios o apps
 
