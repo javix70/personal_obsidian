@@ -38,12 +38,12 @@ Consideraciones (referencias)
 # Investigación
 
 ## china backend 
-![[diagramns#Secuencia|diagramns]]
+![[diagramns#^a750b5|diagramns]]
 
  
 
 Comunicación entre china backend y POF
-![[diagramns#POF]]
+![[diagramns#^5ae502]]
 ---
 # Avance
 

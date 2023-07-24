@@ -31,6 +31,8 @@ stateDiagram-v2
     products_free --> [*]
 ```
 
+^06234c
+
 
 # Secuencia
 
@@ -76,24 +78,30 @@ sequenceDiagram
     POF-->B: Si es oneclick, va a buscar La orden (Flujo de POF)  
 ```
 
+^a750b5
+
 
 # Conexiones con otros servicios o apps
 
-## POF
+## pof_server_new (adjuntar link a introduccion)
+
+^642837
 
 ```mermaid
 
 sequenceDiagram
     participant CB as China Backend
-    participant P as POF
+    participant PN as Pos server New
 
     alt es OneClick
 	    CB->>CB: Armar data para enviar
-        CB->>P: Envia el pedido oneclick
+        CB->>PN: Envia el pedido oneclick
     else Otra forma de pago
-        P->>CB: Pide los pedidos que no son oneclick
+        PN->>CB: Pide los pedidos que no son oneclick
     end
 ```
+
+^5ae502
 
 # Flujo
 
