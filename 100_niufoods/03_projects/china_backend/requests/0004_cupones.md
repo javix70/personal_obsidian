@@ -43,7 +43,7 @@ Consideraciones (referencias)
  
 
 Comunicación entre china backend y POF
-![[100_niufoods/03_projects/china_backend/documentation/orders/diagramns#^5ae502]]
+![[100_niufoods/03_projects/china_backend/documentation/orders/diagramns#^05331e]]
 ---
 # Avance
 

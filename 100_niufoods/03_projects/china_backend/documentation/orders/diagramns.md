@@ -102,10 +102,9 @@ sequenceDiagram
         CB->>PN: Envia el pedido oneclick (SendOrderToPof)
         PN->>PN: Lo procesa (api/v1/web_orders)
     else Otra forma de pago
-        PN->>CB: Pide los pedidos que no son oneclick()
+        PN->>CB: Pide los pedidos que no son oneclick(pull_web_orders)
     end
 ```
-
 ^05331e
 
 
