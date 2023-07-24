@@ -33,24 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "26c19f1a696fb422",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c0a3c57d3d2d3ee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md"
+                "file": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md"
               }
             }
           },
@@ -166,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
+                "file": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,10 +192,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c0a3c57d3d2d3ee3",
+  "active": "353962c85d79c924",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
+    "100_niufoods/03_projects/Untitled.canvas",
     "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
+    "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
     "100_niufoods/03_projects/pos_server_new/documentation/web orders/diagramns.md",
     "100_niufoods/01_daily_notes/2023-07-24.md",
     "100_niufoods/03_projects/china_backend/requests/0004_cupones.md",
@@ -247,7 +230,6 @@
     "100_niufoods/01_daily_notes/2023-07-19.md",
     "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
     "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
-    "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230712120300.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230711155626.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230711155616.png",

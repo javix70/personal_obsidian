@@ -22,15 +22,20 @@ stateDiagram-v2
 
 ## pof_server_new (adjuntar link a introduccion)
 
+### Crear nueva order a partir de pedidos web
+
 ```mermaid
+---
+title: Crear una orden a partir de Pos server new
+---
 sequenceDiagram
-	actor E as Employee 
 	participant P as POF
 	participant PSN as Pos Server New
 
-	PSN: 
-	E->>P: Crear nueva orden
-	 
+	P->>PSN: Obtiene WebOrders pendientes
+	P->>P: Crea una nueva orden
+	P->>PSN: WebOrdenes creadas.
+	PSN->>PSN: Cambia el estado a WO a Enviadas
 ```
 
 # Conexiones con otros servicios o apps
