@@ -73,10 +73,27 @@ sequenceDiagram
     B->>D: Order creada
     D->>C: Mostrar vista de orden creada
     end
-    B-->>POF: Enviar Orden a Tienda si no es oneclick
+    B-->>POF: Enviar Orden a Tienda si no es oneclick (api/v1/web_orders)
     POF-->B: Si es oneclick, va a buscar La orden (Flujo de POF)  
 ```
 
+
+# Conexiones con otros servicios o apps
+
+## POF
+
+```mermaid
+
+sequenceDiagram
+    participant CB as China Backend
+    participant P as POF
+
+    alt es OneClick
+        CB->>P: Envia el pedido oneclick
+    else Otra forma de pago
+        P->>CB: Pide los pedidos que no son oneclick
+    end
+```
 
 # Flujo
 

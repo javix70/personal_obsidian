@@ -38,27 +38,16 @@ Consideraciones (referencias)
 # Investigación
 
 ## china backend 
-![[100_niufoods/03_projects/china_backend/documentation/coupons/diagramns#Secuencia|diagramns]]
+![[diagramns#Secuencia|diagramns]]
 
  
 
 Comunicación entre china backend y POF
-
-```mermaid
-sequenceDiagram
-    participant CB as China Backend
-    participant P as POF
-
-    alt es OneClick
-        CB->>P: Toma el pedido (pof/api/v1/web_orders)
-    else Otra forma de pago
-        P->>CB: Pasa los pedidos 
-    end
-```
+![[diagramns#POF]]
 ---
 # Avance
 
-
+Aprender del flujo
 
 ---
 ## Checklist de tareas que hacer 
