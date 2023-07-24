@@ -34,7 +34,6 @@ stateDiagram-v2
     products_free --> [*]
 ```
 
-
 ^06234c
 
 
@@ -83,7 +82,6 @@ sequenceDiagram
     B-->>POF: Enviar Orden a Tienda si no es oneclick (api/v1/web_orders)
     POF-->B: Si es oneclick, va a buscar La orden (Flujo de POF)  
 ```
-
 ^a750b5
 
 

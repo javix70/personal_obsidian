@@ -51,6 +51,13 @@ Comunicación entre china backend y POF
 ---
 # Avance
 
+Exiten diferentes tipos de variantes cuando se envian un cupon
+
+En este caso solo será relevante el caso de web y tiene un nuevo cupón
+
+
+
+
 
 
 ---
