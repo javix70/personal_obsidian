@@ -13,10 +13,12 @@ stateDiagram-v2
 
 # Secuencia
 
+#
+
 
 # Conexiones con otros servicios o apps
 
 ## China Backend
-![[100_niufoods/03_projects/china_backend/documentation/orders/diagramns|diagramns]]
+![[100_niufoods/03_projects/china_backend/documentation/orders/diagramns#^05331e|diagramns]]
 
 # Flujo 

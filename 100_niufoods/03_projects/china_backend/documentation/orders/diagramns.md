@@ -4,7 +4,10 @@
 ## Significado de cada estado
 
 
+## Orden
+#TODO
 
+## Cupón (variante)
 ```mermaid
 ---
 title: Coupon
@@ -31,10 +34,13 @@ stateDiagram-v2
     products_free --> [*]
 ```
 
+
 ^06234c
 
 
-# Secuencia
+# Secuencia (Creación orden)
+
+## China delivery (web #TODO (ajuntar link a projecto))
 
 ```mermaid
 ---
@@ -85,8 +91,6 @@ sequenceDiagram
 
 ## pof_server_new (adjuntar link a introduccion)
 
-^642837
-
 ```mermaid
 
 sequenceDiagram
@@ -95,13 +99,16 @@ sequenceDiagram
 
     alt es OneClick
 	    CB->>CB: Armar data para enviar
-        CB->>PN: Envia el pedido oneclick
+        CB->>PN: Envia el pedido oneclick (SendOrderToPof)
+        PN->>PN: Lo procesa (api/v1/web_orders)
     else Otra forma de pago
-        PN->>CB: Pide los pedidos que no son oneclick
+        PN->>CB: Pide los pedidos que no son oneclick()
     end
 ```
 
-^5ae502
+^05331e
+
+
 
 # Flujo
 
