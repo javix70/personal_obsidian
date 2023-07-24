@@ -79,8 +79,7 @@ sequenceDiagram
     B->>D: Order creada
     D->>C: Mostrar vista de orden creada
     end
-    B-->>POF: Enviar Orden a Tienda si no es oneclick (api/v1/web_orders)
-    POF-->B: Si es oneclick, va a buscar La orden (Flujo de POF)  
+    B-->>POF: Enviar Orden a Tienda (api/v1/web_orders)
 ```
 ^a750b5
 
