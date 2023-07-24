@@ -112,15 +112,14 @@ sequenceDiagram
 title: Send Order to Pof
 ---
 flowchart LR
-	S(Orden) --> A{Tipo de pago}
-	A -- OneClick --> B
-	A -- Other(rapi,) -->
-	S -->B{Tiene un descuento}
-	B -- Si --> C(Buscar Cupon)
-	C -->|asignar cupon como rendicion|END
-	B -- No --> END
+	S(Orden) --> A{Tiene un descuento}
+	A -- Si --> C(Agregar a rendicion el PaymentType de cupon)
+	C --> END(Enviar a pof)
+	A -- No --> END
     
 ```
+
+^530135
 
 
 

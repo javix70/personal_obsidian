@@ -56,7 +56,7 @@ Exiten diferentes tipos de variantes cuando se envian un cupon
 En este caso solo será relevante el caso de web y tiene un nuevo cupón
 
 
-
+![[100_niufoods/03_projects/china_backend/documentation/orders/diagramns#^530135|diagramns]]
 
 
 
