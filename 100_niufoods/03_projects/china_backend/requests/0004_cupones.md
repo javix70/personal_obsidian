@@ -51,7 +51,7 @@ Comunicación entre china backend y POF
 ---
 # Avance
 
-Aprender del flujo
+
 
 ---
 ## Checklist de tareas que hacer 
