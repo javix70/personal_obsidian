@@ -50,9 +50,9 @@ sequenceDiagram
     participant P as POF
 
     alt es OneClick
-        CB->>P: Toma el pedido (api/v1/web_orders)
+        CB->>P: Toma el pedido (pof/api/v1/web_orders)
     else Otra forma de pago
-        P->>CB: Pasa los pedidos
+        P->>CB: Pasa los pedidos 
     end
 ```
 ---
