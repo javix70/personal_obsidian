@@ -3,7 +3,6 @@
 
 ## Significado de cada estado
 
-## Diagrama
 
 
 ```mermaid
@@ -89,6 +88,7 @@ sequenceDiagram
     participant P as POF
 
     alt es OneClick
+	    CB->>CB: Armar data para enviar
         CB->>P: Envia el pedido oneclick
     else Otra forma de pago
         P->>CB: Pide los pedidos que no son oneclick

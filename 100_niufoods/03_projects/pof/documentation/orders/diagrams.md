@@ -3,7 +3,10 @@
 
 ## Significado de cada estado
 
-## Diagrama
-
 
 # Secuencia
+
+
+# Conexiones con otros servicios o apps
+
+# Flujo 
