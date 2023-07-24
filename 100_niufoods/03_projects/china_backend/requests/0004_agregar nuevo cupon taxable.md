@@ -58,10 +58,10 @@ Si tiene cupon pregunta por el Cupon Amount
 Los cupones no tienen forma de diferenciar si son de descuento de pago
 ![[Pasted image 20230724152204.png]]
 
-Una opción sería agregar al cupón si tax o no
-Así se puede llegar de la orden al cupon y preguntarle a él.
-Para despues preguntar
+## Opciones de implementación
+###  agregar al cupón si tax o no
 
+Así se puede llegar de la orden al cupon y preguntarle a él
 El cupon es tax?
 	Entonces **PaymentType cupon Pago**
 	Sino **PaymentType cupon descuento**
@@ -69,7 +69,8 @@ El cupon es tax?
 PaymentType,
 ![[Pasted image 20230724154350.png]]
 
-
+### Agregar en front seleccionar el tipo de cupón (tengo mis dudas aquí)
+La idea sería preguntarle al utilizador de cupon de tipo de cupon utilizará, pero él cómo sabra que tipo de cupón es?, por ahora el camino que veo válido, es la [[#agregar al cupón si tax o no|La opcion 1]]
 
 ![[100_niufoods/03_projects/china_backend/documentation/orders/diagramns#^530135|diagramns]]
 
