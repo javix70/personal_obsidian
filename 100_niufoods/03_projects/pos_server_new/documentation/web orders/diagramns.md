@@ -43,7 +43,7 @@ sequenceDiagram
 
 # Conexiones con otros servicios o apps
 
-## China Backend
+## China Backend (recibe nueva orden)
 ![[100_niufoods/03_projects/china_backend/documentation/orders/diagramns#^05331e|diagramns]]
 
 # Flujo 
