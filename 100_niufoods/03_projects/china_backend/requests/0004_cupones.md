@@ -2,7 +2,7 @@
 created_at: 2023-07-20 11:25
 updated_at: 2023-07-20 11:25
 tags:
-  - [china_backend]
+  - [china_backend pof pos_server_new]
   - requirement
 ---
 
@@ -45,6 +45,8 @@ Consideraciones (referencias)
 Comunicación entre china backend y POF
 ![[100_niufoods/03_projects/china_backend/documentation/orders/diagramns#^05331e]]
 
+
+[[Flujo de ordenes de compra.canvas|Flujo de ordenes de compra(Canvas)]]
 
 ---
 # Avance
