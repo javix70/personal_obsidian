@@ -38,7 +38,8 @@ sequenceDiagram
 	PSN->>PSN: Cambia el estado a WO a Enviadas
 	P->>PSN: Por cada Check, pido sus Payments (perform_request_pull_checks_payment_attempts)
 	P->>P: Crear rendiciones por cada check
-	p->>PSN: envia resultado de procesado (perform_request_update_restaurant_delivery_orders)
+	P->>PSN: envia resultado de procesado (perform_request_update_restaurant_delivery_orders)
+	PSN->>PSN: Actualiza los estados segun corresponda
 ```
 
 ^17d08c
