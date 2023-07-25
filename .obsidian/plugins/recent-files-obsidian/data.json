@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Flujo de ordenes de compra",
-      "path": "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas"
-    },
-    {
       "basename": "0004_agregar nuevo cupon taxable",
       "path": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md"
+    },
+    {
+      "basename": "diagrams",
+      "path": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md"
+    },
+    {
+      "basename": "Flujo de ordenes de compra",
+      "path": "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas"
     },
     {
       "basename": "update_restorant_datetime",
@@ -15,10 +19,6 @@
     {
       "basename": "recovery databases",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
-    },
-    {
-      "basename": "diagramns",
-      "path": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md"
     }
   ],
   "omittedPaths": [],

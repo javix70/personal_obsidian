@@ -32,7 +32,7 @@ sequenceDiagram
 	participant P as POF
 	participant PSN as Pos Server New
 
-	P->>PSN: Obtiene WebOrders pendientes
+	P->>PSN: Obtiene WebOrders  pendientes (perform_request_pull_web_orders)
 	P->>P: Crea una nueva orden
 	P->>PSN: WebOrdenes creadas.
 	PSN->>PSN: Cambia el estado a WO a Enviadas
