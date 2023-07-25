@@ -31,6 +31,7 @@ prs
 [https://bitbucket.org/niusushi/china-backend/pull-requests/300](https://bitbucket.org/niusushi/china-backend/pull-requests/300)
 [https://bitbucket.org/niusushi/china-backend/pull-requests/298](https://bitbucket.org/niusushi/china-backend/pull-requests/298)
 
+[1644 - Truncar valores pof](https://bitbucket.org/nnodes/pof/pull-requests/169) en este trabaje
 dependiente: 
 [1587 - Mostrar decimales por localizacion](https://bitbucket.org/nnodes/pof/pull-requests/151)
 
