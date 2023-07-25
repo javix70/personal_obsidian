@@ -92,3 +92,11 @@ cupon de descuento debe estar invisible (tentativo), rendicion, cierre de caja.y
 - [ ] push?
 
 Cómo agregar un nuevo medio de pago.
+
+
+
+---
+Documentación del proceso
+En china backend, crear un nuevo PaymentType con el nombre que se quieras
+Luego en pos_server_new, crear un nuevo Tender, 
+	
