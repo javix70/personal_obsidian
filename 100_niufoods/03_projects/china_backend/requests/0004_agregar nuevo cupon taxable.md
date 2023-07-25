@@ -138,12 +138,28 @@ China backend
 	  end
 	end
 	```
-2.  Listo
 
 POF
+1. Crear una migración o una task para crear un nuevo Tender con el nombre solicitado
+```ruby
+	class UpdateTenderAndAddDiscountCoupon < ActiveRecord::Migration[5.1]
+	    def up
+	
+	      Tender.create(
+	        name: 'Cupon descuento', 
+	        tender_class_id: 5, 
+	        tax: true,
+	        gives_change: true
+	      )
+	    end
+	
+	    def down
+	      Tender.find_by(name: 'Cupon descuento').destroy
+	    end
+	end
+```
+2.  Listo
 
-
-Luego en pos_server_new, crear un nuevo Tender, 
 
 | ChinaBackend     |                   | pos_server_new |             |      |              | POF |              |      |              |
 |------------------|-------------------|----------------|-------------|------|--------------|-----|--------------|------|--------------|

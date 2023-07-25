@@ -40,6 +40,8 @@ sequenceDiagram
 
 ^17d08c
 
+
+
 # Conexiones con otros servicios o apps
 
 # Flujo 
