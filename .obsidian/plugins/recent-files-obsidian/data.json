@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "update_restorant_datetime",
+      "path": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md"
+    },
+    {
       "basename": "recovery databases",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Flujo de ordenes de compra",
       "path": "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas"
-    },
-    {
-      "basename": "0003_kushki",
-      "path": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md"
     }
   ],
   "omittedPaths": [],
