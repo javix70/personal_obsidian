@@ -101,14 +101,13 @@ Documentación del proceso
 En china backend, crear un nuevo PaymentType con el nombre que se quieras
 Luego en pos_server_new, crear un nuevo Tender, 
 
-
-| ChinaBackend     |                   | pos_server_new |             |      |              |
-|------------------|-------------------|----------------|-------------|------|--------------|
-| Payment Type Code| Payment Type Name | Tender Name    | Tender Code | Tax  | Gives Change |
-|------------------|-------------------|----------------|-------------|------|--------------|
-| TND0008          | Oneclick          | One Click      | TND0008     | true | true         |
-| TND0010          | Pago online PY    | Pago Online PY | TND0010     | true | true         |
-| TND0009          | VoucherPY         | Voucher PY     | TND0009     | false| false        |
-| TND0011          | Rappi             | Rappi          | TND0011     | true | true         |
-| TND0013          | Cupon pago        | Cupon pago     | TND0013     | false| false        |
-| TND0016          | Cupon descuento   | Cupon descuento| TND0016     | true | true         |
+| ChinaBackend     |                   | pos_server_new |             |      |              | POF |              |      |              |
+|------------------|-------------------|----------------|-------------|------|--------------|-----|--------------|------|--------------|
+| Payment Type Code| Payment Type Name | Tender Name    | Tender Code | Tax  | Gives Change | Name| Tender Code | Tax  | Gives Change |
+|------------------|-------------------|----------------|-------------|------|--------------|-----|--------------|------|--------------|
+| TND0008          | Oneclick          | One Click      | TND0008     | true | true         | One Click | TND0008 | true | true |
+| TND0010          | Pago online PY    | Pago Online PY | TND0010     | true | true         | Pago Online PY | TND0010 | true | true |
+| TND0009          | VoucherPY         | Voucher PY     | TND0009     | false| false        | Voucher PY | TND0009 | false | false |
+| TND0011          | Rappi             | Rappi          | TND0011     | true | true         | Rappi | TND0011 | true | true |
+| TND0013          | Cupon pago        | Cupon pago     | TND0013     | false| false        | Cupon Dcto | TND0013 | false | false |
+| TND0016          | Cupon descuento   | Cupon descuento| TND0016     | true | true         | Cupon descuento | TND0016 | true | true |
