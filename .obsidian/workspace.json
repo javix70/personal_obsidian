@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md",
-                "mode": "source",
+                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#requirement",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md"
+                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "39334f508164cb73",
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,9 +180,14 @@
   },
   "active": "e15834835c5ecd1d",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
-    "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
     "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md",
+    "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
+    "Untitled.canvas",
+    "100_niufoods/03_projects/china_backend/requests/0002_add_logger_transbank.md",
+    "100_niufoods/03_projects/china_backend/requests/0001_add_logger_to_Order_save_param_method.md",
+    "100_niufoods/01_daily_notes/2023-07-25.md",
+    "100_niufoods/01_daily_notes/2023-07-24.md",
+    "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
     "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
     "100_niufoods/03_projects/shared/repetitive_tasks",
     "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
@@ -196,7 +200,6 @@
     "100_niufoods/03_projects/china_backend/requests/attachments/Pasted image 20230724152046.png",
     "100_niufoods/03_projects/china_backend/requests/attachments",
     "100_niufoods/03_projects/pos_server_new/documentation/web orders/diagramns.md",
-    "100_niufoods/01_daily_notes/2023-07-24.md",
     "100_niufoods/03_projects/shared/Levantar las aplicaciones al mismo tiempo.md",
     "100_niufoods/03_projects/shared",
     "100_niufoods/03_projects/conexiones.md",
@@ -218,15 +221,11 @@
     "100_niufoods/06_team_agreements/function_params_named.md",
     "100_niufoods/06_team_agreements/documentation.md",
     "100_niufoods/03_projects/china_backend/documentation/diagrams/Untitled.md",
-    "200_templates/requirement.md",
-    "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
-    "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230712120300.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230711155626.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230711155616.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230711154511.png",
     "100_niufoods/200_anexs/Pasted image 20230615111549.png",
-    "100_niufoods/200_anexs/Pasted image 20230630124124.png",
-    "Untitled.canvas"
+    "100_niufoods/200_anexs/Pasted image 20230630124124.png"
   ]
 }
