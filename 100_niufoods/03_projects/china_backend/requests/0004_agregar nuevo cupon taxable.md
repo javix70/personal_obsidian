@@ -35,19 +35,10 @@ Consideraciones (referencias)
 **Actual**: 
 1. [1650-china-backend](https://bitbucket.org/niusushi/china-backend/pull-requests/339)
 2. [1650-pof](https://bitbucket.org/nnodes/pof_server_new/pull-requests/358)
-3. 1650-pos_server_new
+3. [1650-pos_server_new](https://bitbucket.org/nnodes/pof_server_new/pull-requests/359?t=1)
 
-gcb 1650-china-backend
-ggp
 
-gcb 1650-pof
-git commit -am "FEAT: add new cupon taxable"
-ggp
-gcb 1650-pos_server_new
-git commit -am "FEAT: add new cupon taxable"
-ggp
-
-**Trello card**: 1650
+**Trello card**: [Crear nuevo cupon con taxable true](https://trello.com/c/m7SF2MYG/1650-crear-nuevo-cupon-con-taxable-true)
 
 ---
 # Investigación
@@ -96,18 +87,17 @@ La idea sería preguntarle al utilizador de cupon de tipo de cupon utilizará, p
 
 Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
-- [ ] Crear ticket en trello
-- [ ] Cupon debe cambiar de nombre a `Cupon de pago`
-- [ ] Crear un nuevo `Cupon descuento`
-	- [ ] Debe ser visible
-	- [ ] tender_class_id => 5
-	- [ ] tax => true
-	- [ ] gives_change => true
+- [x] Crear ticket en trello  [completion:: 2023-07-25]
+- [x] Cupon debe cambiar de nombre a `Cupon de pago`  [completion:: 2023-07-25]
+- [x] Crear un nuevo `Cupon descuento`  [completion:: 2023-07-25]
+	- [x] Debe ser visible  [completion:: 2023-07-25]
+	- [x] tender_class_id => 5
+	- [x] tax => true
+	- [x] gives_change => true
 
 - [ ] Antes de mezclar, asegurarse que el cupón de descuento de pos_server_new sea igual a China backend
 
-1650
-- [ ] push china backend
-- [ ] push POF
-- [ ] push Pos server new
-- [ ] push?
+- [x] push china backend  [completion:: 2023-07-25]
+- [x] push POF  [completion:: 2023-07-25]
+- [x] push Pos server new  [completion:: 2023-07-25]
+- [x] push?  [completion:: 2023-07-25]

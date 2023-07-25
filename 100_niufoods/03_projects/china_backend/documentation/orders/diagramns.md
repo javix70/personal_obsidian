@@ -58,7 +58,7 @@ sequenceDiagram
     note left of A: Flujo de crear un cupon
     A->>BA: Other -> Cupones 
     BA->>A: Vista de cupones
-    A->>BA: Anadir nuevo cupon
+    A->>BA: Anadir nuevo cupon [update: le asigna ahora un PaymentType]
     BA->>B: Crear
     B->>BA: Ok
     BA->>A: Muestra cupon creado
