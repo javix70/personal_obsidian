@@ -32,7 +32,22 @@ Consideraciones (referencias)
 
 ## Prs involucrados
 
-**Actual**: #TODO 
+**Actual**: 
+1. [1650-china-backend](https://bitbucket.org/niusushi/china-backend/pull-requests/339)
+2. [1650-pof](https://bitbucket.org/nnodes/pof_server_new/pull-requests/358)
+3. 1650-pos_server_new
+
+gcb 1650-china-backend
+ggp
+
+gcb 1650-pof
+git commit -am "FEAT: add new cupon taxable"
+ggp
+gcb 1650-pos_server_new
+git commit -am "FEAT: add new cupon taxable"
+ggp
+
+**Trello card**: 1650
 
 ---
 # Investigación
@@ -91,6 +106,7 @@ Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
 - [ ] Antes de mezclar, asegurarse que el cupón de descuento de pos_server_new sea igual a China backend
 
+1650
 - [ ] push china backend
 - [ ] push POF
 - [ ] push Pos server new
