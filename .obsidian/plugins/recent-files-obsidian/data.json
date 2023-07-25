@@ -9,16 +9,16 @@
       "path": "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md"
     },
     {
+      "basename": "Flujo de ordenes de compra",
+      "path": "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.canvas"
     },
     {
       "basename": "0002_add_logger_transbank",
       "path": "100_niufoods/03_projects/china_backend/requests/0002_add_logger_transbank.md"
-    },
-    {
-      "basename": "0001_add_logger_to_Order_save_param_method",
-      "path": "100_niufoods/03_projects/china_backend/requests/0001_add_logger_to_Order_save_param_method.md"
     }
   ],
   "omittedPaths": [],
