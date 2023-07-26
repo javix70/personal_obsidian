@@ -83,6 +83,10 @@ La idea sería preguntarle al utilizador de cupon de tipo de cupon utilizará, p
 ![[100_niufoods/03_projects/china_backend/documentation/orders/diagramns#^530135|diagramns]]
 
 
+Agregando el nuevo Tender en POF se ve
+![[Pasted image 20230726124456.png]]
+
+Nos percatamos que el cupon de pago ya no es visible y si lo es el cupon de descuento
 
 ---
 ## Checklist de tareas que hacer 

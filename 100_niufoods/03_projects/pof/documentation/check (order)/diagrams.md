@@ -20,7 +20,8 @@ stateDiagram-v2
 
 # Secuencia
 
-## pof_server_new (adjuntar link a introduccion)
+
+# Conexiones con otros servicios o apps
 
 ### Crear nueva order a partir de pedidos web
 
@@ -43,7 +44,5 @@ sequenceDiagram
 ```
 
 ^17d08c
-
-# Conexiones con otros servicios o apps
 
 # Flujo 

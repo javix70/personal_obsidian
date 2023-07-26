@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
+                "file": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
               "type": "markdown",
               "state": {
                 "file": "100_niufoods/03_projects/pof/urils_commands/Reiniciar secuencia de pk.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pof/urils_commands/Reiniciar secuencia de pk.md",
+                "file": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/pof/urils_commands/Reiniciar secuencia de pk.md"
+                "file": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pof/urils_commands/Reiniciar secuencia de pk.md",
+                "file": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,13 +212,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "98e0545b6b30bfa3",
+  "active": "c67c966078e4a036",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
+    "100_niufoods/03_projects/china_backend/requests/attachments/Pasted image 20230726124456.png",
     "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
+    "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
     "100_niufoods/03_projects/pof/urils_commands/Reiniciar secuencia de pk.md",
     "Untitled.canvas",
     "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
-    "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
     "100_niufoods/03_projects/pof/before_start/config_change_between_countries.md",
     "100_niufoods/03_projects/pof/documentation/caja_turno/cash_closing.md",
     "100_niufoods/03_projects/pof/documentation/caja_turno/flujos_canvas.canvas",
@@ -235,13 +237,11 @@
     "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115612.png",
     "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115605.png",
     "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115554.png",
-    "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115535.png",
     "100_niufoods/03_projects/pof/documentation/attachments",
     "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
     "200_templates/diagramas.md",
     "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md",
     "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
-    "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
     "100_niufoods/01_daily_notes/2023-07-26.md",
     "100_niufoods/01_daily_notes/2023-07-25.md",
     "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
@@ -261,7 +261,6 @@
     "100_niufoods/03_projects/pos_server_new/requests",
     "100_niufoods/03_projects/pos_server_new/repetitive_tasks",
     "100_niufoods/03_projects/china_backend/documentation/Orden/diagramns.md",
-    "100_niufoods/01_daily_notes/2023-07-20.md",
-    "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md"
+    "100_niufoods/01_daily_notes/2023-07-20.md"
   ]
 }
