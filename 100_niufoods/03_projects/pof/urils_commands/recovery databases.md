@@ -12,7 +12,7 @@ exit
 # Cargar los datos
 
 ```bash
-pg_restore -v -c -O -x -h localhost -U jai -d "pof_dev" backup_guacamole_server_2023_06_22_11_05.dump
+pg_restore -v -c -O -x -h localhost -U jai -d "pof_dev" backup_niu_brasil_2023_07_18_14_00.dump
 ```
 
 ```ruby
