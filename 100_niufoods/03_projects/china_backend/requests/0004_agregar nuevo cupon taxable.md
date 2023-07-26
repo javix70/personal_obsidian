@@ -100,7 +100,7 @@ Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 modificar los prs.. 
 - [ ] push china backend
 - [ ] push POF
-- [ ] push Pos server new
+- [x] push Pos server new  [completion:: 2023-07-26]
 - [ ] push?
 
 Ahora se sigue con el proceso de Cierre de caja, en donde el nuevo cupon cojn tax:true debe aparecer como medio de pago
