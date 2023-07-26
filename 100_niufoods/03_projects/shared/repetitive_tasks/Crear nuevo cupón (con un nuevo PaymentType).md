@@ -31,18 +31,13 @@ end
 POF
 1. Crear  un nuevo Tender con el nombre solicitado
 ```ruby
-	      Tender.create(
-	        name: 'Cupon descuento', 
-	        tender_class_id: 5, 
-	        tax: true,
-	        gives_change: true
-	      )
-	    end
-	
-	    def down
-	      Tender.find_by(name: 'Cupon descuento').destroy
-	    end
-	end
+  Tender.create(
+	name: 'Cupon descuento', 
+	tender_class_id: 5, 
+	tax: true,
+	gives_change: true
+  )
+end
 ```
 2.  Listo
 
