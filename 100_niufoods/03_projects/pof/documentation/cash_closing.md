@@ -8,7 +8,15 @@
 
 # Secuencia
 
-## title 1
+
+## Un usuario, tiene RegisterShift
+
+RegisterShift: c
+```mermaid
+sequenceDiagram
+
+
+```
 
 ## title 2
 
