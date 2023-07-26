@@ -15,7 +15,7 @@ No tener problemas legales con cobrarle de más a los clientes. y se hará trunc
 
 Antes de empezar + consideraciones
 - [[config_change_between_countries |Cambiar entre paises]]: Probar que ambos paises funcionen
-- [[close_shift|Cerrar turno forzadamente]]: Opcional, en caso de tener el turno abierto
+- [[100_niufoods/03_projects/pof/urils_commands/close_shift|Cerrar turno forzadamente]]: Opcional, en caso de tener el turno abierto
 
 ChinaBackend está truncado. no la lógica, pero si revisar de ahí el cómo se hace el truncamiento
 

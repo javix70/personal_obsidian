@@ -54,6 +54,8 @@ Comunicación entre china backend y POF
 
 [[Flujo de ordenes de compra.canvas|Flujo de ordenes de compra(Canvas)]]
 
+Analicemos el flujo de cierre de caja
+
 ---
 # Avance
 

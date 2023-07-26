@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-07-26",
-      "path": "100_niufoods/01_daily_notes/2023-07-26.md"
+      "basename": "cash_closing",
+      "path": "100_niufoods/03_projects/pof/documentation/cash_closing.md"
+    },
+    {
+      "basename": "diagrams",
+      "path": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md"
+    },
+    {
+      "basename": "diagramas",
+      "path": "200_templates/diagramas.md"
     },
     {
       "basename": "Crear nuevo cupón (con un nuevo PaymentType)",
       "path": "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md"
     },
     {
-      "basename": "2023-07-25",
-      "path": "100_niufoods/01_daily_notes/2023-07-25.md"
-    },
-    {
       "basename": "diagramns",
       "path": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md"
-    },
-    {
-      "basename": "Flujo de ordenes de compra",
-      "path": "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas"
     }
   ],
   "omittedPaths": [],
