@@ -98,9 +98,10 @@ Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 - [ ] Antes de mezclar, asegurarse que el cupón de descuento de pos_server_new sea igual a China backend
 
 modificar los prs.. 
-- [ ] push china backend
+
+- [x] push china backend  [completion:: 2023-07-26]
 - [ ] push POF
 - [x] push Pos server new  [completion:: 2023-07-26]
-- [ ] push?
+- [x] push?  [completion:: 2023-07-26]
 
 Ahora se sigue con el proceso de Cierre de caja, en donde el nuevo cupon cojn tax:true debe aparecer como medio de pago
