@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5124969482422,
-    "collapsed": true
+    "width": 458.5124969482422
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -181,11 +180,12 @@
   },
   "active": "98e0545b6b30bfa3",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/pos_server_new/before_start/Untitled.md",
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/Como se sincroniza?.md",
     "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230726153005.png",
     "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230726151717.png",
     "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments",
     "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/Como se sincroniza?.md",
     "100_niufoods/03_projects/pos_server_new/documentation/sync_data",
     "100_niufoods/03_projects/pof/urils_commands/Reiniciar secuencia de pk.md",
     "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
@@ -208,7 +208,6 @@
     "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
     "100_niufoods/03_projects/pof/documentation/caja_turno",
     "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115612.png",
-    "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115605.png",
     "100_niufoods/03_projects/pof/documentation/attachments",
     "200_templates/diagramas.md",
     "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md",

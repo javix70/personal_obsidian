@@ -5,6 +5,10 @@
       "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/Como se sincroniza?.md"
     },
     {
+      "basename": "Untitled",
+      "path": "100_niufoods/03_projects/pos_server_new/before_start/Untitled.md"
+    },
+    {
       "basename": "diagrams",
       "path": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "0004_agregar nuevo cupon taxable",
       "path": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md"
-    },
-    {
-      "basename": "close_shift",
-      "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
     }
   ],
   "omittedPaths": [],
