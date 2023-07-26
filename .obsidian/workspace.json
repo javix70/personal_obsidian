@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43279279d095752d",
+        "id": "40184f417e77b53e",
         "type": "tabs",
         "children": [
           {
-            "id": "d4b3e70f3379733a",
+            "id": "3c237663ff850ae3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "100_niufoods/03_projects/pof/documentation/cash_closing.md",
-                "mode": "source",
-                "source": false
+                "file": "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115148.png"
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pof/documentation/cash_closing.md",
+                "file": "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115148.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/pof/documentation/cash_closing.md"
+                "file": "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115148.png"
               }
             }
           },
@@ -135,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pof/documentation/cash_closing.md",
+                "file": "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115148.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,10 +176,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d4b3e70f3379733a",
+  "active": "3c237663ff850ae3",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115114.png",
+    "100_niufoods/03_projects/pof/documentation/caja_turno/Untitled.canvas",
+    "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
+    "100_niufoods/03_projects/pof/documentation/caja_turno/cash_closing.md",
+    "100_niufoods/03_projects/pof/documentation/caja_turno",
+    "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115612.png",
+    "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115605.png",
+    "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115554.png",
+    "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115535.png",
+    "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115413.png",
+    "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115239.png",
+    "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115227.png",
+    "100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115148.png",
+    "100_niufoods/03_projects/pof/documentation/attachments",
     "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
-    "100_niufoods/03_projects/pof/documentation/cash_closing.md",
     "200_templates/diagramas.md",
     "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md",
     "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
@@ -189,9 +200,7 @@
     "100_niufoods/01_daily_notes/2023-07-26.md",
     "100_niufoods/01_daily_notes/2023-07-25.md",
     "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
-    "Untitled.canvas",
     "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
-    "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
     "100_niufoods/03_projects/china_backend/requests/0002_add_logger_transbank.md",
     "100_niufoods/03_projects/china_backend/requests/0001_add_logger_to_Order_save_param_method.md",
     "100_niufoods/01_daily_notes/2023-07-24.md",
@@ -199,9 +208,6 @@
     "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
     "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/china_backend/requests/attachments/Pasted image 20230724154350.png",
-    "100_niufoods/03_projects/china_backend/requests/attachments/Pasted image 20230724152204.png",
-    "100_niufoods/03_projects/china_backend/requests/attachments/Pasted image 20230724152103.png",
-    "100_niufoods/03_projects/china_backend/requests/attachments/Pasted image 20230724152046.png",
     "100_niufoods/03_projects/china_backend/requests/attachments",
     "100_niufoods/03_projects/pos_server_new/documentation/web orders/diagramns.md",
     "100_niufoods/03_projects/shared/Levantar las aplicaciones al mismo tiempo.md",
@@ -212,21 +218,12 @@
     "100_niufoods/03_projects/pos_server_new/requests",
     "100_niufoods/03_projects/pos_server_new/repetitive_tasks",
     "100_niufoods/03_projects/pos_server_new/documentation",
-    "100_niufoods/03_projects/pos_server_new/before_start",
-    "100_niufoods/03_projects/pos_server_new",
     "100_niufoods/03_projects/china_backend/documentation/Orden/diagramns.md",
     "100_niufoods/01_daily_notes/2023-07-20.md",
     "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
     "100_niufoods/06_team_agreements/how_to_review_pr.md",
     "100_niufoods/06_team_agreements/how_to_create_a_content_card.md",
     "100_niufoods/06_team_agreements/prefix_commit.md",
-    "100_niufoods/06_team_agreements/pending_conversations.md",
-    "100_niufoods/06_team_agreements/linters.md",
-    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230712120300.png",
-    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230711155626.png",
-    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230711155616.png",
-    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230711154511.png",
-    "100_niufoods/200_anexs/Pasted image 20230615111549.png",
-    "100_niufoods/200_anexs/Pasted image 20230630124124.png"
+    "100_niufoods/06_team_agreements/pending_conversations.md"
   ]
 }
