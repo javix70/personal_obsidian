@@ -34,3 +34,21 @@ worker.process # Ejecución
 
 Esto ejecuta este modulo.
 ![[Pasted image 20230726153005.png]]
+
+
+```mermaid
+sequenceDiagram
+    participant UpdateWorker as UpdateWorker
+    participant Restaurant as Restaurant
+    participant HTTP as HTTP Request
+    UpdateWorker->>UpdateWorker: perform(id, restaurant_id, sync_time)
+    UpdateWorker->>UpdateWorker: setup(id, restaurant_id)
+    UpdateWorker->>Restaurant: find(restaurant_id)
+    Restaurant->>UpdateWorker: @restaurant
+    UpdateWorker->>UpdateWorker: perform_request(...)
+    UpdateWorker->>HTTP: PUT /api/v1/...
+    HTTP->>UpdateWorker: Response
+    UpdateWorker->>UpdateWorker: response_feedback(response)
+    UpdateWorker->>UpdateWorker: update_columns(...)
+
+```
