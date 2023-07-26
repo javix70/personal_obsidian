@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"group","id":"5b1c4b483617c803","x":-1353,"y":-215,"width":4181,"height":915,"label":"Cierre"},
+		{"type":"group","id":"19ca03684d9dcf25","x":141,"y":-162,"width":2147,"height":374,"label":"Caja"},
+		{"type":"group","id":"67aa7cf12c9dad4e","x":-1353,"y":-796,"width":2034,"height":390,"label":"Abrir caja"},
+		{"type":"group","id":"68f5e7b66b978086","x":141,"y":317,"width":512,"height":337,"label":"Dia"},
+		{"type":"file","file":"100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115535.png","id":"beabcaa185b5c230","x":161,"y":-142,"width":400,"height":334},
+		{"type":"file","file":"100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115605.png","id":"74af6d6ba9ad1362","x":1331,"y":-116,"width":400,"height":283},
+		{"type":"file","file":"100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115239.png","id":"d0440724ada2ddc7","x":233,"y":-758,"width":400,"height":332},
+		{"type":"file","file":"100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115148.png","id":"3a2db13a74a62455","x":-437,"y":-719,"width":400,"height":254},
+		{"type":"file","file":"100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115114.png","id":"2a943e9eb8c51832","x":-1333,"y":-617,"width":713,"height":50},
+		{"type":"file","file":"100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726120157.png","id":"fb27242b857579a8","x":-454,"y":107,"width":400,"height":290},
+		{"type":"file","file":"100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115114.png","id":"ecc16eb62d7231ca","x":-1351,"y":227,"width":713,"height":50},
+		{"type":"file","file":"100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115554.png","id":"bbf2c8892ed5eb9b","x":762,"y":-108,"width":400,"height":266},
+		{"type":"file","file":"100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115612.png","id":"ee42d61088c9de6c","x":1868,"y":-116,"width":400,"height":283},
+		{"type":"file","file":"100_niufoods/03_projects/pof/documentation/attachments/Pasted image 20230726115413.png","id":"8b379824f2bdb7bf","x":161,"y":439,"width":473,"height":195},
+		{"type":"text","text":"","id":"bc3d9639affe0a21","x":272,"y":337,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"de50ad9174c13af6","fromNode":"2a943e9eb8c51832","fromSide":"right","toNode":"3a2db13a74a62455","toSide":"left"},
+		{"id":"0148101c350982ce","fromNode":"3a2db13a74a62455","fromSide":"right","toNode":"d0440724ada2ddc7","toSide":"left"},
+		{"id":"c0a70228d2e894eb","fromNode":"ecc16eb62d7231ca","fromSide":"right","toNode":"fb27242b857579a8","toSide":"left"},
+		{"id":"f7875ff3a74695c5","fromNode":"fb27242b857579a8","fromSide":"right","toNode":"beabcaa185b5c230","toSide":"left"},
+		{"id":"a41c8144c91bfff3","fromNode":"fb27242b857579a8","fromSide":"right","toNode":"8b379824f2bdb7bf","toSide":"left"},
+		{"id":"25f72fdbbe09b30b","fromNode":"beabcaa185b5c230","fromSide":"right","toNode":"bbf2c8892ed5eb9b","toSide":"left"},
+		{"id":"8f673c18ef437870","fromNode":"bbf2c8892ed5eb9b","fromSide":"right","toNode":"74af6d6ba9ad1362","toSide":"left"},
+		{"id":"ef3491fb0b57bafd","fromNode":"74af6d6ba9ad1362","fromSide":"right","toNode":"ee42d61088c9de6c","toSide":"left"}
+	]
+}

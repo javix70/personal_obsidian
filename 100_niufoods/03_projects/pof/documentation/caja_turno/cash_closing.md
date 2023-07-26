@@ -29,12 +29,11 @@ sequenceDiagram
 
 ## Abrir caja
 ![[Pasted image 20230726115114.png]]
-
-![[Pasted image 20230726115227.png]]
-
+![[Pasted image 20230726115148.png]]
 ![[Pasted image 20230726115239.png]]
 
 ## Cerrrar
+![[Pasted image 20230726120157.png]]
 
 ###  Día
 ![[Pasted image 20230726115413.png]]
