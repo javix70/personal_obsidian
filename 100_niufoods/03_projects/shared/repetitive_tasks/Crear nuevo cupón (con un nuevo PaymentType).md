@@ -3,51 +3,34 @@ Esta documentación fue trabajada en [[0004_agregar nuevo cupon taxable| agregar
 # Documentación del proceso para agregar un nuevo PaymentType para asignarselo al cupon
 
 Pos_server_new
-1. Crear una migración o una task para crear un nuevo Tender con el nombre solicitado
+1. Ejecuta el siguiente comando
 ```ruby
-	class UpdateTenderAndAddDiscountCoupon < ActiveRecord::Migration[5.1]
-	    def up
-	
-	      Tender.create(
-	        name: 'Cupon descuento', 
-	        tender_class_id: 5, 
-	        tax: true,
-	        gives_change: true
-	      )
-	    end
-	
-	    def down
-	      Tender.find_by(name: 'Cupon descuento').destroy
-	    end
-	end
+  Tender.create(
+	name: 'Cupon descuento', 
+	tender_class_id: 5, 
+	tax: true,
+	gives_change: true
+  )
+end
 ```
 2. Creado, revisa el nuevo code que se generó
 	`Tender.last.code` 
 3. Guarda este código porque tienes que crealo en China Backend y en POF
 
 China backend
-1. Crear una migración o una task para crear un nuevo PaymentType con el nombre solicitado
+1. crear un nuevo PaymentType con el nombre solicitado
 2. Tiene que tener el nombre de cupon. dado que en admin al crear cupón, tiene que asignar el nuevo tipo de paymentType y el ve solo los que tienen de nombre cupon.
 	```ruby
-	class UpdateAndCreatePaymentTypes < ActiveRecord::Migration
-	  def up
-	    PaymentType.create(name: 'Cupon descuento',
-	                       code: 'TND0016', #código copiado de pos_server_new
-	                       payment_discount: PaymentDiscount.last ) #example
-	  end
-	
-	  def down
-	    PaymentType.find_by(name: 'Cupon descuento')&.destroy #puede ser por el arg que gustes
-	  end
-	end
+
+PaymentType.create(name: 'Cupon descuento',
+				   code: 'TND0016', #código copiado de pos_server_new
+				   payment_discount: PaymentDiscount.last ) #example
+end
 	```
 
 POF
-1. Crear una migración o una task para crear un nuevo Tender con el nombre solicitado
+1. Crear  un nuevo Tender con el nombre solicitado
 ```ruby
-	class UpdateTenderAndAddDiscountCoupon < ActiveRecord::Migration[5.1]
-	    def up
-	
 	      Tender.create(
 	        name: 'Cupon descuento', 
 	        tender_class_id: 5, 
