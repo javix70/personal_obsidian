@@ -33,11 +33,11 @@ AdminUser.first.update password:123123123
 
 ```zsh
 psql
-create database niusushi_db_centralized_development2;
-create database niusushi_web_partial2;
+create database 2niusushi_db_centralized_development;
+create database 2niusushi_web_partial;
 ```
 
 
-`pg_restore -v  -c -O -x -h localhost -U jai -d niusushi_web_partial2 niusushi_web_partial_2023_02_09_09_58.dump`
+`pg_restore -v  -c -O -x -h localhost -U jai -d 2niusushi_web_partial niusushi_web_partial_2023_02_09_09_58.dump`
 
-`pg_restore -v  -c -O -x -h localhost -U jai -d niusushi_db_centralized_development2 niusushi_centralized_db_2022_11_17_10_12.dump`
+`pg_restore -v  -c -O -x -h localhost -U jai -d 2niusushi_db_centralized_development niusushi_centralized_db_2022_11_17_10_12.dump`

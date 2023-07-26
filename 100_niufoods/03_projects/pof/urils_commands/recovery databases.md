@@ -14,3 +14,7 @@ exit
 ```bash
 pg_restore -v -c -O -x -h localhost -U jai -d "pof_dev" backup_guacamole_server_2023_06_22_11_05.dump
 ```
+
+```ruby
+rails db:migrate
+```
