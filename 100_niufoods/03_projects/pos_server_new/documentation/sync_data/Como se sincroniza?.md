@@ -32,3 +32,5 @@ worker = "RestaurantUpdate::TenderWorker"
 worker.process # Ejecución
 ```
 
+Esto ejecuta este modulo.
+![[Pasted image 20230726153005.png]]
