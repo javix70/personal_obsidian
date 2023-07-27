@@ -6,19 +6,12 @@ Esta documentación fue trabajada en [[0004_agregar nuevo cupon taxable|agregar 
 
 Pos_server_new
 
-1. Ejecuta el siguiente comando
-```ruby
-  Tender.create(
-	name: 'Cupon descuento', 
-	tender_class_id: 5, # segun correspoda el tender por Franquisia
-	tax: true,
-	gives_change: true
-  )
-```
-2. Creado, revisa el nuevo code que se generó
-	`Tender.last.code` 
-3. Sincroniza desde el administrador de PSN
-4. Cambiar de nombre el cupon antiguo
+![[Pasted image 20230727163502.png]]
+
+Sincronizar
+![[Pasted image 20230727163531.png]]
+
+1. Cambiar de nombre el cupon antiguo (esto es de otro lado)
 ```ruby
 	`tender = Tender.find_by(name: 'Cupon Dcto')
 tender.update_column(name: 'Cupon pago')
