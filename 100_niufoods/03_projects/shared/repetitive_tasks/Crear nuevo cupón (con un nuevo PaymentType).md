@@ -21,7 +21,7 @@ Pos_server_new
 4. Cambiar de nombre el cupon antiguo
 ```ruby
 tender = Tender.find_by(name: 'Cupon Dcto')
-tender.update(name: 'Cupon pago')
+tender.update_column(name: 'Cupon pago')
 ```
 5. Los restaurant_entities de ese tender, tiene que tener `needs_sync: true`
 6. Syncronizar solo los Tenerds con POF
