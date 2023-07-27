@@ -71,4 +71,27 @@ Esto ejecuta este modulo.
 ![[Pasted image 20230726153005.png]]
 
 con el metodo de process que es heredado desde UpdateWorkerClass `app/workers/update_worker.rb`
+![[Pasted image 20230727110858.png]]
+`perform_in` ejecuta el metodo `perform`
+![[Pasted image 20230727110929.png]]
 
+Ahora lo importante de aquí es la URL que apunta..
+Esta url es de POF app, por lo que Dado el ejemplo de tender
+
+![[Pasted image 20230727111224.png]] 
+
+Tiene la configuracion de path de tender. y se arma la ruta con
+
+```ruby
+perform_request(
+      restaurant_path: @restaurant.local_path,
+      path:            "#{@path}/create_or_update_server_data",
+      sync_time:       sync_time
+    )
+```
+
+```ruby
+ uri = URI("#{args[:restaurant_path]}/api/v1/#{args[:path]}")
+```
+
+En el caso de tender quedaría `192.160.231.4/`
