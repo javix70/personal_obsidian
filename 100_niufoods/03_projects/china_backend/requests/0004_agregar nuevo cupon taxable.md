@@ -114,7 +114,7 @@ modificar los prs..
 Ahora se sigue con el proceso de Cierre de caja, en donde el nuevo cupon cojn tax:true debe aparecer como medio de pago
 
 Primero estuve revisando el proceso de sincronización.
-[[how_to_sync|Cómo sincronizar los modelos sincronizables]]
+[[how_to_sync_all_data_model|Cómo sincronizar los modelos sincronizables]]
 
 en el comprobante de pago, tambien aparece el temina de 
 

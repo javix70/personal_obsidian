@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "recovery databases",
-      "path": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md"
-    },
-    {
-      "basename": "config_change_between_countries",
-      "path": "100_niufoods/03_projects/pof/before_start/config_change_between_countries.md"
-    },
-    {
-      "basename": "Login",
-      "path": "100_niufoods/03_projects/pos_server_new/before_start/Login.md"
-    },
-    {
-      "basename": "how_to_sync",
-      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync.md"
+      "basename": "how_to_sync_all_data_model",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md"
     },
     {
       "basename": "0004_agregar nuevo cupon taxable",
       "path": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md"
+    },
+    {
+      "basename": "diagrams",
+      "path": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md"
+    },
+    {
+      "basename": "Crear nuevo cupón (con un nuevo PaymentType)",
+      "path": "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md"
+    },
+    {
+      "basename": "Login",
+      "path": "100_niufoods/03_projects/pof/before_start/Login.md"
     }
   ],
   "omittedPaths": [],

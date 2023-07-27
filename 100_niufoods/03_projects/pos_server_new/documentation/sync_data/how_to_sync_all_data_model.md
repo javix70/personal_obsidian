@@ -40,8 +40,15 @@ En donde
 se separa en dos partes este metodo, a modo ilustrativo se utilizará `Tender` model
 
 ## Sincronizar
-`RestaurantEntity.where(needs_sync: true).first.tender` (retorna una colección) `# modo ilustrativo`
-![[Pasted image 20230727105948.png]]
+```ruby
+model_entity = RestaurantEntity.where(needs_sync: true, entity_type: "Tender").first
+tender = model_entity.entity
+model_entities = tender.restaurant_entities
+
+
+```
+
+	![[Pasted image 20230727105948.png]]
 
 ahora le sacamos el . restaurant_entities
 ![[Pasted image 20230727110046.png]]
