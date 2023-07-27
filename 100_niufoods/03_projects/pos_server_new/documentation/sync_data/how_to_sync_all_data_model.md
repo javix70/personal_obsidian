@@ -45,8 +45,8 @@ model_entity = RestaurantEntity.where(needs_sync: true, entity_type: "Tender").f
 tender = model_entity.entity
 model_entities = tender.restaurant_entities
 
-tender.sync_later!(model_entity.restaurant_id)
-tender.sync_now!(model_entity.restaurant_id)
+tender.sync_later!(model_entity.restaurant_id) # ejecutar sidekiq primero
+tender.sync_now!(model_entity.restaurant_id) #inmediato sin sidekiq
 ```
 
 	![[Pasted image 20230727105948.png]]
@@ -99,6 +99,7 @@ con el metodo de process que es heredado desde UpdateWorkerClass `app/workers/up
 ![[Pasted image 20230727110858.png]]
 `perform_in` ejecuta el metodo `perform`
 ![[Pasted image 20230727110929.png]]
+	**importante:** los Restaurant que estan cerrados, tienen el campo de syncable en false y no serán sincronizados
 
 Ahora lo importante de aquí es la URL que apunta..
 Esta url es de POF app, por lo que Dado el ejemplo de tender
