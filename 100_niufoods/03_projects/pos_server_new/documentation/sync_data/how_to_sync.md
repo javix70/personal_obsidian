@@ -106,7 +106,26 @@ Ahora nos vamos a POF (esta documentación debe ir a pof sync data)
 `app/controllers/api/v1/v1_controller.rb`
 
 ```ruby
+    class V1Controller < ApiController
+      before_action :set_object, only: %i[create_or_update_server_data]
 
+	    def create_or_update_server_data
+	        if @existing_object.save
+	          render json: { object: @existing_object, discard_old_sync: false }, status: :ok
+	        else
+	          render json: @existing_object.errors, status: :unprocessable_entity
+		    end
+	    end
+        ... # other methods
+    
+		def set_object
+			@object_name = params.keys[0]
+			@object_class = @object_name.singularize.titleize.delete(' ').constantize
+			@existing_object = @object_class.find_by_id(params[@object_name][:id])
+			@existing_object = @object_class.new unless @existing_object.present?
+			@existing_object.assign_attributes(object_params)
+	    end
+    end
 ```
 
 
