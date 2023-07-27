@@ -1,15 +1,24 @@
 
 La fuente de la verdad la tiene la app de pos_server_new
 
-dentro de una lib llamada
-`lib/tasks/franchise.rake`
-![[Pasted image 20230726151717.png]]
+1. El administrador de la app
+2. Accede a restaurantes
+3. Presiona sincronizar
+![[Pasted image 20230726163648.png]]
 
-Esta librería se encarga de sincronizar todos los elementos dentro del array.
+<details>
+  <summary><em><strong>sync desde worker (solo restaurant con id 1 por o que no es) ✨</em></strong></summary>
+	dentro de una lib llamada
+	`lib/tasks/franchise.rake`
+	![[Pasted image 20230726151717.png]]
+	
+	Esta librería se encarga de sincronizar todos los elementos dentro del array.
+	
+	Para este caso, veremos cómo funciona el Tender
+	
+	`Tender.sync_later!(1)`
+</details>
 
-Para este caso, veremos cómo funciona el Tender
-
-`Tender.sync_later!(1)`
 
 Los modelos sincronizados herendan de `app/models/application_record.rb`
 dado que necesitan un método 
