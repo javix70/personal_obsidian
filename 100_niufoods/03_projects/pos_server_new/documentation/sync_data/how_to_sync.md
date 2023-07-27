@@ -26,12 +26,28 @@ title: Sync desde la pagina de admin en la seccion de restaurantes
 2. Ejecuta controller de sync `app/controllers/admin/restaurants_controller.rb`
 ```
 
-metodo del controller 
-`def sync_to_restaurants`
-Esto ejecuta `sync_to_restaurants` pero de RestaurantModel método heredado de `ApplicationRecord.rb`
+metodo del controller  `def sync_to_restaurants`
+![[Pasted image 20230727104709.png]]
+
+En donde
+Restaurant.models_to_sync: es un arrray de modelos a sincronizar
+Restaurant.sync_tp_restaurant:  `sync_to_restaurants` método heredado de `app/models/application_record.rb`
  ![[Pasted image 20230727104256.png]]
-Los modelos sincronizados herendan de `app/models/application_record.rb`
-dado que necesitan un método 
+
+se separa en dos partes este metodo, a modo ilustrativo se utilizará `Tender` model
+
+`Tender.first.restaurant_entities` (retorna una colección)
+![[Pasted image 20230727105135.png]]
+
+Lo impotante de aquí es el attributo de `needs_sync`, dado que solo hará match con los que son true
+
+
+
+``
+
+
+Los modelos a sincronizados herendan de `app/models/application_record.rb`
+dado que necesitan el siguiente metodo método 
 
 ```ruby
   def sync_later!(restaurant_id, delay = 0.seconds)
