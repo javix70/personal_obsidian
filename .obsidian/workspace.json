@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
-                "mode": "source",
+                "file": "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -45,24 +45,6 @@
               "type": "markdown",
               "state": {
                 "file": "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c51dd67fdd08ac51",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "de1e3532e9313abc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
+                "file": "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md"
+                "file": "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams.md"
               }
             }
           },
@@ -184,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
+                "file": "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,13 +212,13 @@
   },
   "active": "017a2a5e26683163",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
+    "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams.md",
     "100_niufoods/03_projects/pos_server_new/before_start/Login.md",
     "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md",
-    "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams.md",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/attachments/Pasted image 20230727164442.png",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/attachments/Pasted image 20230727164425.png",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/attachments/Pasted image 20230727164332.png",
-    "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/attachments/Pasted image 20230727164253.png",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/attachments/Pasted image 20230727164251.png",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/attachments",

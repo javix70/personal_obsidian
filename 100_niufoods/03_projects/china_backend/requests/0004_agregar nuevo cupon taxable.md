@@ -95,13 +95,8 @@ Nos percatamos que el cupon de pago ya no es visible y si lo es el cupon de desc
 Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
 - [x] Crear ticket en trello  [completion:: 2023-07-25]
-- [x] Cupon debe cambiar de nombre a `Cupon de pago`  [completion:: 2023-07-25]
-- [ ] Crear un nuevo `Cupon descuento`
-	- [ ] Debe ser visible
-	- [ ] tender_class_id => 5
-	- [ ] tax => true
-	- [ ] gives_change => true
-
+- [ ] Cupon debe cambiar de nombre a `Cupon de pago` [[100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams|Pasos (ir al editar)]]
+- [ ] Crear un nuevo `Cupon descuento` [[100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams|Pasos (ir al create)]]
 - [ ] Antes de mezclar, asegurarse que el cupón de descuento de pos_server_new sea igual a China backend
 
 modificar los prs.. 
