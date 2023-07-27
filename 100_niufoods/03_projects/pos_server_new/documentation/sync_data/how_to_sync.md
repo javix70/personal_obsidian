@@ -147,9 +147,6 @@ Ahora nos vamos a POF (esta documentación debe ir a pof sync data)
 
 #note No veo en donde se sincroniza con China Backend...
 
-
-Falta integrar los diagramas correspondiente.
-
 ## Eliminar modelos sincronizados
 
 #TODO 
