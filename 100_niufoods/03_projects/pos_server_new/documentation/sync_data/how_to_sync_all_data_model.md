@@ -45,7 +45,7 @@ model_entity = RestaurantEntity.where(needs_sync: true, entity_type: "Tender").f
 tender = model_entity.entity
 model_entities = tender.restaurant_entities
 
-
+tender.sync_later!(model_entity.restaurant_id)
 ```
 
 	![[Pasted image 20230727105948.png]]
