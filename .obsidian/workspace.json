@@ -21,26 +21,21 @@
                 }
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "1d759c08ef7fd0e8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d72a92e1831a54df",
+            "id": "c7fee52b1aa18243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
-                "mode": "source",
+                "file": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
+                "file": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md"
+                "file": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync.md"
               }
             }
           },
@@ -156,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
+                "file": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,23 +195,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d72a92e1831a54df",
+  "active": "c7fee52b1aa18243",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230726163648.png",
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync.md",
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727104256.png",
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727104709.png",
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727105135.png",
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727105948.png",
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727110046.png",
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727110858.png",
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727110929.png",
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727111224.png",
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727115736.png",
+    "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
     "100_niufoods/03_projects/pof/documentation/caja_turno/flujos_canvas.canvas",
     "100_niufoods/03_projects/pof/documentation/caja_turno/cash_closing.md",
-    "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync.md",
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727115736.png",
     "100_niufoods/03_projects/pos_server_new/documentation/sync_data/sync_flow.md",
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727111224.png",
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727110929.png",
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727110858.png",
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727110046.png",
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727105948.png",
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727105135.png",
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727104709.png",
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727104256.png",
-    "100_niufoods/03_projects/china_backend/requests/attachments/Pasted image 20230727101206.png",
     "100_niufoods/01_daily_notes/2023-07-27.md",
     "Untitled.canvas",
     "Pasted image 20230726115227.png.md",

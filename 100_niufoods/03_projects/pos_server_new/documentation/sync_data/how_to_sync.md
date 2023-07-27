@@ -22,6 +22,7 @@ Para este caso, veremos cómo funciona el Tender
 collapse: open
 title: Sync desde la pagina de admin en la seccion de restaurantes
 
+![[Pasted image 20230726163648.png]]
 1. Presiona botón sincronizar
 2. Ejecuta controller de sync `app/controllers/admin/restaurants_controller.rb`
 ```
