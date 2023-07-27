@@ -8,16 +8,12 @@ Pos_server_new
 
 ![[Pasted image 20230727163502.png]]
 
-Sincronizar
+Sincronizar (opcional), pueden ser solo con el paso 3 de solo los tenders
 ![[Pasted image 20230727163531.png]]
 
-1. Cambiar de nombre el cupon antiguo (esto es de otro lado)
-```ruby
-	`tender = Tender.find_by(name: 'Cupon Dcto')
-tender.update_column(name: 'Cupon pago')
-```
-5. Los restaurant_entities de ese tender, tiene que tener `needs_sync: true`
-6. Syncronizar solo los Tenerds con POF
+
+2. Los restaurant_entities de ese tender, tiene que tener `needs_sync: true`
+3. Syncronizar solo los Tenerds con POF
 ```ruby
 model_entities = tender.restaurant_entities
 model_entities.each { |model_entity| model_entity.entity.sync_now!(model_entity.restaurant_id) }

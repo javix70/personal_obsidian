@@ -96,11 +96,11 @@ Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
 - [x] Crear ticket en trello  [completion:: 2023-07-25]
 - [x] Cupon debe cambiar de nombre a `Cupon de pago`  [completion:: 2023-07-25]
-- [x] Crear un nuevo `Cupon descuento`  [completion:: 2023-07-25]
-	- [x] Debe ser visible  [completion:: 2023-07-25]
-	- [x] tender_class_id => 5
-	- [x] tax => true
-	- [x] gives_change => true
+- [ ] Crear un nuevo `Cupon descuento`
+	- [ ] Debe ser visible
+	- [ ] tender_class_id => 5
+	- [ ] tax => true
+	- [ ] gives_change => true
 
 - [ ] Antes de mezclar, asegurarse que el cupón de descuento de pos_server_new sea igual a China backend
 
