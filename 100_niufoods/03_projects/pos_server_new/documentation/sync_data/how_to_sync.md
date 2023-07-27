@@ -79,7 +79,7 @@ entity = re.entity #tender
 entity.sync_later!(1) # execute mode
 ```
 
-para ver la salida es importate ejecutar sidekiq en una termial aparte
+	para ver la salida es importate ejecutar sidekiq en una termial aparte
 ```bash
 bundle exec sidekiq
 ```

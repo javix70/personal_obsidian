@@ -13,7 +13,6 @@ Pos_server_new
 	tax: true,
 	gives_change: true
   )
-end
 ```
 2. Creado, revisa el nuevo code que se generó
 	`Tender.last.code` 
