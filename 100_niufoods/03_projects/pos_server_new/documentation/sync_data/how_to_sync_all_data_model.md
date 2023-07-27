@@ -46,6 +46,7 @@ tender = model_entity.entity
 model_entities = tender.restaurant_entities
 
 tender.sync_later!(model_entity.restaurant_id)
+tender.sync_now!(model_entity.restaurant_id)
 ```
 
 	![[Pasted image 20230727105948.png]]
