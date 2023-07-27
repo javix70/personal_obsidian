@@ -1,13 +1,8 @@
 
 La fuente de la verdad la tiene la app de pos_server_new
 
-1. El administrador de la app
-2. Accede a restaurantes
-3. Presiona sincronizar
-![[Pasted image 20230726163648.png]]
-
 <details>
-  <summary><em><strong>sync desde worker (solo restaurant con id 1 por o que no es) ✨</em></strong></summary>
+  <summary><em>sync desde worker (solo restaurant con id 1 por o que no es) ✨</em></summary>
 	dentro de una lib llamada
 	`lib/tasks/franchise.rake`
 	![[Pasted image 20230726151717.png]]
@@ -19,6 +14,11 @@ La fuente de la verdad la tiene la app de pos_server_new
 	`Tender.sync_later!(1)`
 </details>
 
+```ad-note
+collapse: closed
+title: Sync desde la pagina de admin en la seccion de restaurantes
+color: 
+```
 
 Los modelos sincronizados herendan de `app/models/application_record.rb`
 dado que necesitan un método 
