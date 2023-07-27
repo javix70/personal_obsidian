@@ -5,6 +5,7 @@ Esta documentación fue trabajada en [[0004_agregar nuevo cupon taxable|agregar 
 # Documentación del proceso para agregar un nuevo PaymentType para asignarselo al cupon
 
 Pos_server_new
+
 1. Ejecuta el siguiente comando
 ```ruby
   Tender.create(
@@ -17,6 +18,11 @@ Pos_server_new
 2. Creado, revisa el nuevo code que se generó
 	`Tender.last.code` 
 3. Sincroniza desde el administrador de PSN
+4. Cambiar de nombre el cupon antiguo
+```ruby
+Tender.find_by(name: 'Cupon Dcto').update(name: 'Cupon pago')
+```
+5. Los restaurant_entities de ese tender, tiene que 
 1. Guarda este código porque tienes que crealo en China Backend
 
 China backend
