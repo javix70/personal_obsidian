@@ -41,7 +41,10 @@ se separa en dos partes este metodo, a modo ilustrativo se utilizará `Tender` m
 
 ## Sincronizar
 ```ruby
-model_entity = RestaurantEntity.where(needs_sync: true, entity_type: "Tender").first
+model_entity = 	RestaurantEntity.where(entity_type: "Tender").where.not(restaurant_id: 2).last
+
+model_entity.update needs_sync: true
+
 tender = model_entity.entity
 model_entities = tender.restaurant_entities
 
