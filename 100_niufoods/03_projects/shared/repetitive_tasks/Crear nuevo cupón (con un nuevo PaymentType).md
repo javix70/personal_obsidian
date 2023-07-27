@@ -9,7 +9,7 @@ Pos_server_new
 ```ruby
   Tender.create(
 	name: 'Cupon descuento', 
-	tender_class_id: 5, # segun correspoda el ten
+	tender_class_id: 5, # segun correspoda el tender por Franquisia
 	tax: true,
 	gives_change: true
   )
@@ -17,10 +17,11 @@ end
 ```
 2. Creado, revisa el nuevo code que se generó
 	`Tender.last.code` 
-3. Guarda este código porque tienes que crealo en China Backend y en POF
+3. Sincroniza desde el administrador de PSN
+1. Guarda este código porque tienes que crealo en China Backend
 
 China backend
-1. crear un nuevo PaymentType con el nombre solicitado
+1. Crear un nuevo PaymentType con el nombre solicitado
 2. Tiene que tener el nombre de cupon. dado que en admin al crear cupón, tiene que asignar el nuevo tipo de paymentType y el ve solo los que tienen de nombre cupon.
 	```ruby
 
@@ -30,18 +31,6 @@ PaymentType.create(name: 'Cupon descuento',
 end
 	```
 
-POF
-1. Crear  un nuevo Tender con el nombre solicitado
-```ruby
-  Tender.create(
-	name: 'Cupon descuento', 
-	tender_class_id: 5, 
-	tax: true,
-	gives_change: true
-  )
-end
-```
-2.  Listo
 
 
 # Lista de códigos manejados por cada app, solo los que hacen match.

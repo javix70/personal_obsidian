@@ -1,5 +1,5 @@
 
 
 ```ruby
-CentralUser.first.update password:123123123
+	CentralUser.first.update password:123123123
 ```
