@@ -1,25 +1,35 @@
 
 La fuente de la verdad la tiene la app de pos_server_new
 
-<details>
-  <summary><em>sync desde worker (solo restaurant con id 1 por o que no es) ✨</em></summary>
-	dentro de una lib llamada
-	`lib/tasks/franchise.rake`
-	![[Pasted image 20230726151717.png]]
-	
-	Esta librería se encarga de sincronizar todos los elementos dentro del array.
-	
-	Para este caso, veremos cómo funciona el Tender
-	
-	`Tender.sync_later!(1)`
-</details>
 
 ```ad-note
 collapse: closed
-title: Sync desde la pagina de admin en la seccion de restaurantes
-color: 
+title: Sync desde el worker
+
+dentro de una lib llamada
+`lib/tasks/franchise.rake`
+![[Pasted image 20230726151717.png]]
+
+Esta librería se encarga de sincronizar todos los elementos dentro del array.
+
+Para este caso, veremos cómo funciona el Tender
+
+`Tender.sync_later!(1)`
 ```
 
+
+```ad-note
+collapse: open
+title: Sync desde la pagina de admin en la seccion de restaurantes
+
+1. Presiona botón sincronizar
+2. Ejecuta controller de sync `app/controllers/admin/restaurants_controller.rb`
+```
+
+metodo del controller 
+`def sync_to_restaurants`
+Esto ejecuta `sync_to_restaurants` pero de RestaurantModel método heredado de `ApplicationRecord.rb`
+ ![[Pasted image 20230727104256.png]]
 Los modelos sincronizados herendan de `app/models/application_record.rb`
 dado que necesitan un método 
 
