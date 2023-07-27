@@ -78,6 +78,11 @@ entity = re.entity #tender
 entity.sync_later!(1) # execute mode
 ```
 
+para ver la salida es importate ejecutar sidekiq en una termial aparte
+```bash
+bundle exec sidekiq
+```
+
 Esto ejecuta este modulo.
 ![[Pasted image 20230726153005.png]]
 
@@ -107,6 +112,8 @@ perform_request(
 ```
 
 En el caso de tender quedaría `http://10.11.100.2/api/v1/tenders/create_or_update_server_data`
+ y esta sería la información a enviar 
+![[Pasted image 20230727115736.png]]
 
 Ahora nos vamos a POF (esta documentación debe ir a pof sync data)
 
