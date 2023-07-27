@@ -36,15 +36,15 @@ Restaurant.sync_tp_restaurant:  `sync_to_restaurants` método heredado de `app/m
 
 se separa en dos partes este metodo, a modo ilustrativo se utilizará `Tender` model
 
-`Tender.first.restaurant_entities` (retorna una colección)
-![[Pasted image 20230727105135.png]]
+`RestaurantEntity.where(needs_sync: true).first.tender` (retorna una colección) `# modo ilustrativo`
+![[Pasted image 20230727105948.png]]
+
+ahora le sacamos el . restaurant_entities
+![[Pasted image 20230727110046.png]]
 
 Lo impotante de aquí es el attributo de `needs_sync`, dado que solo hará match con los que son true
 
-
-
-``
-
+por cada uno de ellos, le hace `sync_later!(entity.restaurant_id`
 
 Los modelos a sincronizados herendan de `app/models/application_record.rb`
 dado que necesitan el siguiente metodo método 
@@ -70,20 +70,5 @@ worker.process # Ejecución
 Esto ejecuta este modulo.
 ![[Pasted image 20230726153005.png]]
 
+con el metodo de process que es heredado desde UpdateWorkerClass `app/workers/update_worker.rb`
 
-```mermaid
-sequenceDiagram
-    participant UpdateWorker as UpdateWorker
-    participant Restaurant as Restaurant
-    participant HTTP as HTTP Request
-    UpdateWorker->>UpdateWorker: perform(id, restaurant_id, sync_time)
-    UpdateWorker->>UpdateWorker: setup(id, restaurant_id)
-    UpdateWorker->>Restaurant: find(restaurant_id)
-    Restaurant->>UpdateWorker: @restaurant
-    UpdateWorker->>UpdateWorker: perform_request(...)
-    UpdateWorker->>HTTP: PUT /api/v1/...
-    HTTP->>UpdateWorker: Response
-    UpdateWorker->>UpdateWorker: response_feedback(response)
-    UpdateWorker->>UpdateWorker: update_columns(...)
-
-```
