@@ -1,6 +1,6 @@
 #TODO debo actualizar esta documentación
 
-Esta documentación fue trabajada en [[0004_agregar nuevo cupon taxable| agregar nuevo cupon]]
+Esta documentación fue trabajada en [[0004_agregar nuevo cupon taxable|agregar nuevo cupon]]
 
 # Documentación del proceso para agregar un nuevo PaymentType para asignarselo al cupon
 
@@ -9,7 +9,7 @@ Pos_server_new
 ```ruby
   Tender.create(
 	name: 'Cupon descuento', 
-	tender_class_id: 5, 
+	tender_class_id: 5, # segun correspoda el ten
 	tax: true,
 	gives_change: true
   )

@@ -30,8 +30,8 @@ stateDiagram-v2
 title: Crear una orden a partir de Pos server new
 ---
 sequenceDiagram
-	participant P as POF
-	participant PSN as Pos Server New
+	actor P as POF
+	actor PSN as Pos Server New
 
 	P->>PSN: Obtiene WebOrders pendientes (perform_request_pull_web_orders)
 	P->>P: Crea una nueva orden
@@ -45,7 +45,17 @@ sequenceDiagram
 
 ^17d08c
 
-### Crear nueva order a partir de la tienda
+### Crear nueva order a partir de la tienda (VENTA RAPIDA)
+
+```mermaid
+sequenceDiagram
+	actor C as Cashie
+	participant CC as CheckController
+
+	C->>CC: quick_sale
+	CC->>C: muestra menu
+	
+```
 
 
 
