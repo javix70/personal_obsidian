@@ -1,3 +1,5 @@
+#TODO debo actualizar esta documentación
+
 Esta documentación fue trabajada en [[0004_agregar nuevo cupon taxable| agregar nuevo cupon]]
 
 # Documentación del proceso para agregar un nuevo PaymentType para asignarselo al cupon

@@ -8,11 +8,11 @@ drop database pof_dev;
 create database pof_dev;
 exit
 ```
-
+	
 # Cargar los datos
 
 ```bash
-pg_restore -v -c -O -x -h localhost -U jai -d "pof_dev" backup_niu_brasil_2023_07_18_14_00.dump
+pg_restore -v -c -O -x -h localhost -U jai -d "pof_dev" backup_kao_nunoa_2023_07_27_10_00.dump
 ```
 
 ```ruby
