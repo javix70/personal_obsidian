@@ -14,7 +14,7 @@ Esta librería se encarga de sincronizar todos los elementos dentro del array.
 
 Para este caso, veremos cómo funciona el Tender
 
-`Tender.sync_later!(1)`
+`Tender.sync_later!(1)` (el 1 representa el id del resutant 1, así que asumo que no sirve para todos los casos)
 ```
 
 
@@ -32,10 +32,13 @@ metodo del controller  `def sync_to_restaurants`
 En donde
 Restaurant.models_to_sync: es un arrray de modelos a sincronizar
 Restaurant.sync_tp_restaurant:  `sync_to_restaurants` método heredado de `app/models/application_record.rb`
+
+# sync_to_restaurant (modelo base de la sincronización)
  ![[Pasted image 20230727104256.png]]
 
 se separa en dos partes este metodo, a modo ilustrativo se utilizará `Tender` model
 
+## Sincronizar
 `RestaurantEntity.where(needs_sync: true).first.tender` (retorna una colección) `# modo ilustrativo`
 ![[Pasted image 20230727105948.png]]
 
@@ -94,4 +97,18 @@ perform_request(
  uri = URI("#{args[:restaurant_path]}/api/v1/#{args[:path]}")
 ```
 
-En el caso de tender quedaría `192.160.231.4/`
+En el caso de tender quedaría `http://10.11.100.2/api/v1/tenders/create_or_update_server_data`
+
+Ahora nos vamos a POF (esta documentación debe ir a pof sync data)
+
+`TendersController < V1Controller`
+
+`app/controllers/api/v1/v1_controller.rb`
+
+```ruby
+
+```
+
+
+
+## Eliminar modelos sincronizados
