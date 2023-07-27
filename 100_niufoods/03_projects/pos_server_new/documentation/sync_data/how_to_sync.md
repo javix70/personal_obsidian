@@ -70,6 +70,14 @@ worker = "RestaurantUpdate::TenderWorker"
 worker.process # Ejecución
 ```
 
+para ejecutarlo en consola el flujo
+
+```ruby
+re = RestaurantEntity.where(needs_sync: true).first
+entity = re.entity #tender 
+entity.sync_later!(1) # execute mode
+```
+
 Esto ejecuta este modulo.
 ![[Pasted image 20230726153005.png]]
 
@@ -80,6 +88,7 @@ con el metodo de process que es heredado desde UpdateWorkerClass `app/workers/up
 
 Ahora lo importante de aquí es la URL que apunta..
 Esta url es de POF app, por lo que Dado el ejemplo de tender
+
 
 ![[Pasted image 20230727111224.png]] 
 
