@@ -30,8 +30,8 @@ metodo del controller  `def sync_to_restaurants`
 ![[Pasted image 20230727104709.png]]
 
 En donde
-Restaurant.models_to_sync: es un arrray de modelos a sincronizar
-Restaurant.sync_tp_restaurant:  `sync_to_restaurants` método heredado de `app/models/application_record.rb`
+**Restaurant.models_to_sync**: es un arrray de modelos a sincronizar
+**Restaurant.sync_tp_restaurant**:  `sync_to_restaurants` método heredado de `app/models/application_record.rb`
 
 # sync_to_restaurant (modelo base de la sincronización)
  ![[Pasted image 20230727104256.png]]
@@ -144,6 +144,11 @@ Ahora nos vamos a POF (esta documentación debe ir a pof sync data)
     end
 ```
 
+#note No veo en donde se sincroniza con China Backend...
 
+
+Falta integrar los diagramas correspondiente.
 
 ## Eliminar modelos sincronizados
+
+#TODO 

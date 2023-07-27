@@ -43,6 +43,8 @@ Consideraciones (referencias)
 ---
 # Investigación
 
+**Flujo de generar una orden con Cupones**
+
 ## china backend 
 ![[100_niufoods/03_projects/china_backend/documentation/orders/diagramns#^a750b5|diagramns]]
 
@@ -54,7 +56,10 @@ Comunicación entre china backend y POF
 
 [[Flujo de ordenes de compra.canvas|Flujo de ordenes de compra(Canvas)]]
 
-Analicemos el flujo de cierre de caja
+**Analicemos el flujo de cierre de caja**
+
+
+
 
 ---
 # Avance
