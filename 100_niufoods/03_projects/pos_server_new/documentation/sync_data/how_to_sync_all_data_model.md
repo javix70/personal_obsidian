@@ -52,6 +52,7 @@ tender.sync_later!(model_entity.restaurant_id) # ejecutar sidekiq primero
 tender.sync_now!(model_entity.restaurant_id) #inmediato sin sidekiq
 ```
 
+
 	![[Pasted image 20230727105948.png]]
 
 ahora le sacamos el . restaurant_entities

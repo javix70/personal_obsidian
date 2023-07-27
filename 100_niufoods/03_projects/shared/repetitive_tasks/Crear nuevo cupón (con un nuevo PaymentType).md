@@ -20,9 +20,15 @@ Pos_server_new
 3. Sincroniza desde el administrador de PSN
 4. Cambiar de nombre el cupon antiguo
 ```ruby
-Tender.find_by(name: 'Cupon Dcto').update(name: 'Cupon pago')
+tender = Tender.find_by(name: 'Cupon Dcto')
+tender.update(name: 'Cupon pago')
 ```
-5. Los restaurant_entities de ese tender, tiene que 
+5. Los restaurant_entities de ese tender, tiene que tener `needs_sync: true`
+6. Syncronizar solo los Tenerds con POF
+```ruby
+model_entities = tender.restaurant_entities
+model_entities.each { |model_entity| model_entity.entity.sync_now!(model_entity.restaurant_id) }
+```
 1. Guarda este código porque tienes que crealo en China Backend
 
 China backend
