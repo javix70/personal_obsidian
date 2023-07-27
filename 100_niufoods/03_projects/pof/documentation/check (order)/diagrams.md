@@ -45,4 +45,8 @@ sequenceDiagram
 
 ^17d08c
 
+### Crear nueva order a partir de la tienda
+
+
+
 # Flujo 
