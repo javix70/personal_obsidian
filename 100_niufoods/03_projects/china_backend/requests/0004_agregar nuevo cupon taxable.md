@@ -111,3 +111,5 @@ modificar los prs..
 - [x] push?  [completion:: 2023-07-26]
 
 Ahora se sigue con el proceso de Cierre de caja, en donde el nuevo cupon cojn tax:true debe aparecer como medio de pago
+
+Primero estuve revisando el proceso de sincronización.
