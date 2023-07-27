@@ -17,3 +17,4 @@ pg_restore -v -c -O -x -h localhost -U jai -d "pof_server_20230303" dump-kao_ser
 
 ```ruby
 rails db:migrate
+```
