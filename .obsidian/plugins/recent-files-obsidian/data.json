@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Crear nuevo cupón (con un nuevo PaymentType)",
+      "path": "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md"
+    },
+    {
+      "basename": "how_to_sync_all_data_model",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md"
+    },
+    {
+      "basename": "0004_agregar nuevo cupon taxable",
+      "path": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md"
+    },
+    {
+      "basename": "diagrams",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams.md"
+    },
+    {
+      "basename": "sync_flow",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/sync_flow.md"
+    },
+    {
       "basename": "recovery databases",
       "path": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md"
     },
@@ -31,22 +51,6 @@
     {
       "basename": "0003_kushki",
       "path": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md"
-    },
-    {
-      "basename": "Crear nuevo cupón (con un nuevo PaymentType)",
-      "path": "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md"
-    },
-    {
-      "basename": "diagrams",
-      "path": "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams.md"
-    },
-    {
-      "basename": "0004_agregar nuevo cupon taxable",
-      "path": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md"
-    },
-    {
-      "basename": "how_to_sync_all_data_model",
-      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md"
     },
     {
       "basename": "diagrams",
