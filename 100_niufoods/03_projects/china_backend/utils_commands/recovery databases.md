@@ -23,11 +23,6 @@ rake db:migrate
 rake centralized:db:migrate
 ```
 
-```ruby
-Customer.last.update password:123123123
-AdminUser.first.update password:123123123
-```
-
 
 # Crear base de datos secundaria
 
