@@ -1,7 +1,7 @@
 
 # Entrar a la base de datos  y vaciar las bases de datos
 ```bash
-cd ~/Downloads
+cd ~/Downloads 
 psql
 drop database pof_dev;
 
