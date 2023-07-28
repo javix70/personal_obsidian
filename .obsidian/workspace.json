@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5124969482422
+    "width": 458.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -179,7 +180,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dc01be1397b1f54e",
+  "active": "966de0a33a82f8d0",
   "lastOpenFiles": [
     "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md",
     "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md",
