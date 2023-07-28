@@ -13,10 +13,15 @@ Sincronizar (opcional), pueden ser solo con el paso 3 de solo los tenders
 
 
 2. Los restaurant_entities de ese tender, tiene que tener `needs_sync: true`
-3. Syncronizar solo los Tenerds con POF
+3. Syncronizar solo los Tenders con POF
 ```ruby
 model_entities = tender.restaurant_entities
 model_entities.each { |model_entity| model_entity.entity.sync_now!(model_entity.restaurant_id) }
+```
+4. En POF si se quiere hacer visible o invisible, por defecto se crea con `"visible", default: true`
+5. Por lo que en al consola de Rails c
+```Ruby
+Tender.find_by(code: 'example').update_columns(visible: false)
 ```
 1. Guarda este código porque tienes que crealo en China Backend
 
