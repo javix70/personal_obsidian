@@ -11,8 +11,12 @@
             "id": "dc01be1397b1f54e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md"
+              }
             }
           },
           {
@@ -128,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +179,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dc01be1397b1f54e",
+  "active": "966de0a33a82f8d0",
   "lastOpenFiles": [
     "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md",
     "100_niufoods/03_projects/pos_server_new/before_start/Login.md",
