@@ -45,7 +45,7 @@ sequenceDiagram
 
 ^17d08c
 
-### Crear nueva order a partir de la tienda (VENTA RAPIDA)
+### Crear nueva order a partir de la tienda (VENTA RAPIDA) POF
 
 ```mermaid
 sequenceDiagram

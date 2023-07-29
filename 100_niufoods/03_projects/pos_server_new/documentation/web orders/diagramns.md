@@ -21,8 +21,8 @@ stateDiagram-v2
 title: Create - WebOrder controller
 ---
 sequenceDiagram
-	participant CB as China Backend
-	participant PSN as Pos Server New
+	actor CB as China Backend
+	actor PSN as Pos Server New
 
 	CB->>PSN: Crea un nuevo WebOrder enviando el web_order_id
 	PSN->>PSN: Crea WebOrder vinculandolo con web_order_id y estado pending
@@ -36,11 +36,8 @@ sequenceDiagram
 title: Pull pull_web_orders - WebOrder controller
 ---
 sequenceDiagram
-	participant CB as China Backend
-	participant PSN as Pos Server New
-
-	
-	
+	actor CB as China Backend
+	actor PSN as Pos Server New
 ```
 
 ^9df783

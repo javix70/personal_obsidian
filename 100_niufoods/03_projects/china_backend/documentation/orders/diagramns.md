@@ -90,8 +90,8 @@ sequenceDiagram
 
 ```mermaid
 sequenceDiagram
-    participant CB as China Backend
-    participant PN as Pos server New
+    actor CB as China Backend
+    actor PN as Pos server New
 
 	CB->>CB: Armar data para enviar
 	CB->>PN: Envia el pedido
