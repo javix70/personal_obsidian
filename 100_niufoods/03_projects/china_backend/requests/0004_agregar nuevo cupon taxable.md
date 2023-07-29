@@ -78,32 +78,25 @@ PaymentType,
 ![[100_niufoods/03_projects/china_backend/documentation/orders/diagramns#^530135|diagramns]]
 
 
-Agregando el nuevo Tender en POF se ve
-![[Pasted image 20230726124456.png]]
-
-Nos percatamos que el cupon de pago ya no es visible y si lo es el cupon de descuento
+Para más detalles de como crear, updatear y crear un nuevo Tender o PaymentType mirar [[100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams|los pasos aqui]]
 
 ---
 ## Checklist de tareas que hacer 
 
-Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
 - [x] Crear ticket en trello  [completion:: 2023-07-25]
 - [ ] Cupon debe cambiar de nombre a `Cupon de pago` [[100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams|Pasos (ir al editar)]]
 - [ ] Crear un nuevo `Cupon descuento` [[100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams|Pasos (ir al create)]]
-- [ ] Antes de mezclar, asegurarse que el cupón de descuento de pos_server_new sea igual a China backend
-
-modificar los prs.. 
 
 - [x] push china backend  [completion:: 2023-07-26]
-- [ ] push POF
-- [x] push Pos server new  [completion:: 2023-07-26]
-- [x] push?  [completion:: 2023-07-26]
+- [ ] push Pos server new
 
-Ahora se sigue con el proceso de Cierre de caja, en donde el nuevo cupon cojn tax:true debe aparecer como medio de pago
+Ahora se sigue con el proceso de Cierre de caja, en donde el nuevo cupon con `tax:true` debe aparecer como medio de pago
 
 Primero estuve revisando el proceso de sincronización.
 [[how_to_sync_all_data_model|Cómo sincronizar los modelos sincronizables]]
+
+
 
 en el comprobante de pago, tambien aparece el temina de 
 

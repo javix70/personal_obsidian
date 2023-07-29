@@ -53,7 +53,7 @@ tender.sync_now!(model_entity.restaurant_id) #inmediato sin sidekiq
 ```
 
 
-	![[Pasted image 20230727105948.png]]
+![[Pasted image 20230727105948.png]]
 
 ahora le sacamos el . restaurant_entities
 ![[Pasted image 20230727110046.png]]
@@ -88,10 +88,10 @@ para ejecutarlo en consola el flujo
 ```ruby
 re = RestaurantEntity.where(needs_sync: true).first
 entity = re.entity #tender 
-entity.sync_later!(1) # execute mode
+entity.sync_later!(1) # execute mode o sync_now!(1)
 ```
 
-	para ver la salida es importate ejecutar sidekiq en una termial aparte
+para ver la salida es importate ejecutar sidekiq en una termial aparte o ejecutar con el método `sync_now!`
 ```bash
 bundle exec sidekiq
 ```
@@ -103,10 +103,10 @@ con el metodo de process que es heredado desde UpdateWorkerClass `app/workers/up
 ![[Pasted image 20230727110858.png]]
 `perform_in` ejecuta el metodo `perform`
 ![[Pasted image 20230727110929.png]]
-	**importante:** los Restaurant que estan cerrados, tienen el campo de syncable en false y no serán sincronizados
+>	**importante:** los Restaurant que estan cerrados, tienen el campo de syncable en false y no serán sincronizados
 
 Ahora lo importante de aquí es la URL que apunta..
-Esta url es de POF app, por lo que Dado el ejemplo de tender
+Esta url es de POF app, por lo que dado el ejemplo de tender
 
 
 ![[Pasted image 20230727111224.png]] 
@@ -123,9 +123,9 @@ perform_request(
 
 ```ruby
  uri = URI("#{args[:restaurant_path]}/api/v1/#{args[:path]}")
+ # http://10.11.100.2/api/v1/tenders/create_or_update_server_data
 ```
 
-En el caso de tender quedaría `http://10.11.100.2/api/v1/tenders/create_or_update_server_data`
  y esta sería la información a enviar 
 ![[Pasted image 20230727115736.png]]
 
@@ -158,8 +158,7 @@ Ahora nos vamos a POF (esta documentación debe ir a pof sync data)
     end
 ```
 
-#note No veo en donde se sincroniza con China Backend...
+#TODO, dado que no se sincroniza automaticamente con china backend. hay que crearlo a mano, lo genial sería que se cree automaticamente e igual sincronice
 
 ## Eliminar modelos sincronizados
-
 #TODO 

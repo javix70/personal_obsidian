@@ -1,5 +1,18 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "errors in method save params + pdf",
+      "path": "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md"
+    },
+    {
+      "basename": "0004_agregar nuevo cupon taxable",
+      "path": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md"
+    },
+    {
+      "basename": "how_to_sync_all_data_model",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md"
+    }
+  ],
   "omittedPaths": [],
   "maxLength": 20,
   "openType": "split"
