@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md"
+                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   },
   "active": "dc01be1397b1f54e",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
     "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md",
     "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md",
     "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md",
@@ -193,7 +194,6 @@
     "100_niufoods/03_projects/pof/before_start/config_change_between_countries.md",
     "100_niufoods/03_projects/china_backend/before_start/Login.md",
     "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
-    "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/attachments/Pasted image 20230727164442.png",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/attachments/Pasted image 20230727164425.png",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/attachments/Pasted image 20230727164332.png",
