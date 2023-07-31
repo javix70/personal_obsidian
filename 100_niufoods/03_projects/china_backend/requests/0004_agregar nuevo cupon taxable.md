@@ -34,6 +34,7 @@ Consideraciones (referencias)
 
 **Actual**: 
 1. [1650-china-backend](https://bitbucket.org/niusushi/china-backend/pull-requests/339)
+2. [1650-pof](https://bitbucket.org/nnodes/pof/pull-requests/181)
 3. [1650-pos_server_new](https://bitbucket.org/nnodes/pof_server_new/pull-requests/359?t=1)
 
 
