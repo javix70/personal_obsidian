@@ -1,4 +1,4 @@
 
 ```ruby
-User.with_role(:admin).first.pin
+	User.with_role(:admin).first.pin
 ```
