@@ -12,3 +12,5 @@ requerido para méxico pero peude ser para todos
 
 
 para delivery, en la boleta de delivery.
+
+![[Pasted image 20230731114038.png]]
