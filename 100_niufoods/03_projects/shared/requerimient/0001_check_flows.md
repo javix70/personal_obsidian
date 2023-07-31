@@ -24,6 +24,13 @@ Hacer check de que la app no afecte a chile
 ---
 # Avance
 
+Analisis
+
+**China Backend**
+Pasos previos
+
+
+
 
 ---
 # Checklist de tareas que hacer 
