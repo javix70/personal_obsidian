@@ -50,6 +50,8 @@ requerido para méxico pero peude ser para todos
 
 para delivery, en la boleta de delivery.
 
+Boleta de Motorista y boleta de Detalle
+
 ![[Pasted image 20230731114038.png]]
 
 
@@ -58,4 +60,4 @@ para delivery, en la boleta de delivery.
 
 Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
-- [ ] push?
+- [x] push?  [completion:: 2023-07-31]
