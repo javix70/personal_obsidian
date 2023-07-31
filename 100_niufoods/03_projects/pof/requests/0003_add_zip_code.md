@@ -27,13 +27,15 @@ Consideraciones (referencias)
 ## Prs involucrados
 
 **Actual**:
+[1646-add-zipcode]()
 
+1646
 **Dependencias**:
 
 ---
 # Avance
 
-
+Vistas que debería ir el zip_code
 
 ![[Pasted image 20230731113512.png]]
 
