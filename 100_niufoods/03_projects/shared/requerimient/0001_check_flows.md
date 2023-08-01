@@ -28,7 +28,7 @@ Cómo vamos a hacer las pruebas?
 
 Herramienta: Selenium Ide (extensión)
 
-Cupones
+Cupones:
 
 
 
