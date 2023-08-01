@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Login",
+      "path": "100_niufoods/03_projects/china_backend/before_start/Login.md"
+    },
+    {
       "basename": "recovery databases",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "errors in method save params + pdf",
       "path": "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md"
-    },
-    {
-      "basename": "how_to_sync_all_data_model",
-      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md"
     }
   ],
   "omittedPaths": [],
