@@ -24,10 +24,11 @@ Hacer check de que la app no afecte a chile
 ---
 # Avance
 
-Analisis
+Cómo vamos a hacer las pruebas?
 
-**China Backend**
-Pasos previos
+Herramienta: Selenium Ide (extensión)
+
+Cupones
 
 
 
