@@ -3,6 +3,9 @@
 ```bash
 cd ~/Downloads
 psql
+```
+
+```bash
 drop database niusushi_web_partial;
 drop database niusushi_db_centralized_development;
 
