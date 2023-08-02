@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "recovery databases",
-      "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
+      "basename": "automatic_test_model",
+      "path": "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md"
     },
     {
       "basename": "0003_kushki",
       "path": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md"
+    },
+    {
+      "basename": "recovery databases",
+      "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
     },
     {
       "basename": "0001_check_flows",
@@ -75,10 +79,6 @@
     {
       "basename": "diagrams",
       "path": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md"
-    },
-    {
-      "basename": "diagramns",
-      "path": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md"
     }
   ],
   "omittedPaths": [],
