@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "update_restorant_datetime",
+      "path": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md"
+    },
+    {
       "basename": "Login",
       "path": "100_niufoods/03_projects/china_backend/before_start/Login.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "quick_sale",
       "path": "100_niufoods/03_projects/pof/documentation/check (order)/quick_sale.md"
-    },
-    {
-      "basename": "diagrams",
-      "path": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md"
     }
   ],
   "omittedPaths": [],
