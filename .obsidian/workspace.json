@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9ce36e4349049aa7",
+        "id": "cde6a2d98711e08d",
         "type": "tabs",
         "children": [
           {
-            "id": "c39d779afd6a9760",
+            "id": "939868e5c4cefa1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/before_start/Login.md",
-                "mode": "preview",
+                "file": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/before_start/Login.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/before_start/Login.md"
+                "file": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/before_start/Login.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,13 +179,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c39d779afd6a9760",
+  "active": "939868e5c4cefa1b",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
-    "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
+    "100_niufoods/03_projects/china_backend/requests/0002_add_logger_transbank.md",
+    "100_niufoods/03_projects/china_backend/requests/0001_add_logger_to_Order_save_param_method.md",
+    "100_niufoods/03_projects/pof/before_start/config_change_between_countries.md",
+    "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
     "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
     "100_niufoods/03_projects/china_backend/before_start/Login.md",
-    "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
+    "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
+    "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/shared/requerimient/0001_check_flows.md",
     "100_niufoods/01_daily_notes/2023-08-02.md",
     "100_niufoods/03_projects/pof/requests/0003_add_zip_code.md",
@@ -211,9 +214,6 @@
     "100_niufoods/03_projects/china_backend/documentation/errors in method save params + pdf.md",
     "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md",
     "100_niufoods/03_projects/pos_server_new/documentation/sync_data/sync_flow.md",
-    "100_niufoods/03_projects/pos_server_new/utils_commands/recovery databases.md",
-    "100_niufoods/03_projects/pos_server_new/before_start/Login.md",
-    "100_niufoods/03_projects/pof/before_start/config_change_between_countries.md",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/attachments/Pasted image 20230727164442.png",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/attachments/Pasted image 20230727164425.png",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/attachments/Pasted image 20230727164332.png",
