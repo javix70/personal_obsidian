@@ -53,7 +53,15 @@ drop database niusushi_db_centralized_mx_development;
 create database niusushi_web_partial_mx_development;
 create database niusushi_db_centralized_mx_development;
 
-/c 
+\c niusushi_web_partial_mx_development;
+CREATE EXTENSION IF NOT EXISTS "plpgsql";
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+CREATE EXTENSION IF NOT EXISTS "pg_trgm";
+CREATE EXTENSION IF NOT EXISTS "fuzzystrmatch";
+CREATE EXTENSION IF NOT EXISTS "hstore";
+CREATE EXTENSION IF NOT EXISTS "unaccent";
+
+\c niusushi_db_centralized_mx_development;
 CREATE EXTENSION IF NOT EXISTS "plpgsql";
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 CREATE EXTENSION IF NOT EXISTS "pg_trgm";
