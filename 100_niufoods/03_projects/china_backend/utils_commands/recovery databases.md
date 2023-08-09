@@ -45,12 +45,21 @@ rake centralized:db:migrate
 
 ```zsh
 psql
+\l
 
 drop database niusushi_web_partial_mx_development;
-drop database niusushi_web_partial_mx;
+drop database niusushi_db_centralized_mx_development;
 
 create database niusushi_web_partial_mx_development;
-create database niusushi_web_partial_mx;
+create database niusushi_db_centralized_mx_development;
+
+/c 
+CREATE EXTENSION IF NOT EXISTS "plpgsql";
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+CREATE EXTENSION IF NOT EXISTS "pg_trgm";
+CREATE EXTENSION IF NOT EXISTS "fuzzystrmatch";
+CREATE EXTENSION IF NOT EXISTS "hstore";
+CREATE EXTENSION IF NOT EXISTS "unaccent";
 ```
 
 # Cargar los datos
