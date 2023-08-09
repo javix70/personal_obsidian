@@ -31,6 +31,7 @@ pg_restore -v  -c -O -x -h localhost -U jai -d "niusushi_web_partial_development
 ```bash
 pg_restore -v  -c -O -x -h localhost -U jai -d niusushi_db_centralized_development niusushi_centralized_db_2022_11_17_10_12.dump
 ```
+
 ```bash
 cd ~/china-backend
 ```
@@ -44,13 +45,22 @@ rake centralized:db:migrate
 
 ```zsh
 psql
+
+drop database niusushi_web_partial_mx_development;
+drop database niusushi_web_partial_mx;
+
 create database niusushi_web_partial_mx_development;
 create database niusushi_web_partial_mx;
 ```
 
+# Cargar los datos
 
-`pg_restore -v  -c -O -x -h localhost -U jai -d 2niusushi_web_partial niusushi_web_partial_2023_02_09_09_58.dump`
+load dumps
+```bash
+pg_restore -v  -c -O -x -h localhost -U jai -d niusushi_web_partial_mx_development mxniusushi20230801.tar
+```
 
-`pg_restore -v  -c -O -x -h localhost -U jai -d 2niusushi_db_centralized_development niusushi_centralized_db_2022_11_17_10_12.dump`
+```bash
+pg_restore -v  -c -O -x -h localhost -U jai -d niusushi_web_partial_mx mx_niufoods_web_centralizada20230801.tar
 
-
+```
