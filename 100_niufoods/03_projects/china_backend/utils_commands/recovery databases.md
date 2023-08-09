@@ -43,7 +43,7 @@ rake centralized:db:migrate
 
 # Crear base de datos mexico
 
-```zsh
+```bash
 psql
 \l
 
@@ -52,7 +52,10 @@ drop database niusushi_db_centralized_mx_development;
 
 create database niusushi_web_partial_mx_development;
 create database niusushi_db_centralized_mx_development;
+```
 
+#  Cargar las extensiones de las bases de datos
+```bash
 \c niusushi_web_partial_mx_development;
 CREATE EXTENSION IF NOT EXISTS "plpgsql";
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
