@@ -61,6 +61,5 @@ pg_restore -v  -c -O -x -h localhost -U jai -d niusushi_web_partial_mx_developme
 ```
 
 ```bash
-pg_restore -v  -c -O -x -h localhost -U jai -d niusushi_web_partial_mx mx_niufoods_web_centralizada20230801.tar
-
+pg_restore -v  -c -O -x -h localhost -U jai -d niusushi_db_centralized_mx_development mx_niufoods_web_centralizada20230801.tar
 ```
