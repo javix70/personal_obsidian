@@ -78,21 +78,6 @@ y duplicar una orden..
 Por alguna razón, se está truncando la propina. porqué? no lo sé.
 
 ---
-## Para impresiones
-
-**app/services/printer_manager/thermal_utils/templates**
-los nombres de la vista con la clase, se llaman igual
-si quiero imprimir, veo el string de utils_pre_receipt
-
-
-### Reportes.
-En teoria no debería cambiar nada. agregar TODO
-
-### Informe ZETA
-files.
-day_count_sheet, y count_sheet
-
----
 ## Avance
 
 El Gabriel me ayudó a configurar el projecto, por que no me acordaba de cómo cambiar entre paises.
