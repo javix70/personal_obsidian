@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "diagramns",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/web orders/diagramns.md"
+    },
+    {
+      "basename": "diagrams",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams.md"
+    },
+    {
+      "basename": "how_to_sync_all_data_model",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md"
+    },
+    {
+      "basename": "diagramns",
+      "path": "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md"
+    },
+    {
+      "basename": "diagrams",
+      "path": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md"
+    },
+    {
+      "basename": "quick_sale",
+      "path": "100_niufoods/03_projects/pof/documentation/check (order)/quick_sale.md"
+    },
+    {
       "basename": "0002_truncamiento_pof",
       "path": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
     },
@@ -55,30 +79,6 @@
     {
       "basename": "0003_add_zip_code",
       "path": "100_niufoods/03_projects/pof/requests/0003_add_zip_code.md"
-    },
-    {
-      "basename": "Flujo de ordenes de compra",
-      "path": "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas"
-    },
-    {
-      "basename": "Levantar las aplicaciones al mismo tiempo",
-      "path": "100_niufoods/03_projects/shared/Levantar las aplicaciones al mismo tiempo.md"
-    },
-    {
-      "basename": "Crear nuevo cupón (con un nuevo PaymentType)",
-      "path": "100_niufoods/03_projects/shared/repetitive_tasks/Crear nuevo cupón (con un nuevo PaymentType).md"
-    },
-    {
-      "basename": "0004_agregar nuevo cupon taxable",
-      "path": "100_niufoods/03_projects/china_backend/requests/0004_agregar nuevo cupon taxable.md"
-    },
-    {
-      "basename": "abrir y cerrar caja",
-      "path": "100_niufoods/03_projects/pof/documentation/caja_turno/abrir y cerrar caja.canvas"
-    },
-    {
-      "basename": "cash_closing",
-      "path": "100_niufoods/03_projects/pof/documentation/caja_turno/cash_closing.md"
     }
   ],
   "omittedPaths": [],
