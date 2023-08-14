@@ -18,7 +18,7 @@ create database niusushi_db_centralized_test;
 create database niusushi_web_partial_development;
 create database niusushi_web_partial_test;
 
-exit
+\q
 ```
 
 # Cargar los datos
@@ -40,6 +40,11 @@ rake db:migrate
 rake centralized:db:migrate
 ```
 
+```ruby
+rails c
+```
+
+![[100_niufoods/03_projects/china_backend/before_start/Login|Login]]
 
 # Crear base de datos mexico
 
