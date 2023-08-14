@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0003_kushki",
+      "path": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md"
+    },
+    {
       "basename": "close_shift",
       "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "quick_sale",
       "path": "100_niufoods/03_projects/pof/documentation/check (order)/quick_sale.md"
-    },
-    {
-      "basename": "0003_kushki",
-      "path": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md"
     },
     {
       "basename": "Login",
