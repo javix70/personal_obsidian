@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "close_shift",
+      "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
+    },
+    {
       "basename": "recovery databases",
       "path": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "0002_truncamiento_pof",
       "path": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
-    },
-    {
-      "basename": "close_shift",
-      "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
     },
     {
       "basename": "Login",
