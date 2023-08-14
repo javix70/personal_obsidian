@@ -35,4 +35,8 @@ CREATE DATABASE pof_dev2 WITH TEMPLATE pof_dev OWNER jai;
 ```
 
 
+```psql
+DROP DATABAE pof_dev;
+CREATE DATABASE pof_dev WITH TEMPLATE pof_dev2 OWNER jai;
+```
 
