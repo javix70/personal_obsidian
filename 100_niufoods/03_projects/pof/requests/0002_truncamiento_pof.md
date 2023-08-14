@@ -192,13 +192,4 @@ Para todos, habla de referente a montos
 
 ## Solución
 
-Se hace el truncamiento de los valores price y extra price del modelo PriceList,
-esto se hace a traves de la sobreescritura a traves de los metodos con el mismo nombre que el attributo, luego se llama al super y hace la magia del truncado.
-
-Porqué ahí?
-
-Es preferible tener que actualizar un solo lugar que muchos lugares para una funcionalidad.
-
-En caso de tener que mover el front, quedaría inconsistente con los valores entregados por el backend, recordemos que front solo muestra y realiza calculos sencillos, para no afectar la logica de backend.
-
-
+Al final se hace redondeo de los valores, no truncamiento. y solo se genera para las rendition, agregar un override de los valores.
