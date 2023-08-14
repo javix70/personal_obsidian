@@ -20,20 +20,14 @@ no tener problemas con ese método
 
 # Información útil
 
-**Actual**:
-
-**Dependencias**:
+**Actual**:  [agregar return a metodo unnaccent](https://bitbucket.org/nnodes/pof/pull-requests/new?source=add-early-return&t=1)
 
 ---
 # Avance
-
-Esta sección es una sección libre, en donde tienes que anotar cada cosa que sientas que sea relevante.
 
 
 
 ---
 # Checklist de tareas que hacer 
-
-Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
 - [ ] push?

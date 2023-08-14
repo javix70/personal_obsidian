@@ -38,8 +38,7 @@ Referencia hacia el daily note que se trabajó antes de crear esta plantilla
 8. [1628-list-card](https://bitbucket.org/niusushi/china-backend/pull-requests/317) -> 1628-delete-suscribed_card
 9. [1633-show-logger-payment-intent](https://bitbucket.org/niusushi/china-backend/pull-requests/319) -> 1628-list-card
 10. [1628-add-kushki-to-preferences](https://bitbucket.org/niusushi/china-backend/pull-requests/320) -> 1633-show-logger-payment-intent
-11. 1628-add-kushki-to-preferences
-
+12. [Enviar order a pof](https://bitbucket.org/niusushi/china-backend/pull-requests/366)
 
 [1628 kushki front](https://bitbucket.org/niusushi/china-delivery/pull-requests/275)
 
@@ -74,3 +73,4 @@ con las ramas de
 probar el flujo correspondiente para validar que todo esté funcionando como correpsonde
 
 
+# Enviar order a pof
