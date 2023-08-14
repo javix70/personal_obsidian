@@ -1,4 +1,6 @@
 
+Schedule.update_all(open: "2000-01-01 08:00:00 UTC", closed: "2000-01-01 23:00:00 UTC")
+
 # abrir a las 8am
 ```ruby
 	# Primero, crea un objeto DateTime para las 8:00 AM
@@ -9,7 +11,7 @@
 ```
 
 
-	# cerrar mas tarde
+# cerrar mas tarde
 ```ruby
 # Primero, crea un objeto DateTime para las 17:59:59
 new_close_time = DateTime.parse("2000-01-01 17:59:59 UTC")
