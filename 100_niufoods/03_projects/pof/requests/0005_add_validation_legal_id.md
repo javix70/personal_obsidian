@@ -7,15 +7,13 @@ tags:
 ---
 
 
-
 # Requerimiento
 
-Se requiere que el metodo unnaccent no se caiga si se le envia nil
-
+Se requiere agregar validaciones al momento de crear un usuario en administrador de pof
 
 ## Objetivo
 
-no tener problemas con ese método
+Quitar validacion de maximo en legal id y se pueda crear correctamente
 
 
 # Información útil
