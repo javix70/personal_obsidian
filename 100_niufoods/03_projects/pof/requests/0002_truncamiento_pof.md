@@ -51,10 +51,10 @@ ENV. Truncated_amount true o false...
 monto medios de pago: no
 total cuenta: si
 total rendido: no
-diferencia a pagar: si,  
+diferencia a pagar: no,  
 
 Vuelto, no.
-propina, no
+propina, si
 
 ### Index de ventas
 ![[Pasted image 20230707154224.png]]
