@@ -1,7 +1,7 @@
 
 
 ```ruby
-CentralUser.first.update password:123123123
+CentralUser.admin.first.update password:123123123
 ```
 
 ^c6d642
