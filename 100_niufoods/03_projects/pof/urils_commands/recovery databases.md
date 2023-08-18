@@ -15,7 +15,7 @@ create database pof_dev;
 # Cargar los datos
 
 ```bash
-pg_restore -v -c -O -x -h localhost -U jai -d "pof_dev" backup_niu_brasil_2023_07_18_14_00.dump
+pg_restore -v -c -O -x -h localhost -U jai -d "pof_dev" coyoacan_2023_08_17_20_00.dump
 ```
 
  ```ruby
