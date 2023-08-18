@@ -18,6 +18,10 @@ create database pof_dev;
 pg_restore -v -c -O -x -h localhost -U jai -d "pof_dev" coyoacan_2023_08_17_20_00.dump
 ```
 
+```bash
+~/pof
+```
+
  ```ruby
  rails db:rollback STEP=XX
  ```
