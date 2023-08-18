@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "quick_sale",
+      "path": "100_niufoods/03_projects/pof/documentation/check (order)/quick_sale.md"
+    },
+    {
+      "basename": "diagrams",
+      "path": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md"
+    },
+    {
+      "basename": "cash_closing",
+      "path": "100_niufoods/03_projects/pof/documentation/caja_turno/cash_closing.md"
+    },
+    {
+      "basename": "abrir y cerrar caja",
+      "path": "100_niufoods/03_projects/pof/documentation/caja_turno/abrir y cerrar caja.canvas"
+    },
+    {
       "basename": "0002_truncamiento_pof",
       "path": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
     },
@@ -63,22 +79,6 @@
     {
       "basename": "0005_fix_autenticate",
       "path": "100_niufoods/03_projects/china_backend/requests/0005_fix_autenticate.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
-      "basename": "0003_kushki",
-      "path": "100_niufoods/03_projects/china_backend/requests/0003_kushki.md"
-    },
-    {
-      "basename": "close_shift",
-      "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
-    },
-    {
-      "basename": "recovery databases",
-      "path": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md"
     }
   ],
   "omittedPaths": [],
