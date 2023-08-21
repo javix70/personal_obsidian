@@ -193,3 +193,7 @@ Para todos, habla de referente a montos
 ## Solución
 
 Al final se hace redondeo de los valores, no truncamiento. y solo se genera para las rendition, agregar un override de los valores.
+
+**Nuevo requerimiento** 
+
+Solo truncar para la propina del 10%.

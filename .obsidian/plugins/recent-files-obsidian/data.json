@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "0002_truncamiento_pof",
+      "path": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "2023-08-21",
+      "path": "100_niufoods/01_daily_notes/2023-08-21.md"
+    },
+    {
+      "basename": "0001_format_to_mexican_money",
+      "path": "100_niufoods/03_projects/pos_server_new/requests/0001_format_to_mexican_money.md"
+    },
+    {
       "basename": "recovery databases",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
     },
     {
       "basename": "Login",
       "path": "100_niufoods/03_projects/china_backend/before_start/Login.md"
-    },
-    {
-      "basename": "2023-08-21",
-      "path": "100_niufoods/01_daily_notes/2023-08-21.md"
     },
     {
       "basename": "update_restorant_datetime",
@@ -41,16 +53,8 @@
       "path": "100_niufoods/03_projects/pof/documentation/caja_turno/abrir y cerrar caja.canvas"
     },
     {
-      "basename": "0002_truncamiento_pof",
-      "path": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
-    },
-    {
       "basename": "Login",
       "path": "100_niufoods/03_projects/pos_server_new/before_start/Login.md"
-    },
-    {
-      "basename": "0001_format_to_mexican_money",
-      "path": "100_niufoods/03_projects/pos_server_new/requests/0001_format_to_mexican_money.md"
     },
     {
       "basename": "0004_add_return_unnaccent",
@@ -75,10 +79,6 @@
     {
       "basename": "how_to_sync_all_data_model",
       "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md"
-    },
-    {
-      "basename": "0005_add_validation_legal_id",
-      "path": "100_niufoods/03_projects/pof/requests/0005_add_validation_legal_id.md"
     }
   ],
   "omittedPaths": [],
