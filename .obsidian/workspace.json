@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
-                "mode": "preview",
+                "file": "100_niufoods/01_daily_notes/2023-08-21.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5124969482422
+    "width": 345.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
+                "file": "100_niufoods/01_daily_notes/2023-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
+                "file": "100_niufoods/01_daily_notes/2023-08-21.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
+                "file": "100_niufoods/01_daily_notes/2023-08-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562.5
+    "width": 562.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,6 +182,8 @@
   },
   "active": "939868e5c4cefa1b",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
+    "100_niufoods/01_daily_notes/2023-08-21.md",
     "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
     "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
     "100_niufoods/03_projects/pos_server_new/utils_commands/recovery databases.md",
@@ -191,7 +195,6 @@
     "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
     "100_niufoods/03_projects/pos_server_new/before_start/Login.md",
     "100_niufoods/03_projects/pos_server_new/requests/0001_format_to_mexican_money.md",
-    "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/pof/requests/0004_add_return_unnaccent.md",
     "100_niufoods/01_daily_notes/2023-08-17.md",
     "100_niufoods/01_daily_notes/2023-08-14.md",
@@ -207,7 +210,6 @@
     "100_niufoods/03_projects/pof/before_start/config_change_between_countries.md",
     "100_niufoods/03_projects/pos_server_new/documentation/web orders/diagramns.md",
     "100_niufoods/03_projects/pos_server_new/documentation/tenders(medios de pago)/diagrams.md",
-    "100_niufoods/03_projects/china_backend/documentation/orders/diagramns.md",
     "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
     "100_niufoods/03_projects/shared/requerimient",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230731114038.png",
