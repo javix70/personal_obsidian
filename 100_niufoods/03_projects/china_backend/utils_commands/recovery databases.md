@@ -93,20 +93,10 @@ pg_restore -v  -c -O -x -h localhost -U jai -d niusushi_db_centralized_mx_develo
 
 ## centralizada
 ```bash
-PGPASSWORD=59cE5e1zGBkqoQF5EUN9 pg_dump -h mexiconiusushiweb.cdx4hhfxpr2j.us-east-1.rds.amazonaws.com -U administrator -F c -b -v -f mx_niufoods_web_customers_dump.sql mx_niufoods_web_customers
+PGPASSWORD=59cE5e1zGBkqoQF5EUN9 pg_dump -h mexiconiusushiweb.cdx4hhfxpr2j.us-east-1.rds.amazonaws.com -U administrator -F c -b -v -f mx_niufoods_web_customers_dump.sql niusushi_db_centralized_development
 ```
-
- dump del dump. 
-```ruby
-CREATE DATABASE mx_niufoods_web_customers_development with template mx_niufoods_web_customers;
-```
- 
 
 ## web_partial
 ```bash
-PGPASSWORD=59cE5e1zGBkqoQF5EUN9 pg_dump -h mexiconiusushiweb.cdx4hhfxpr2j.us-east-1.rds.amazonaws.com -U administrator -F c -b -v -f mxniusushi.sql mxniusushi
-```
-
-```ruby
-CREATE DATABASE mxniusushi_development with template mx_niufoods_web_customers;
+PGPASSWORD=59cE5e1zGBkqoQF5EUN9 pg_dump -h mexiconiusushiweb.cdx4hhfxpr2j.us-east-1.rds.amazonaws.com -U administrator -F c -b -v -f mxniusushi.sql niusushi_db_centralized_development
 ```
