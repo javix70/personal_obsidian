@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-08-23",
-      "path": "100_niufoods/01_daily_notes/2023-08-23.md"
-    },
-    {
       "basename": "recovery databases",
       "path": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md"
+    },
+    {
+      "basename": "prefix_commit",
+      "path": "100_niufoods/06_team_agreements/prefix_commit.md"
+    },
+    {
+      "basename": "2023-08-23",
+      "path": "100_niufoods/01_daily_notes/2023-08-23.md"
     },
     {
       "basename": "Login",
@@ -75,10 +79,6 @@
     {
       "basename": "2023-08-17",
       "path": "100_niufoods/01_daily_notes/2023-08-17.md"
-    },
-    {
-      "basename": "2023-08-14",
-      "path": "100_niufoods/01_daily_notes/2023-08-14.md"
     }
   ],
   "omittedPaths": [],
