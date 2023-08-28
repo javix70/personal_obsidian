@@ -42,3 +42,4 @@ Agregar condicion con pundit.
 Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
 - [x] push?  [completion:: 2023-08-28]
+- [x] Se realiza la modificacion pundit  [completion:: 2023-08-28]

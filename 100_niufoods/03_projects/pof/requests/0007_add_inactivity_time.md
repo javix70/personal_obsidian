@@ -32,14 +32,10 @@ Los otros garzones inicien con su sesion
 Se agrega en la vista de waiter, un js para que detecte la inacticidad del mouse, más una variable de entorno poner el tiempo en segundos de inactividad
 
 
-# Adicionales
-
-En la vista de login, al parecer se deslogea y sale un toast de que se deslogeo
-
 
 ---
 # Checklist de tareas que hacer 
 
-
-
+- [ ] En la vista cuando selecciona productos, el timer deja de contar... arreglar
+- [ ] En la vista de login, al parecer se deslogea y sale un toast de que se deslogeo
 - [x] push?  [completion:: 2023-08-28]
