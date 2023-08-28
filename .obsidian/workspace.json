@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "ba128ee244c41a34",
+        "id": "15180e8eca2a768e",
         "type": "tabs",
         "children": [
           {
             "id": "a6580f4a02bd05fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100_niufoods/03_projects/pof/requests/0008_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc8b59e9b1d21cb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b5998c756388eab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5124969482422,
-    "collapsed": true
+    "width": 345.5124969482422
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -180,15 +197,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a6580f4a02bd05fe",
+  "active": "5b5998c756388eab",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/pof/requests/0008_.md",
+    "100_niufoods/01_daily_notes/2023-08-23.md",
+    "100_niufoods/03_projects/pof/requests/0007_add_inactivity_time.md",
+    "100_niufoods/03_projects/pof/requests/0006_select_ten_percent.md",
+    "100_niufoods/01_daily_notes/2023-08-21.md",
+    "100_niufoods/01_daily_notes/2023-08-17.md",
     "100_niufoods/03_projects/pof/before_start/Login.md",
     "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
     "100_niufoods/06_team_agreements/prefix_commit.md",
-    "100_niufoods/01_daily_notes/2023-08-23.md",
     "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
     "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
-    "100_niufoods/01_daily_notes/2023-08-21.md",
     "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/china_backend/before_start/Login.md",
     "Untitled.md",
@@ -202,14 +223,10 @@
     "Untitled.canvas",
     "100_niufoods/03_projects/pos_server_new/before_start/Login.md",
     "100_niufoods/03_projects/pof/requests/0004_add_return_unnaccent.md",
-    "100_niufoods/01_daily_notes/2023-08-17.md",
     "100_niufoods/01_daily_notes/2023-08-14.md",
     "2023-08-16.md",
     "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md",
     "100_niufoods/03_projects/pof/requests/0005_add_validation_legal_id.md",
-    "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
-    "100_niufoods/03_projects/china_backend/requests/0005_fix_autenticate.md",
-    "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
     "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
     "100_niufoods/03_projects/shared/requerimient",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230731114038.png",
