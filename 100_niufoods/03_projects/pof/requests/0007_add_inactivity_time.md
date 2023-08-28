@@ -22,7 +22,8 @@ Los otros garzones inicien con su sesion
 
 ## Prs involucrados
 
-- [ ] **Actual**: [Agregar timer a waiter](https://bitbucket.org/nnodes/pof/pull-requests/219)
+**Actual**: [Agregar timer a waiter](https://bitbucket.org/nnodes/pof/pull-requests/219)
+FIX [Eliminar evento de detección anterior](https://bitbucket.org/nnodes/pof/pull-requests/221)
 
 **Dependencias**:
 
@@ -36,6 +37,6 @@ Se agrega en la vista de waiter, un js para que detecte la inacticidad del mouse
 ---
 # Checklist de tareas que hacer 
 
-- [ ] En la vista cuando selecciona productos, el timer deja de contar... arreglar
-- [ ] En la vista de login, al parecer se deslogea y sale un toast de que se deslogeo
+- [x] En la vista cuando selecciona productos, el timer deja de contar... arreglar  [completion:: 2023-08-28]
+- [x] En la vista de login, al parecer se deslogea y sale un toast de que se deslogeo  [completion:: 2023-08-28]
 - [x] push?  [completion:: 2023-08-28]
