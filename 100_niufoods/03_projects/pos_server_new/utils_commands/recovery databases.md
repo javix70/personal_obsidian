@@ -38,3 +38,18 @@ rails c
 ```
 
 ![[100_niufoods/03_projects/pos_server_new/before_start/Login#^c6d642|Login]]
+
+
+
+  
+
+REDIS_URL=redis://mexiconiusushiserver-cache.4o6jse.ng.0001.use1.cache.amazonaws.com:6379
+RDS_HOST=mexiconiusushiserver.cdx4hhfxpr2j.us-east-1.rds.amazonaws.com
+RDS_USERNAME=mexniusushi
+RDS_PASSWORD=zVY3I9aERF6oTY2cihte
+RDS_PORT=5432
+RDS_DATABASE=mexiconiusushi_server_db
+
+```bash
+PGPASSWORD=zVY3I9aERF6oTY2cihte pg_dump -h mexiconiusushiserver.cdx4hhfxpr2j.us-east-1.rds.amazonaws.com -U mexniusushi -F c -b -v -f mx_niufoods_web_customers_dump.sql niusushi_db_centralized_development
+```
