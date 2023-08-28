@@ -29,13 +29,17 @@ Los otros garzones inicien con su sesion
 ---
 # Avance
 
-Se agrega en la vista de waiter, un js para que detecte la inacticidad del mouse, más una variable de entorno para revisar
+Se agrega en la vista de waiter, un js para que detecte la inacticidad del mouse, más una variable de entorno poner el tiempo en segundos de inactividad
 
+
+# Adicionales
+
+En la vista de login, al parecer se deslogea y sale un toast de que se deslogeo
 
 
 ---
 # Checklist de tareas que hacer 
 
-Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
-- [ ] push?
+
+- [x] push?  [completion:: 2023-08-28]
