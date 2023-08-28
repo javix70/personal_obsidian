@@ -10,30 +10,26 @@ tags:
 
 # Requerimiento
 
-Anotar el requerimiento tal cual ha sido solicitado
+Hay que agregar un timer de inactividad en el pof para el rol de waiter(Garzon), que si no hace nada y está logeado se pueda salir de la interfaz
 
 
 ## Objetivo
 
-Descubrir cúal es el objetivo del problema
+Los otros garzones inicien con su sesion
 
 
 # Información útil
 
-Antes de empezar
-
-Consideraciones (referencias)
-
 ## Prs involucrados
 
-**Actual**:
+- [ ] **Actual**: [Agregar timer a waiter](https://bitbucket.org/nnodes/pof/pull-requests/219)
 
 **Dependencias**:
 
 ---
 # Avance
 
-Esta sección es una sección libre, en donde tienes que anotar cada cosa que sientas que sea relevante.
+Se agrega en la vista de waiter, un js para que detecte la inacticidad del mouse, más una variable de entorno para revisar
 
 
 
