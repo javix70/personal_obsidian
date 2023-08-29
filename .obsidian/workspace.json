@@ -13,26 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_learning/TI/programing/git/borrar reflog.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e0d7a5b5dbb6118f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2b57f3efb7f896a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_learning/TI/programing/git/revert a reset.md",
-                "mode": "preview",
+                "file": "100_niufoods/01_daily_notes/2023-08-29.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_learning/TI/programing/git/revert a reset.md",
+                "file": "100_niufoods/01_daily_notes/2023-08-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001_learning/TI/programing/git/revert a reset.md"
+                "file": "100_niufoods/01_daily_notes/2023-08-29.md"
               }
             }
           },
@@ -153,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_learning/TI/programing/git/revert a reset.md",
+                "file": "100_niufoods/01_daily_notes/2023-08-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 699.5,
-    "collapsed": true
+    "width": 699.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +178,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2b57f3efb7f896a6",
+  "active": "710488a72d215004",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/pof/requests/0007_add_inactivity_time.md",
+    "100_niufoods/01_daily_notes/2023-08-29.md",
+    "100_niufoods/03_projects/pof/requests/0009_rol_admin_can_be_change_tables.md",
     "001_learning/TI/programing/git/borrar reflog.md",
     "001_learning/TI/programing/git/revert a reset.md",
     "100_niufoods/07_integrations/Pedidos ya/0002_consideraciones.md",
@@ -212,9 +196,7 @@
     "100_niufoods/07_integrations/Pedidos ya",
     "100_niufoods/07_integrations/kushki",
     "100_niufoods/03_projects/pof/requests/0006_select_ten_percent.md",
-    "100_niufoods/03_projects/pof/requests/0007_add_inactivity_time.md",
     "100_niufoods/03_projects/pof/requests/0008_remove_format_to_numericpad_input.md",
-    "100_niufoods/03_projects/pof/requests/0009_rol_admin_can_be_change_tables.md",
     "100_niufoods/03_projects/pos_server_new/requests/0001_format_to_mexican_money.md",
     "100_niufoods/01_daily_notes/2023-08-21.md",
     "100_niufoods/01_daily_notes/2023-08-28.md",
@@ -227,7 +209,6 @@
     "100_niufoods/03_projects/pof/requests/0005_add_validation_legal_id.md",
     "100_niufoods/01_daily_notes/2023-08-17.md",
     "100_niufoods/03_projects/pof/before_start/Login.md",
-    "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
     "100_niufoods/03_projects/pof/documentation/caja_turno/abrir y cerrar caja.canvas",
     "Untitled.canvas",
     "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
