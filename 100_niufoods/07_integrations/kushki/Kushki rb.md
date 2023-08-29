@@ -246,3 +246,13 @@ module Services
 end
 
 ```
+
+
+Cómo usarlo
+
+```ruby
+kushki = ::Services::Kushki.new
+kushki.cancel_a_recurring_charge(
+args: { subscription_id: token }
+)
+```
