@@ -10,25 +10,19 @@ tags:
 
 # Requerimiento
 
-Anotar el requerimiento tal cual ha sido solicitado
+Formateo y pasar a centavos todo lo necesario para pasar de chile a mexico
 
 
 ## Objetivo
 
-Descubrir cúal es el objetivo del problema
+que posserver pase a mx
 
 
 # Información útil
 
-Antes de empezar
-
-Consideraciones (referencias)
-
 ## Prs involucrados
 
 **Actual**: [formateo de moneda](https://bitbucket.org/nnodes/pof_server_new/pull-requests/364)
-
-**Dependencias**:
 
 ---
 # Avance
@@ -42,4 +36,4 @@ Esta sección es una sección libre, en donde tienes que anotar cada cosa que si
 
 Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
-- [ ] push?
+- [x] push?  [completion:: 2023-08-29]
