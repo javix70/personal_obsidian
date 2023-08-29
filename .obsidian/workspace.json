@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4051727b12faca39",
+        "id": "bfc21195c313897c",
         "type": "tabs",
         "children": [
           {
-            "id": "492061908b2aa462",
+            "id": "710488a72d215004",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/07_integrations/Pedidos ya/0002_consideraciones.md",
-                "mode": "source",
+                "file": "001_learning/TI/programing/git/borrar reflog.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e0d7a5b5dbb6118f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b57f3efb7f896a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_learning/TI/programing/git/revert a reset.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/07_integrations/Pedidos ya/0002_consideraciones.md",
+                "file": "001_learning/TI/programing/git/revert a reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/07_integrations/Pedidos ya/0002_consideraciones.md"
+                "file": "001_learning/TI/programing/git/revert a reset.md"
               }
             }
           },
@@ -135,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/07_integrations/Pedidos ya/0002_consideraciones.md",
+                "file": "001_learning/TI/programing/git/revert a reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,10 +197,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "492061908b2aa462",
+  "active": "2b57f3efb7f896a6",
   "lastOpenFiles": [
-    "100_niufoods/07_integrations/Pedidos ya/0001_kickoff_integrations.md",
+    "001_learning/TI/programing/git/borrar reflog.md",
+    "001_learning/TI/programing/git/revert a reset.md",
     "100_niufoods/07_integrations/Pedidos ya/0002_consideraciones.md",
+    "001_learning/TI/programing/git",
+    "100_niufoods/07_integrations/Pedidos ya/0001_kickoff_integrations.md",
     "100_niufoods/01_daily_notes/2023-08-23.md",
     "100_niufoods/07_integrations/kushki/Kushki rb.md",
     "100_niufoods/07_integrations/Transport rb.md",
@@ -207,8 +228,6 @@
     "100_niufoods/01_daily_notes/2023-08-17.md",
     "100_niufoods/03_projects/pof/before_start/Login.md",
     "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
-    "100_niufoods/06_team_agreements/prefix_commit.md",
-    "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
     "100_niufoods/03_projects/pof/documentation/caja_turno/abrir y cerrar caja.canvas",
     "Untitled.canvas",
     "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
@@ -228,7 +247,6 @@
     "100_niufoods/03_projects/shared/repetitive_tasks/attachments",
     "100_niufoods/03_projects/pof/documentation/check (order)/attachments",
     "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments",
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data",
-    "100_niufoods/03_projects/pof/documentation/caja_turno/attachments"
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data"
   ]
 }
