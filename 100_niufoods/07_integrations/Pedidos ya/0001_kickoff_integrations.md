@@ -22,3 +22,7 @@ TEST (Stagging)
 
 pasar el webhooks pasarselo a ellos para hacer la prueba (ellos lo configuran por su parte)
 
+----------
+
+el worker de ImportPedidosYa no debe llamarse cada 30 segundos como lo hace actualmente
+
