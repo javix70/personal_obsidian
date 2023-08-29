@@ -19,7 +19,6 @@ TEST (Stagging)
 1. Es inestable
 2. Se puede llevar más cuenta
 
-
 pasar el webhooks pasarselo a ellos para hacer la prueba (ellos lo configuran por su parte)
 
 ----------
