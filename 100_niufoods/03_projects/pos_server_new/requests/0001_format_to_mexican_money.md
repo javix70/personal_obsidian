@@ -26,7 +26,7 @@ Consideraciones (referencias)
 
 ## Prs involucrados
 
-**Actual**:
+**Actual**: [formateo de moneda](https://bitbucket.org/nnodes/pof_server_new/pull-requests/364)
 
 **Dependencias**:
 
