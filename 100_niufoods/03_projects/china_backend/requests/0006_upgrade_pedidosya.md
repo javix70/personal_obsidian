@@ -36,7 +36,15 @@ endpoint al cual apunta peya a niufoods - (pedidosya/wh)
 # Avance
 
 
-	
+us-plugin-niufoods-001:
+baseUrl: https://integration-middleware.us.restaurant-partners.com
+username: us-plugin-niufoods-001
+password: 9qvSknRe9y
+secret: ooHie6eipahnee2i
+
+    bash: curl -X POST             https://integration-middleware.us.restaurant-partners.com/v2/login             -H 'Content-Type: application/x-www-form-urlencoded'             -d 'username=us-plugin-niufoods-001'             -d 'password=9qvSknRe9y'             -d 'grant_type=client_credentials'   middleware:
+baseUri: https://integration-middleware.stg.restaurant-partners.com
+pluginSecret: totally_secret
 
 
 
