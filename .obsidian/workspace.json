@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41ba93656febb91f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +191,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "710488a72d215004",
+  "active": "41ba93656febb91f",
   "lastOpenFiles": [
     "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
     "100_niufoods/03_projects/china_backend/requests/0006_upgrade_pedidosya.md",
