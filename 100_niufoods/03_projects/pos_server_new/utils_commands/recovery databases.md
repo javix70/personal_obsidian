@@ -24,7 +24,6 @@ create database pof_server_test_db_1;
 pg_restore -v -c -O -x -h localhost -U jai -d "pof_server_20230303" dump-mexiconiusushi_server_db_20230817_2.tar
 ```
 
-
 ```bash
 cd ~/pof_server_new
 ```
