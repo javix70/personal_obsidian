@@ -11,17 +11,18 @@ redis-server
 Para iniciar Resque, puedes usar el siguiente comando desde el directorio raíz de tu aplicación Rails:
 ```sh
 QUEUE=* rake resque:work
-``
-`````````
-Este comando iniciará un trabajador de Resque que comenzará a procesar trabajos de todas las colas.
+```
 
+Este comando iniciará un worker de Resque que comenzará a procesar trabajos de todas las colas.
 ### Paso 3: Inicia el Planificador de Resque
 
 Dado que estás utilizando el planificador de Resque para programar trabajos, también necesitarás iniciar el planificador de Resque con el siguiente comando:
 
-sh
 
-`rake resque:scheduler`
+```sh
+rake resque:scheduler
+```
+
 
 Este comando iniciará el planificador de Resque, que comenzará a programar trabajos según lo definido en tu archivo `resque_schedule.yml`.
 

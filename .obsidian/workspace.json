@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_learning/TI/programing/ruby on rails/ejecutar resque.md",
+                "file": "100_niufoods/03_projects/pof/requests/0011_close_shif_input_wrong.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7248ebe18fd24566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e99821cb7735d7fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100_niufoods/03_projects/pof/requests/0011_close_shif_input_wrong.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_learning/TI/programing/ruby on rails/ejecutar resque.md",
+                "file": "100_niufoods/03_projects/pof/requests/0011_close_shif_input_wrong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001_learning/TI/programing/ruby on rails/ejecutar resque.md"
+                "file": "100_niufoods/03_projects/pof/requests/0011_close_shif_input_wrong.md"
               }
             }
           },
@@ -135,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_learning/TI/programing/ruby on rails/ejecutar resque.md",
+                "file": "100_niufoods/03_projects/pof/requests/0011_close_shif_input_wrong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 699.5,
-    "collapsed": true
+    "width": 699.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +197,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "79d5125b233bd5ec",
+  "active": "e99821cb7735d7fb",
   "lastOpenFiles": [
+    "100_niufoods/01_daily_notes/2023-09-05.md",
+    "100_niufoods/01_daily_notes/2023-09-06.md",
+    "2023-09-08.md",
+    "100_niufoods/03_projects/pof/requests/0011_close_shif_input_wrong.md",
+    "100_niufoods/03_projects/pof/requests/0001_chuteo_karla_pof.md",
+    "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
+    "100_niufoods/03_projects/pof/requests/0003_add_zip_code.md",
+    "100_niufoods/03_projects/pof/requests/0004_add_return_unnaccent.md",
+    "100_niufoods/03_projects/pof/requests/0005_add_validation_legal_id.md",
+    "100_niufoods/03_projects/pof/requests/0006_select_ten_percent.md",
+    "100_niufoods/03_projects/pof/requests/0007_add_inactivity_time.md",
+    "100_niufoods/03_projects/pof/requests/0008_remove_format_to_numericpad_input.md",
+    "100_niufoods/03_projects/pof/requests/0009_rol_admin_can_be_change_tables.md",
+    "100_niufoods/03_projects/pof/requests/0010_review_gabriels_pr_current_tab.md",
     "001_learning/TI/programing/ruby on rails/ejecutar resque.md",
     "001_learning/TI/programing/ruby on rails",
     "001_learning/TI/programing/lenguajes/Untitled",
@@ -191,28 +222,14 @@
     "2023-08-27.md",
     "001_learning/TI/programing/Glosario.md",
     "100_niufoods/03_projects/pos_server_new/utils_commands/recovery databases.md",
-    "100_niufoods/01_daily_notes/2023-09-06.md",
-    "100_niufoods/01_daily_notes/2023-09-05.md",
     "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
     "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
     "100_niufoods/03_projects/china_backend/requests/0006_upgrade_pedidosya.md",
     "100_niufoods/01_daily_notes/2023-08-30.md",
-    "100_niufoods/03_projects/pof/requests/0007_add_inactivity_time.md",
-    "100_niufoods/03_projects/pos_server_new/requests/0002_.md",
-    "Excalidraw/Drawing 2023-08-30 15.57.25.excalidraw.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "Excalidraw",
-    "100_niufoods/03_projects/pof/requests/0010_review_gabriels_pr_current_tab.md",
     "100_niufoods/03_projects/pof/urils_commands/attachments/Pasted image 20230830114712.png",
     "100_niufoods/03_projects/pof/urils_commands/attachments",
-    "100_niufoods/03_projects/pof/urils_commands/Abrir caja.md",
-    "100_niufoods/03_projects/pof/before_start/Login.md",
-    "100_niufoods/03_projects/pos_server_new/before_start/Login.md",
-    "100_niufoods/03_projects/pos_server_new/requests/0001_format_to_mexican_money.md",
-    "100_niufoods/01_daily_notes/2023-08-29.md",
-    "100_niufoods/03_projects/pof/requests/0009_rol_admin_can_be_change_tables.md",
     "001_learning/TI/programing/git",
     "100_niufoods/07_integrations/Pedidos ya",
     "100_niufoods/07_integrations/kushki",
