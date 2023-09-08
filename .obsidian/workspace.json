@@ -6,6 +6,7 @@
       {
         "id": "9fe90159a3d17cd2",
         "type": "tabs",
+        "dimension": 38.324175824175825,
         "children": [
           {
             "id": "79d5125b233bd5ec",
@@ -24,6 +25,7 @@
       {
         "id": "7248ebe18fd24566",
         "type": "tabs",
+        "dimension": 61.675824175824175,
         "children": [
           {
             "id": "e99821cb7735d7fb",
@@ -32,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "001_learning/TI/programing/git/reflog.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
