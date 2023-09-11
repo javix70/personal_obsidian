@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md"
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,11 +183,13 @@
   },
   "active": "79d5125b233bd5ec",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
+    "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
+    "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
     "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "001_learning/books/El arte de la guerra/13 apartados fundamentales.md",
     "100_niufoods/03_projects/pos_server_new/utils_commands/recovery databases.md",
     "001_learning/books/El arte de la guerra",
-    "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
     "100_niufoods/03_projects/pof/requests/0011_close_shif_input_wrong.md",
     "001_learning/TI/programing/git/reflog.md",
     "001_learning/TI/programing/git/borrar reflog.md",
@@ -210,8 +212,6 @@
     "100_niufoods/07_integrations/Transport rb.md",
     "100_niufoods/07_integrations/Pedidos ya/0002_consideraciones.md",
     "2023-08-16.md",
-    "2023-08-27.md",
-    "001_learning/TI/programing/Glosario.md",
     "Excalidraw",
     "100_niufoods/03_projects/pof/urils_commands/attachments/Pasted image 20230830114712.png",
     "100_niufoods/03_projects/pof/urils_commands/attachments",
