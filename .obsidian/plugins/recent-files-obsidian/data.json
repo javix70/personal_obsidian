@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ejecutar resque",
+      "path": "001_learning/TI/programing/ruby on rails/ejecutar resque.md"
+    },
+    {
       "basename": "recovery databases",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "0008_remove_format_to_numericpad_input",
       "path": "100_niufoods/03_projects/pof/requests/0008_remove_format_to_numericpad_input.md"
-    },
-    {
-      "basename": "0009_rol_admin_can_be_change_tables",
-      "path": "100_niufoods/03_projects/pof/requests/0009_rol_admin_can_be_change_tables.md"
     }
   ],
   "omittedPaths": [],
