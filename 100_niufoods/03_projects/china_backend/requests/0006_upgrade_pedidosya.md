@@ -5,7 +5,7 @@ tags:
   - [china_backend]
   - requirement
 ---
-
+********
 
 
 # Requerimiento
@@ -23,14 +23,16 @@ Descubrir cúal es el objetivo del problema
 Antes de empezar
 
 1. [Correo con información](https://mail.google.com/mail/u/0/#inbox/FMfcgzGtwqMDCpDKjJScDfQPxjdVWgSJ) - Aqui se encuentra la informacion unificada de hacer el upgrade
-2. 
+
 
 endpoint al cual apunta peya a niufoods - (pedidosya/wh)
 ## Prs involucrados
 
 **Actual**:
 
-**Dependencias**:
+**Dependencias**: last-change-to-mexico
+
+
 
 ---
 # Avance
