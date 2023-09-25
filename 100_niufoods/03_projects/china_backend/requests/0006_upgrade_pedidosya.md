@@ -33,7 +33,8 @@ endpoint al cual apunta peya a niufoods - (pedidosya/wh)
 **Dependencias**: last-change-to-mexico
 
 1: [Creación de clase Abstracta](https://bitbucket.org/niusushi/china-backend/pull-requests/388)
-2: 
+2: [Pedidos Ya service](https://bitbucket.org/niusushi/china-backend/pull-requests/389)
+
 
 ---
 # Avance
