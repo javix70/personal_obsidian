@@ -36,7 +36,7 @@ endpoint al cual apunta peya a niufoods - (pedidosya/wh)
 2: [Pedidos Ya service](https://bitbucket.org/niusushi/china-backend/pull-requests/389)
 3: [Configuracion del restaurant para la integración de pedios ya](https://bitbucket.org/niusushi/china-backend/pull-requests/new?source=1715-configure-restaurant-peya&t=1)
 4: [Creación de una orden de pedidos ya](https://bitbucket.org/niusushi/china-backend/pull-requests/new?source=create-new-order-peya&t=1)
-
+5: [Creación endpoint update sin logica](https://bitbucket.org/niusushi/china-backend/pull-requests/new?source=1715-update-status-peya&t=1)
 
 
 ---
