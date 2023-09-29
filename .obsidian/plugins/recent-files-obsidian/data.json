@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0002_consideraciones",
+      "path": "100_niufoods/07_integrations/Pedidos ya/0002_consideraciones.md"
+    },
+    {
       "basename": "reflog",
       "path": "001_learning/TI/programing/git/reflog.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "0001_kickoff_integrations",
       "path": "100_niufoods/07_integrations/Pedidos ya/0001_kickoff_integrations.md"
-    },
-    {
-      "basename": "0002_consideraciones",
-      "path": "100_niufoods/07_integrations/Pedidos ya/0002_consideraciones.md"
     },
     {
       "basename": "recovery databases",
