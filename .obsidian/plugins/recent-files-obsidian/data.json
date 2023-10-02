@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "integracion actual",
+      "path": "100_niufoods/07_integrations/Pedidos ya/integracion actual.md"
+    },
+    {
       "basename": "revisión integracion",
       "path": "100_niufoods/07_integrations/uber/revisión integracion.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "0001_chuteo_karla_pof",
       "path": "100_niufoods/03_projects/pof/requests/0001_chuteo_karla_pof.md"
-    },
-    {
-      "basename": "0002_truncamiento_pof",
-      "path": "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md"
     }
   ],
   "omittedPaths": [],
