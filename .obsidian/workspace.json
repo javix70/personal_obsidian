@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5124969482422
+    "width": 345.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -189,7 +190,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "966de0a33a82f8d0",
+  "active": "79d5125b233bd5ec",
   "lastOpenFiles": [
     "100_niufoods/07_integrations/Pedidos ya/0001_kickoff_integrations.md",
     "100_niufoods/07_integrations/Pedidos ya/0002_consideraciones.md",
