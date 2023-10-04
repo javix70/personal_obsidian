@@ -14,7 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "100_niufoods/01_daily_notes/2023-10-04.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "629bfb9b9672da3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2561ba810c767fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100_niufoods/03_projects/pof/requests/0012_add_default_commune_to_client.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5124969482422
+    "width": 470.50418853759766
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/01_daily_notes/2023-10-04.md",
+                "file": "100_niufoods/03_projects/pof/requests/0012_add_default_commune_to_client.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/01_daily_notes/2023-10-04.md"
+                "file": "100_niufoods/03_projects/pof/requests/0012_add_default_commune_to_client.md"
               }
             }
           },
@@ -135,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/01_daily_notes/2023-10-04.md",
+                "file": "100_niufoods/03_projects/pof/requests/0012_add_default_commune_to_client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,11 +207,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "79d5125b233bd5ec",
+  "active": "e2561ba810c767fc",
   "lastOpenFiles": [
+    "100_niufoods/01_daily_notes/2023-10-04.md",
+    "100_niufoods/03_projects/pof/requests/0012_add_default_commune_to_client.md",
     "100_niufoods/03_projects/china_backend/requests/0006_upgrade_pedidosya.md",
     "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats.md",
-    "100_niufoods/01_daily_notes/2023-10-04.md",
     "100_niufoods/07_integrations/uber/revisión integracion.md",
     "100_niufoods/07_integrations/Pedidos ya/integracion actual.md",
     "100_niufoods/07_integrations/Pedidos ya/0002_consideraciones.md",
@@ -218,7 +237,6 @@
     "2023-09-08.md",
     "100_niufoods/03_projects/pof/requests/0001_chuteo_karla_pof.md",
     "100_niufoods/03_projects/pof/requests/0002_truncamiento_pof.md",
-    "100_niufoods/03_projects/pof/requests/0003_add_zip_code.md",
     "001_learning/TI/programing/ruby on rails",
     "001_learning/TI/programing/lenguajes/Untitled",
     "Excalidraw",
