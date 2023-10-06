@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/shared/repetitive_tasks/deploys.md",
+                "file": "100_niufoods/03_projects/shared/Levantar las aplicaciones al mismo tiempo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.50418853759766,
-    "collapsed": true
+    "width": 478.50418853759766
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/shared/repetitive_tasks/deploys.md",
+                "file": "100_niufoods/03_projects/shared/Levantar las aplicaciones al mismo tiempo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/shared/repetitive_tasks/deploys.md"
+                "file": "100_niufoods/03_projects/shared/Levantar las aplicaciones al mismo tiempo.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/shared/repetitive_tasks/deploys.md",
+                "file": "100_niufoods/03_projects/shared/Levantar las aplicaciones al mismo tiempo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,8 +192,8 @@
   },
   "active": "bda3cbc05e70a482",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/shared/repetitive_tasks/deploys.md",
+    "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/pof/requests/0012_add_default_commune_to_client.md",
     "100_niufoods/01_daily_notes/2023-10-04.md",
     "100_niufoods/03_projects/china_backend/requests/0006_upgrade_pedidosya.md",
