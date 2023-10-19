@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-10-19",
+      "path": "100_niufoods/01_daily_notes/2023-10-19.md"
+    },
+    {
       "basename": "revert a reset",
       "path": "001_learning/TI/programing/git/revert a reset.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "recovery databases",
       "path": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md"
-    },
-    {
-      "basename": "13 apartados fundamentales",
-      "path": "001_learning/books/El arte de la guerra/13 apartados fundamentales.md"
     }
   ],
   "omittedPaths": [],
