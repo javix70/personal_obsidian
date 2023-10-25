@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/01_daily_notes/2023-10-19.md",
-                "mode": "source",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/01_daily_notes/2023-10-19.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/01_daily_notes/2023-10-19.md"
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/01_daily_notes/2023-10-19.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "39334f508164cb73",
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 426.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +190,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "14150f037b4fee2e",
+  "active": "f57c3399d8cfca46",
   "lastOpenFiles": [
     "100_niufoods/01_daily_notes/2023-10-19.md",
     "001_learning/TI/programing/git/revert a reset.md",
