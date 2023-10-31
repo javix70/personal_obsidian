@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "imprimir boletas en consola",
+      "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
+    },
+    {
       "basename": "2023-10-19",
       "path": "100_niufoods/01_daily_notes/2023-10-19.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "ejecutar resque",
       "path": "001_learning/TI/programing/ruby on rails/ejecutar resque.md"
-    },
-    {
-      "basename": "automatic_test_model",
-      "path": "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md"
     }
   ],
   "omittedPaths": [],
