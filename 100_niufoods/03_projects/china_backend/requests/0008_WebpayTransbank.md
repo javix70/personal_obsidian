@@ -29,9 +29,9 @@ prs backend
 [Crear Job para autofield](https://bitbucket.org/niusushi/china-backend/pull-requests/439)
 [Agregar nuevo estado a pagos order webpay](https://bitbucket.org/niusushi/china-backend/pull-requests/440)
 
-**Actual**:
+FRONT
+[Front WebpayPluss](https://bitbucket.org/niusushi/china-delivery/pull-requests/366)
 
-**Dependencias**:
 
 ---
 # Avance
