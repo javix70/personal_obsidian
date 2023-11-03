@@ -20,6 +20,7 @@ Integrarlo con el mismo flujo de kushki
 
 ## Prs involucrados
 
+prs backend
 [Actualización de librería Transbank](https://bitbucket.org/niusushi/china-backend/pull-requests/416)
 [Preparar recursos para transbank portal  de pago](https://bitbucket.org/niusushi/china-backend/pull-requests/435)
 [Reorganizar caso de uso de pago kushki](https://bitbucket.org/niusushi/china-backend/pull-requests/436)
