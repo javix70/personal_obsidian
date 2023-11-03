@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0008_WebpayTransbank",
+      "path": "100_niufoods/03_projects/china_backend/requests/0008_WebpayTransbank.md"
+    },
+    {
       "basename": "revert a reset",
       "path": "001_learning/TI/programing/git/revert a reset.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "2023-09-27",
       "path": "100_niufoods/01_daily_notes/2023-09-27.md"
-    },
-    {
-      "basename": "ejecutar resque",
-      "path": "001_learning/TI/programing/ruby on rails/ejecutar resque.md"
     }
   ],
   "omittedPaths": [],
