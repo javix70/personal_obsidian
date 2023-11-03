@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "revert a reset",
+      "path": "001_learning/TI/programing/git/revert a reset.md"
+    },
+    {
+      "basename": "borrar reflog",
+      "path": "001_learning/TI/programing/git/borrar reflog.md"
+    },
+    {
+      "basename": "reflog",
+      "path": "001_learning/TI/programing/git/reflog.md"
+    },
+    {
       "basename": "update_restorant_datetime",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "recovery databases",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
-    },
-    {
-      "basename": "revert a reset",
-      "path": "001_learning/TI/programing/git/revert a reset.md"
     },
     {
       "basename": "Levantar las aplicaciones al mismo tiempo",
@@ -63,14 +71,6 @@
     {
       "basename": "0001_kickoff_integrations",
       "path": "100_niufoods/07_integrations/Pedidos ya/0001_kickoff_integrations.md"
-    },
-    {
-      "basename": "reflog",
-      "path": "001_learning/TI/programing/git/reflog.md"
-    },
-    {
-      "basename": "borrar reflog",
-      "path": "001_learning/TI/programing/git/borrar reflog.md"
     },
     {
       "basename": "2023-09-27",
