@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Objetivo",
+      "path": "0004_app/Objetivo.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "0004_app/Tienda/Untitled.md"
+    },
+    {
+      "basename": "diagrams",
+      "path": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md"
+    },
+    {
+      "basename": "brainstorming",
+      "path": "003_portfolio/brainstorming.md"
+    },
+    {
       "basename": "update_restorant_datetime",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md"
     },
@@ -63,22 +79,6 @@
     {
       "basename": "2023-10-04",
       "path": "100_niufoods/01_daily_notes/2023-10-04.md"
-    },
-    {
-      "basename": "0006_upgrade_pedidosya",
-      "path": "100_niufoods/03_projects/china_backend/requests/0006_upgrade_pedidosya.md"
-    },
-    {
-      "basename": "0007_agregar_actions_to_ubereats",
-      "path": "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats.md"
-    },
-    {
-      "basename": "revisión integracion",
-      "path": "100_niufoods/07_integrations/uber/revisión integracion.md"
-    },
-    {
-      "basename": "integracion actual",
-      "path": "100_niufoods/07_integrations/Pedidos ya/integracion actual.md"
     }
   ],
   "omittedPaths": [],
