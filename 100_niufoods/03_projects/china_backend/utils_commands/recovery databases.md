@@ -9,13 +9,13 @@ psql
 drop database niusushi_db_centralized_development;
 drop database niusushi_db_centralized_test;
 
-drop database niusushi_web_partial_development;
+drop database niusushi_web_partial;
 drop database niusushi_web_partial_test;
 
 create database niusushi_db_centralized_development;
 create database niusushi_db_centralized_test;
 
-create database niusushi_web_partial_development;
+create database niusushi_web_partial;
 create database niusushi_web_partial_test;
 
 \q
