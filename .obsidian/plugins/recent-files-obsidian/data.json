@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "imprimir boletas en consola",
+      "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
+    },
+    {
       "basename": "Objetivo",
       "path": "0004_app/Objetivo.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "reflog",
       "path": "001_learning/TI/programing/git/reflog.md"
-    },
-    {
-      "basename": "imprimir boletas en consola",
-      "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
     },
     {
       "basename": "Levantar las aplicaciones al mismo tiempo",
