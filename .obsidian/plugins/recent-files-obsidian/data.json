@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "frogmi",
+      "path": "100_niufoods/07_integrations/frogmi.md"
+    },
+    {
       "basename": "close_shift",
       "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Levantar las aplicaciones al mismo tiempo",
       "path": "100_niufoods/03_projects/shared/Levantar las aplicaciones al mismo tiempo.md"
-    },
-    {
-      "basename": "deploys",
-      "path": "100_niufoods/03_projects/shared/repetitive_tasks/deploys.md"
     }
   ],
   "omittedPaths": [],
