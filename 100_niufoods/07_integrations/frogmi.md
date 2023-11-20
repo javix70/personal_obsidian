@@ -7,7 +7,7 @@ agegar validación y/o email de error cuando no esta el frogmi_uuid
 
 https://we.frogmi.com
 
-Javier saaverdra y alfredo.desmadryl@onretail.cl
+javier.saavedra@frogmi.com y alfredo.desmadryl@onretail.cl
 
 un maipú, hacer pruebas, agarro a san bernando.
 
