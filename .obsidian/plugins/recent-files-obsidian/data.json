@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "imprimir boletas en consola",
+      "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
+    },
+    {
       "basename": "0009_Manejo del Destroy.",
       "path": "100_niufoods/03_projects/china_backend/requests/0009_Manejo del Destroy..md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "automatic_test_model",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md"
-    },
-    {
-      "basename": "imprimir boletas en consola",
-      "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
     },
     {
       "basename": "Objetivo",
