@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Incorrect data for restaurant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1a8778cd53dc2a2f",
@@ -189,7 +190,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "14150f037b4fee2e",
+  "active": "a55be47b5f263771",
   "lastOpenFiles": [
     "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md",
     "100_niufoods/03_projects/china_backend/requests/Integración con forgmi..md",
