@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md",
+                "file": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md",
+                "file": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md"
+                "file": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md",
+                "file": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +191,7 @@
   },
   "active": "14150f037b4fee2e",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md",
     "100_niufoods/03_projects/china_backend/requests/Integración con forgmi..md",
     "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md",
     "100_niufoods/03_projects/china_backend/requests/0009_Manejo del Destroy..md",
@@ -222,7 +223,6 @@
     "100_niufoods/03_projects/shared/repetitive_tasks/deploys.md",
     "100_niufoods/03_projects/pof/requests/0012_add_default_commune_to_client.md",
     "100_niufoods/01_daily_notes/2023-10-04.md",
-    "100_niufoods/03_projects/china_backend/requests/0006_upgrade_pedidosya.md",
     "100_niufoods/07_integrations/uber",
     "001_learning/books/El arte de la guerra",
     "001_learning/TI/programing/ruby on rails",
