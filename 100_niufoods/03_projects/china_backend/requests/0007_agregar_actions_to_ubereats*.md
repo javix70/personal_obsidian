@@ -41,4 +41,5 @@ Esta sección es una sección libre, en donde tienes que anotar cada cosa que si
 
 Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
 
+**Para el de uber recién me acorde, con Alexis hablamos que seria cool manejar con una setting si ocupa el consumer antiguo o el nuevo**
 - [ ] push?
