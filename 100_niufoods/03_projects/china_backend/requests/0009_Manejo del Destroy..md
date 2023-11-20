@@ -5,11 +5,8 @@ tags:
   - [china_backend]
   - requirement
 ---
-
 # Requerimiento
-
 Cambio de flujo cuando hay un error en una orden.
-
 
 ## Objetivo
 
@@ -29,15 +26,12 @@ Consideraciones (referencias)
 ## Prs involucrados
 
 **Actual**:
-
 **Dependencias**:
 
 ---
 # Avance
 
 Esta sección es una sección libre, en donde tienes que anotar cada cosa que sientas que sea relevante.
-
-
 
 ---
 # Checklist de tareas que hacer 
