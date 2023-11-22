@@ -17,3 +17,4 @@ Electronic Receip que fue lo que generó.
 
 Integración con sdk o api de posserver de kao,. 
 dado que hay guacamoles dfentro de kao cómo se manejaría ahí..
+

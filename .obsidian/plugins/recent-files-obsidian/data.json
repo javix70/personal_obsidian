@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-10-19",
-      "path": "100_niufoods/01_daily_notes/2023-10-19.md"
-    },
-    {
       "basename": "0014_pedrofontova_case",
       "path": "100_niufoods/03_projects/pof/requests/0014_pedrofontova_case.md"
+    },
+    {
+      "basename": "recovery databases",
+      "path": "100_niufoods/03_projects/pof/urils_commands/recovery databases.md"
+    },
+    {
+      "basename": "recovery databases",
+      "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
+    },
+    {
+      "basename": "2023-10-19",
+      "path": "100_niufoods/01_daily_notes/2023-10-19.md"
     },
     {
       "basename": "close_shift",
@@ -31,10 +39,6 @@
     {
       "basename": "frogmi",
       "path": "100_niufoods/07_integrations/frogmi.md"
-    },
-    {
-      "basename": "recovery databases",
-      "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
     },
     {
       "basename": "ejecutar resque",
