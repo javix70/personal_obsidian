@@ -5,6 +5,14 @@
       "path": "100_niufoods/03_projects/pof/requests/0014_pedrofontova_case.md"
     },
     {
+      "basename": "close_shift",
+      "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
+    },
+    {
+      "basename": "imprimir boletas en consola",
+      "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
+    },
+    {
       "basename": "2023-10-19",
       "path": "100_niufoods/01_daily_notes/2023-10-19.md"
     },
@@ -17,20 +25,12 @@
       "path": "100_niufoods/03_projects/china_backend/requests/Integración con forgmi..md"
     },
     {
-      "basename": "imprimir boletas en consola",
-      "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
-    },
-    {
       "basename": "0009_Manejo del Destroy.",
       "path": "100_niufoods/03_projects/china_backend/requests/0009_Manejo del Destroy..md"
     },
     {
       "basename": "frogmi",
       "path": "100_niufoods/07_integrations/frogmi.md"
-    },
-    {
-      "basename": "close_shift",
-      "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
     },
     {
       "basename": "recovery databases",
