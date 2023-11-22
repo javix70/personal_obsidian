@@ -16,7 +16,9 @@ Electronic Receip que fue lo que generó.
 Integración con sdk o api de posserver de kao,. 
 dado que hay guacamoles dfentro de kao cómo se manejaría ahí..
 
-check_fail = Check.find(219766)
+check_fail = Check.find(219766)\
+
+
 check_ok = Check.find(219843)
 
 ```
