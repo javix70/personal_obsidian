@@ -12,3 +12,8 @@ Electronic Receip que fue lo que generó.
 ![[Pasted image 20231122115344.png]]
 ![[Pasted image 20231122115340.png]]
 ![[Pasted image 20231122115329.png]]
+
+
+
+Integración con sdk o api de posserver de kao,. 
+dado que hay guacamoles dfentro de kao cómo se manejaría ahí..
