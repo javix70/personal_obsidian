@@ -8,3 +8,7 @@ se arma la data.
 
 Mirar los Tender Tender Class del pedido y el pedido de prueba que su funcino
 Electronic Receip que fue lo que generó.
+
+![[Pasted image 20231122115344.png]]
+![[Pasted image 20231122115340.png]]
+![[Pasted image 20231122115329.png]]
