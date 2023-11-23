@@ -1,7 +1,6 @@
 Necesito el id de comercio para cada marca
 
 Guacamole
-
 Escuela Militar = 597036304782
 La Dehesa  = 597049237900
 Ñuñoa - Sólo Delivery = 597043859260
@@ -59,3 +58,7 @@ Tobalaba = 597035495908
 Villa Alemana = 597044736372
 Viña del Mar  = 597037458791
 Vitacura = 597035506446
+
+KaoTai
+La Dehesa = 597035484965
+Ñuñoa =  597043859260
