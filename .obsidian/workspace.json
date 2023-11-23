@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0004_app/Tienda/Entendimiento del procucto.md",
-                "mode": "preview",
+                "file": "0004_app/Tienda/02_Entendimiento Niufoods.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0004_app/Tienda/Entendimiento del procucto.md",
+                "file": "0004_app/Tienda/02_Entendimiento Niufoods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0004_app/Tienda/Entendimiento del procucto.md"
+                "file": "0004_app/Tienda/02_Entendimiento Niufoods.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0004_app/Tienda/Entendimiento del procucto.md",
+                "file": "0004_app/Tienda/02_Entendimiento Niufoods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +192,14 @@
   },
   "active": "14150f037b4fee2e",
   "lastOpenFiles": [
-    "0004_app/Tienda/Diseño de bases de dato.md",
-    "0004_app/Tienda/Entendimiento del procucto.md",
+    "0004_app/Tienda/attachments/Pasted image 20231123005834.png",
+    "0004_app/Tienda/02_Entendimiento Niufoods.md",
+    "0004_app/Tienda/attachments",
+    "0004_app/Tienda/Flujos/Punto de venta",
+    "0004_app/Tienda/Flujos",
+    "0004_app/Tienda/01_Diseño de bases de dato.md",
+    "0004_app/Tienda/03_Flujos/Untitled.md",
+    "0004_app/Tienda/03_Flujos",
     "100_niufoods/04_pull_request/kushki_improvements.md",
     "0004_app/Objetivo.md",
     "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
@@ -227,19 +233,12 @@
     "100_niufoods/03_projects/china_backend/requests/0008_WebpayTransbank.md",
     "100_niufoods/01_daily_notes/attachments/Pasted image 20231103152936.jpg",
     "100_niufoods/01_daily_notes/attachments",
-    "001_learning/TI/programing/git/revert a reset.md",
-    "001_learning/TI/programing/git/borrar reflog.md",
     "100_niufoods/07_integrations/uber",
     "001_learning/books/El arte de la guerra",
-    "001_learning/TI/programing/ruby on rails",
-    "001_learning/TI/programing/lenguajes/Untitled",
-    "Excalidraw",
-    "100_niufoods/03_projects/pof/urils_commands/attachments",
     "100_niufoods/03_projects/pof/documentation/caja_turno/abrir y cerrar caja.canvas",
     "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230731114038.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230731113638.png",
-    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230731113616.png",
-    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230731113512.png"
+    "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230731113616.png"
   ]
 }

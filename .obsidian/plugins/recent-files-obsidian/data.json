@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Entendimiento del procucto",
-      "path": "0004_app/Tienda/Entendimiento del procucto.md"
+      "basename": "02_Entendimiento Niufoods",
+      "path": "0004_app/Tienda/02_Entendimiento Niufoods.md"
     },
     {
-      "basename": "Diseño de bases de dato",
-      "path": "0004_app/Tienda/Diseño de bases de dato.md"
+      "basename": "Pasted image 20231123005834",
+      "path": "0004_app/Tienda/attachments/Pasted image 20231123005834.png"
+    },
+    {
+      "basename": "01_Diseño de bases de dato",
+      "path": "0004_app/Tienda/01_Diseño de bases de dato.md"
     },
     {
       "basename": "kushki_improvements",
@@ -75,10 +79,6 @@
     {
       "basename": "Integración con forgmi.",
       "path": "100_niufoods/03_projects/china_backend/requests/Integración con forgmi..md"
-    },
-    {
-      "basename": "0009_Manejo del Destroy.",
-      "path": "100_niufoods/03_projects/china_backend/requests/0009_Manejo del Destroy..md"
     }
   ],
   "omittedPaths": [],
