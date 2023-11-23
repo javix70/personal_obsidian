@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "update_restorant_datetime",
+      "path": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md"
+    },
+    {
+      "basename": "automatic_test_model",
+      "path": "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md"
+    },
+    {
       "basename": "0014_pedrofontova_case",
       "path": "100_niufoods/03_projects/pof/requests/0014_pedrofontova_case.md"
     },
@@ -71,14 +79,6 @@
     {
       "basename": "imprimir boletas en consola",
       "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
-    },
-    {
-      "basename": "0007_agregar_actions_to_ubereats*",
-      "path": "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md"
-    },
-    {
-      "basename": "Integración con forgmi.",
-      "path": "100_niufoods/03_projects/china_backend/requests/Integración con forgmi..md"
     }
   ],
   "omittedPaths": [],
