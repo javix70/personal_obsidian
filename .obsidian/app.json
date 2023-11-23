@@ -1,0 +1,19 @@
+{
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "tabSize": 4,
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "foldIndent": true,
+  "spellcheck": false,
+  "showUnsupportedFiles": false,
+  "readableLineLength": false
+}
