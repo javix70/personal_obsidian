@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0004_app/Tienda/Diseño de bases de dato.md",
+                "file": "0004_app/Tienda/Entendimiento del procucto.md",
                 "mode": "preview",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0004_app/Tienda/Diseño de bases de dato.md",
+                "file": "0004_app/Tienda/Entendimiento del procucto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0004_app/Tienda/Diseño de bases de dato.md"
+                "file": "0004_app/Tienda/Entendimiento del procucto.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0004_app/Tienda/Diseño de bases de dato.md",
+                "file": "0004_app/Tienda/Entendimiento del procucto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +192,8 @@
   },
   "active": "14150f037b4fee2e",
   "lastOpenFiles": [
-    "0004_app/Tienda/Entendimiento del procucto.md",
     "0004_app/Tienda/Diseño de bases de dato.md",
+    "0004_app/Tienda/Entendimiento del procucto.md",
     "100_niufoods/04_pull_request/kushki_improvements.md",
     "0004_app/Objetivo.md",
     "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
