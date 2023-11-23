@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0010_Imagenes_transbank.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0010_Imagenes_transbank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md"
+                "file": "100_niufoods/03_projects/china_backend/requests/0010_Imagenes_transbank.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0010_Imagenes_transbank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,9 @@
   },
   "active": "14150f037b4fee2e",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/china_backend/requests/Integración con forgmi..md",
+    "100_niufoods/03_projects/china_backend/requests/0010_Imagenes_transbank.md",
+    "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
     "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
     "100_niufoods/03_projects/pof/requests/0014_pedrofontova_case.md",
     "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
@@ -218,7 +221,6 @@
     "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md",
     "Untitled.canvas",
     "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md",
-    "100_niufoods/03_projects/china_backend/requests/Integración con forgmi..md",
     "100_niufoods/03_projects/china_backend/requests/0009_Manejo del Destroy..md",
     "100_niufoods/07_integrations/frogmi.md",
     "001_learning/TI/programing/ruby on rails/ejecutar resque.md",
@@ -227,7 +229,6 @@
     "100_niufoods/03_projects/pof/documentation/modulo de venta/Untitled.md",
     "100_niufoods/03_projects/pof/documentation/modulo de venta",
     "003_portfolio/brainstorming.md",
-    "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
     "100_niufoods/03_projects/pof/requests/0013_revisar_diferencias_precio.md",
     "100_niufoods/01_daily_notes/attachments/Pasted image 20231110151933.png",
     "100_niufoods/03_projects/china_backend/requests/0008_WebpayTransbank.md",
