@@ -32,13 +32,30 @@ Machali = 597035521151
 Maipú = 597035506497
 Manuel Montt = 597035494561
 MidMall Maipu	= 597045704696
-
-
-
-
-
-
-
-
-
-
+Omnium = 597035493840
+pajaritos - Arauco Maipu = 597037409456
+Pedro Fontova= 597035519149
+Peñalolen = 597035506381
+Pie Andino = 597046758931
+Piedra Roja = 597046761801
+Plaza Brasil = 597042287025
+Plaza La Serena = 597047241969
+Plaza Ñuñoa = 597035491651
+Plaza Oeste = 597047983395
+Puente Alto = 597044072871
+Quilicura = 	597042545219
+Rojas Magallanes = 597037196096
+Rosario Sur = 597035508309
+San Bernardo = 597046142133
+San Carlos = 597035506535
+San Miguel = 	597035511741
+San Pedro de la Paz = 597046761679
+Santa Isabel  =597035508090
+Tabancura = 597035494030
+Talca = 597044070456
+Tamarugo = 597035505016
+Temuco = 597049206029
+Tobalaba = 597035495908
+Villa Alemana = 597044736372
+Viña del Mar  = 597037458791
+Vitacura = 597035506446
