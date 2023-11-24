@@ -7,7 +7,7 @@ se genera un ticket en frogmi
 
 ## Objetivo
 
-Pof hará una anulación o una cancela
+Pof hará una anulación o una cancelación,. 
 
 # Información útil
 
