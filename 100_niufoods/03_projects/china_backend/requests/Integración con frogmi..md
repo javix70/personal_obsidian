@@ -5,7 +5,7 @@ Para pof.
 aplicaicón para administrar ticket con flujos.
 
 pr : [China backend](https://bitbucket.org/niusushi/china-backend/pull-requests/464)
-pr
+pr: [PosServer](https://bitbucket.org/niusushi/pof_server_new/pull-requests/391)
 
 Creación
 
@@ -40,3 +40,7 @@ options_hash = {
 
 new_setting.create(options_hash)
 ```
+
+`Check.update_all(frogmi_state: 'no_need_ticket')`
+
+`Check.nulled.last.need_ticket!`
