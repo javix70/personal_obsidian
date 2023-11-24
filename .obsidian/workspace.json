@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/Integración con frogmi..md",
-                "mode": "preview",
+                "file": "100_niufoods/03_projects/china_backend/requests/0011_frogmi integración.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/Integración con frogmi..md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0011_frogmi integración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/Integración con frogmi..md"
+                "file": "100_niufoods/03_projects/china_backend/requests/0011_frogmi integración.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/requests/Integración con frogmi..md",
+                "file": "100_niufoods/03_projects/china_backend/requests/0011_frogmi integración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,14 +192,16 @@
   },
   "active": "14150f037b4fee2e",
   "lastOpenFiles": [
+    "100_niufoods/07_integrations/frogmi.md",
+    "100_niufoods/03_projects/china_backend/requests/0011_frogmi integración.md",
+    "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
+    "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
     "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "100_niufoods/01_daily_notes/2023-10-19.md",
     "100_niufoods/01_daily_notes/2023-10-04.md",
     "100_niufoods/03_projects/pos_server_new/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/china_backend/requests/0010_Imagenes_transbank.md",
-    "100_niufoods/03_projects/china_backend/requests/Integración con frogmi..md",
     "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md",
-    "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
     "100_niufoods/03_projects/pof/requests/0014_pedrofontova_case.md",
     "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
     "0004_app/Tienda/02_Entendimiento Niufoods.md",
@@ -224,13 +226,11 @@
     "Untitled.canvas",
     "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md",
     "100_niufoods/03_projects/china_backend/requests/0009_Manejo del Destroy..md",
-    "100_niufoods/07_integrations/frogmi.md",
     "001_learning/TI/programing/ruby on rails/ejecutar resque.md",
     "0004_app/Tienda",
     "0004_app",
     "100_niufoods/03_projects/pof/documentation/modulo de venta/Untitled.md",
     "100_niufoods/03_projects/pof/documentation/modulo de venta",
-    "003_portfolio/brainstorming.md",
     "100_niufoods/01_daily_notes/attachments/Pasted image 20231110151933.png",
     "100_niufoods/01_daily_notes/attachments/Pasted image 20231103152936.jpg",
     "100_niufoods/01_daily_notes/attachments",

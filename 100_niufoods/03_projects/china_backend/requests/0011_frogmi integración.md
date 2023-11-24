@@ -1,11 +1,38 @@
-cada vez qeu se genera una anulación, o cancelación
-se genera un ticket
+# Requerimiento
 
-Para pof.
-aplicaicón para administrar ticket con flujos.
+cada vez que se genera una anulación, o cancelación
+se genera un ticket en frogmi
+
+
+
+## Objetivo
+
+Pof hará una anulación o una cancela
+
+# Información útil
+
+Antes de empezar
+
+Consideraciones (referencias)
+
+## Prs involucrados
 
 pr : [China backend](https://bitbucket.org/niusushi/china-backend/pull-requests/464)
 pr: [PosServer](https://bitbucket.org/niusushi/pof_server_new/pull-requests/391)
+
+---
+# Avance
+
+Esta sección es una sección libre, en donde tienes que anotar cada cosa que sientas que sea relevante.
+
+
+
+---
+# Checklist de tareas que hacer 
+
+Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
+
+- [ ] push?
 
 Creación
 

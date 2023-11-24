@@ -13,6 +13,3 @@ un maipú, hacer pruebas, agarro a san bernando.
 
 
 el nombre del usaurio, tambien es prueba.
-
-
-

@@ -73,4 +73,6 @@ con las ramas de
 probar el flujo correspondiente para validar que todo esté funcionando como correpsonde
 
 
-# Enviar order a pof
+
+
+Error en el front?
