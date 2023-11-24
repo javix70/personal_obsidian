@@ -7,6 +7,12 @@ aplicaicón para administrar ticket con flujos.
 
 
 Creación
+
+Ejecucion del worker
+``` ruby
+rake workers:generate_frogmi_ticket
+```
+
 ```ruby
 options_hash = {
   "name" => "Incidentes desde el Local",
