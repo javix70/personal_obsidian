@@ -4,7 +4,8 @@ se genera un ticket
 Para pof.
 aplicaicón para administrar ticket con flujos.
 
-
+pr : [China backend](https://bitbucket.org/niusushi/china-backend/pull-requests/464)
+pr
 
 Creación
 
