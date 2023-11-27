@@ -52,7 +52,7 @@ options_hash = {
   "level_3_code" => "an_1",
   "level_3_uuid" => "a6f4bbe3-0ca6-410c-b497-cef554863b02",
   "template_code" => "Ingresar Anulación o Eliminación",
-  "questions_uuid" => "[]"
+  "questions_uuid" => ["de6cab2f-0751-418a-9cb5-77db0272d243", "63c79bf1-5f1c-4d95-b4ea-e3a3d63c36e7", "06ffa694-9058-43c9-a1e7-5af8d6107d35", "0cb6feea-97b5-4885-b120-05eae306eb10", "f1388f84-b8fc-477b-b749-c997c6d2d6f7", "5d19a390-223b-402a-9a10-8c09e4d7aaa6", "dd65f6a3-22f0-41d5-ae29-0811e9bd1e33", "8e572476-1491-4cca-9590-384b1d9fee91", "e45a1698-4ae7-40ca-8ee6-99e22583eb85"]
 }
 new_setting = CentralSetting.new(
   code: "frogmi_incidente_local",
@@ -74,36 +74,3 @@ Probar el evento AASM
 `Check.nulled.last.need_ticket!`
 
 
-{name: "1.- Número de comanda:", uuid: "de6cab2f-0751-418a-9cb5-77db0272d243",…}  
-{name: "2.- Nombre de cliente:", uuid: "63c79bf1-5f1c-4d95-b4ea-e3a3d63c36e7",…}  
-{name: "3.- Número de teléfono de cliente:", uuid: "06ffa694-9058-43c9-a1e7-5af8d6107d35",…}  
-{name: "4.- Correo electrónico de cliente:", uuid: "0cb6feea-97b5-4885-b120-05eae306eb10",…}  
-{name: "5.- Monto comanda:", uuid: "f1388f84-b8fc-477b-b749-c997c6d2d6f7",…}  
-{name: "6.- Número de boleta:", uuid: "5d19a390-223b-402a-9a10-8c09e4d7aaa6",…}  
-{name: "7.- Motivo de anulación:", uuid: "dd65f6a3-22f0-41d5-ae29-0811e9bd1e33",…}  
-{name: "8.- Fotos de respaldo:", uuid: "8e572476-1491-4cca-9590-384b1d9fee91",…}  
-{name: "9.- Nombre responsable de turno:", uuid: "e45a1698-4ae7-40ca-8ee6-99e22583eb85",…}
-
-
- #<Setting:0x0000562de8348c50
-  id: "19247a27-0f62-4922-82c6-23e88b41a490",
-  created_at: Mon, 22 Aug 2022 12:31:50 CDT -05:00,
-  updated_at: Mon, 22 Aug 2022 12:31:50 CDT -05:00,
-  name: "frogmi_tuve_otro_problema",
-  options:
-   {"name"=>"Tuve otro problema",
-    "version"=>"21017e69-7542-4c6a-8f77-f814f2e88774",
-    "level_1_code"=>"REC",
-    "level_1_uuid"=>"c1d90559-cdfa-4366-94c1-9a6e0c4417a9",
-    "level_2_code"=>"LINK_A",
-    "level_2_uuid"=>"cd24b07a-9449-4b9d-bf7f-39f6ac5a18a2",
-    "level_3_code"=>"rec5_2",
-    "level_3_uuid"=>"bcdfce87-df25-4c77-bd01-1422464f97f4",
-    "template_code"=>"rec_Av2_1",
-    "questions_uuid"=>
-     "[\"28b72dd4-d891-494c-bf45-10859279c928\", \"61e9dec3-43ad-4e13-b357-9f932413a1b4\", \"967c6b77-82e8-47c8-be62-fc69efa58d9d\", \"eccac498-8cbe-4381-a53d-3d19a24bbd9c\", \"dee8e883-6f97-4d8c-b1ca-0e71b11f1e41\", \"b7ccd598-1c03-498d-8799-5a3fdab4cd71\"]"},
-  section: 4,
-  image_file_name: nil,
-  image_content_type: nil,
-  image_file_size: nil,
-  image_updated_at: nil>,
