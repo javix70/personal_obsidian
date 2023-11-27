@@ -68,6 +68,7 @@ options_hash = {
 new_setting.create(options_hash)
 ```
 
+Probar el evento AASM
 `Check.update_all(frogmi_state: 'no_need_ticket')`
 
 `Check.nulled.last.need_ticket!`
