@@ -52,7 +52,7 @@ options_hash = {
   "level_3_code" => "an_1",
   "level_3_uuid" => "a6f4bbe3-0ca6-410c-b497-cef554863b02",
   "template_code" => "anul_1",
-  "questions_uuid" => ["de6cab2f-0751-418a-9cb5-77db0272d243", "63c79bf1-5f1c-4d95-b4ea-e3a3d63c36e7", "06ffa694-9058-43c9-a1e7-5af8d6107d35", "0cb6feea-97b5-4885-b120-05eae306eb10", "f1388f84-b8fc-477b-b749-c997c6d2d6f7", "5d19a390-223b-402a-9a10-8c09e4d7aaa6", "dd65f6a3-22f0-41d5-ae29-0811e9bd1e33", "8e572476-1491-4cca-9590-384b1d9fee91", "e45a1698-4ae7-40ca-8ee6-99e22583eb85"]
+  "questions_uuid" => ["de6cab2f-0751-418a-9cb5-77db0272d243", "63c79bf1-5f1c-4d95-b4ea-e3a3d63c36e7", "06ffa694-9058-43c9-a1e7-5af8d6107d35", "0cb6feea-97b5-4885-b120-05eae306eb10", "f1388f84-b8fc-477b-b749-c997c6d2d6f7", "5d19a390-223b-402a-9a10-8c09e4d7aaa6", "dd65f6a3-22f0-41d5-ae29-0811e9bd1e33", "e45a1698-4ae7-40ca-8ee6-99e22583eb85"]
 }
 new_setting = CentralSetting.new(
   code: "frogmi_incidente_local",
