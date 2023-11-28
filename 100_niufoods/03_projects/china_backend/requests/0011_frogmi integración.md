@@ -52,7 +52,7 @@ options_hash = {
   "level_3_code" => "an_1",
   "level_3_uuid" => "a6f4bbe3-0ca6-410c-b497-cef554863b02",
   "template_code" => "anul_1",
-  "questions_uuid" => ["de6cab2f-0751-418a-9cb5-77db0272d243", "63c79bf1-5f1c-4d95-b4ea-e3a3d63c36e7", "06ffa694-9058-43c9-a1e7-5af8d6107d35", "0cb6feea-97b5-4885-b120-05eae306eb10", "f1388f84-b8fc-477b-b749-c997c6d2d6f7", "5d19a390-223b-402a-9a10-8c09e4d7aaa6", "dd65f6a3-22f0-41d5-ae29-0811e9bd1e33", "e45a1698-4ae7-40ca-8ee6-99e22583eb85"]
+   "questions_uuid" => "[\"7f2b279b-7cc6-41a6-9b20-1366f3a30cb6\",\"fd2a9c94-500f-49d8-a4d6-03bf422af994\",\"1cd42975-fc70-4426-b97a-98f07d02509c\",\"2d136ef9-285a-4864-9482-b9bfd6439f69\",\"258e8c60-1b5c-49e9-ace3-5431748db937\",\"4ee5123a-e046-4a0d-9b68-e641cf10b1e2\",\"e177a958-5cd9-4382-be94-65195d4bd278\",\"ae190ba7-1718-4faa-8e7e-5ca8eb25c20d\"]"
 }
 new_setting = CentralSetting.new(
   code: "frogmi_incidente_local",
