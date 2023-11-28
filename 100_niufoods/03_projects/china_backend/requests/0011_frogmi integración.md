@@ -51,7 +51,7 @@ options_hash = {
   "level_2_uuid" => "c7293e77-4e40-446d-9dc8-2df583d4de62",
   "level_3_code" => "an_1",
   "level_3_uuid" => "a6f4bbe3-0ca6-410c-b497-cef554863b02",
-  "template_code" => "anul_1",
+  "template_code" => "anulacion_1",
    "questions_uuid" => "[\"7f2b279b-7cc6-41a6-9b20-1366f3a30cb6\",\"fd2a9c94-500f-49d8-a4d6-03bf422af994\",\"1cd42975-fc70-4426-b97a-98f07d02509c\",\"2d136ef9-285a-4864-9482-b9bfd6439f69\",\"258e8c60-1b5c-49e9-ace3-5431748db937\",\"4ee5123a-e046-4a0d-9b68-e641cf10b1e2\",\"e177a958-5cd9-4382-be94-65195d4bd278\",\"ae190ba7-1718-4faa-8e7e-5ca8eb25c20d\"]"
 }
 new_setting = CentralSetting.new(
