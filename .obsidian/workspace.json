@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0004_app/Tienda/02_Entendimiento Niufoods.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
                 "mode": "preview",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0004_app/Tienda/02_Entendimiento Niufoods.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0004_app/Tienda/02_Entendimiento Niufoods.md"
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0004_app/Tienda/02_Entendimiento Niufoods.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,11 +192,11 @@
   },
   "active": "14150f037b4fee2e",
   "lastOpenFiles": [
+    "0004_app/Tienda/02_Entendimiento Niufoods.md",
     "0004_app/Tienda/01_Diseño de bases de dato.md",
     "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/china_backend/requests/0011_frogmi integración.md",
     "100_niufoods/03_projects/china_backend/utils_commands/como generar dump.md",
-    "0004_app/Tienda/02_Entendimiento Niufoods.md",
     "100_niufoods/07_integrations/frogmi.md",
     "100_niufoods/03_projects/china_backend/requests/0003_kushki.md",
     "100_niufoods/03_projects/china_backend/utils_commands/automatic_test_model.md",
