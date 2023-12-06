@@ -5,6 +5,10 @@
       "path": "100_niufoods/03_projects/shared/como generar dump.md"
     },
     {
+      "basename": "0007_agregar_actions_to_ubereats*",
+      "path": "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md"
+    },
+    {
       "basename": "0011_frogmi integración",
       "path": "100_niufoods/03_projects/china_backend/requests/0011_frogmi integración.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Objetivo",
       "path": "0004_app/Objetivo.md"
-    },
-    {
-      "basename": "diagrams",
-      "path": "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md"
     }
   ],
   "omittedPaths": [],
