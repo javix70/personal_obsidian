@@ -24,11 +24,9 @@ PGPASSWORD=Q2gtQ77IVL67 pg_dump -h 'kaothai.cdx4hhfxpr2j.us-east-1.rds.amazonaws
 
 
 updates = {
-  'G-1' => 'a761944f-22df-402e-8c54-7aa16059fe3b',
-  'G-3' => '5168b5b1-6a5f-4f46-b27b-4e465e04c5e1',
-  'GDK-2' => '5cdb319b-f087-40b8-9e8c-595bdaf6b4a5',
-  'G-4' => '23f6973e-2a55-4a1e-95f0-16fe79a1ccd0',
-  'G-2' => 'becd4006-5cf7-4efe-b11a-cd220627b64f'
+  'K-3' => '5cdb319b-f087-40b8-9e8c-595bdaf6b4a5',
+  'K-1' => '697ad91d-6d53-4817-a4fb-10ccfa79e465',
+  'KC-3' => '5cdb319b-f087-40b8-9e8c-595bdaf6b4a5'
 }
 
 updates.each do |identifier, uuid|
