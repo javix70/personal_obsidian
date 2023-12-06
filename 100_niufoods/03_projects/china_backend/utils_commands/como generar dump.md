@@ -22,6 +22,11 @@ KAO
 PGPASSWORD=Q2gtQ77IVL67 pg_dump -h 'kaothai.cdx4hhfxpr2j.us-east-1.rds.amazonaws.com' -U administrator -v -Fc --exclude-table-data=customers --exclude-table-data=orders --exclude-table-data=addresses --exclude-table-data=address_restaurants --exclude-table-data=gournet_documents --exclude-table-data=order_products --exclude-table-data=order_promotions --exclude-table-data=order_product_additionals --exclude-table-data=order_trackings --exclude-table-data=order_transitions --exclude-table-data=webpay_payments --exclude-table-data=product_preferences --exclude-table-data=promotion_preferences --exclude-table-data=feedbacks --exclude-table-data=tbk_users --exclude-table-data=payment_attempts --exclude-table-data=coupon_customers  --exclude-table-data=versions --exclude-table-data=gournet_receipts kaothai > ~dumps/kaothai_web_partial_$(date +%Y_%m_%d_%H_%M).dump 
 ```
 
+MEXICO
+```psql
+PGPASSWORD=59cE5e1zGBkqoQF5EUN9 pg_dump -h 'mexiconiusushiweb.cdx4hhfxpr2j.us-east-1.rds.amazonaws.com' -U administrator -v -Fc --exclude-table-data=customers --exclude-table-data=orders --exclude-table-data=addresses --exclude-table-data=address_restaurants --exclude-table-data=gournet_documents --exclude-table-data=order_products --exclude-table-data=order_promotions --exclude-table-data=order_product_additionals --exclude-table-data=order_trackings --exclude-table-data=order_transitions --exclude-table-data=webpay_payments --exclude-table-data=product_preferences --exclude-table-data=promotion_preferences --exclude-table-data=feedbacks --exclude-table-data=tbk_users --exclude-table-data=payment_attempts --exclude-table-data=coupon_customers  --exclude-table-data=versions --exclude-table-data=gournet_receipts mxniusushi > ~/dumps/mxniusushi_web_partial_$(date +%Y_%m_%d_%H_%M).dump 
+```
+
 
 updates = {
   'K-3' => '5cdb319b-f087-40b8-9e8c-595bdaf6b4a5',
