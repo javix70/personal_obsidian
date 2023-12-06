@@ -22,6 +22,12 @@ Cancelar una orden
 Solo para los agregadores
 ## Prs involucrados
 
+China Backend
+https://bitbucket.org/niusushi/china-backend/pull-requests/477/feat-crear-servicio-de-pos-service
+https://bitbucket.org/niusushi/china-backend/pull-requests/478
+
+POSSERVER
+
 ---
 # Avance
 
