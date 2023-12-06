@@ -11,12 +11,12 @@ Pof hará una anulación o una cancelación,.
 
 # Información útil
 
-Antes de empezar
-
-Consideraciones (referencias)
+Cuenta
+https://neo.frogmi.com/niu-sushi/ticket-workflow
+desarrolloweb@niufoods.cl
+Niufoods
 
 ## Prs involucrados
-
 pr : [China backend](https://bitbucket.org/niusushi/china-backend/pull-requests/464)
 pr: [PosServer](https://bitbucket.org/niusushi/pof_server_new/pull-requests/391)
 
