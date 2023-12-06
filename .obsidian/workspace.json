@@ -11,11 +11,9 @@
             "id": "14150f037b4fee2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
-                "mode": "preview",
-                "source": false
+                "file": "0004_app/Tienda/attachments/Pasted image 20231123005834.png"
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
+                "file": "0004_app/Tienda/attachments/Pasted image 20231123005834.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
+                "file": "0004_app/Tienda/attachments/Pasted image 20231123005834.png"
               }
             }
           },
@@ -135,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
+                "file": "0004_app/Tienda/attachments/Pasted image 20231123005834.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,9 +190,9 @@
   },
   "active": "14150f037b4fee2e",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "0004_app/Tienda/02_Entendimiento Niufoods.md",
     "0004_app/Tienda/01_Diseño de bases de dato.md",
-    "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/china_backend/requests/0011_frogmi integración.md",
     "100_niufoods/03_projects/china_backend/utils_commands/como generar dump.md",
     "100_niufoods/07_integrations/frogmi.md",
