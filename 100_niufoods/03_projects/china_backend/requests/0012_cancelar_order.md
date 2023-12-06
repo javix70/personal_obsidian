@@ -22,22 +22,12 @@ Cancelar una orden
 Solo para los agregadores
 ## Prs involucrados
 
-China Backend
-https://bitbucket.org/niusushi/china-backend/pull-requests/477/feat-crear-servicio-de-pos-service
-https://bitbucket.org/niusushi/china-backend/pull-requests/478
+**China Backend**
+[POSSERVICE](https://bitbucket.org/niusushi/china-backend/pull-requests/477/feat-crear-servicio-de-pos-service)
+[Cancel Order](https://bitbucket.org/niusushi/china-backend/pull-requests/478)
 
-POSSERVER
+**POSSERVER**
+[Proxi entre api y tienda]( https://bitbucket.org/niusushi/pof_server_new/pull-requests/397)
 
----
-# Avance
-
-Esta sección es una sección libre, en donde tienes que anotar cada cosa que sientas que sea relevante.
-
-
-
----
-# Checklist de tareas que hacer 
-
-Si crees que es necesario tener un checklist antes de tirar un pr, hazlo
-
-- [ ] push?
+**POF**
+[Cancelar orden](https://bitbucket.org/nnodes/pof/pull-requests/284)
