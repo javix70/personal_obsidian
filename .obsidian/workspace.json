@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/shared/como generar dump.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/shared/como generar dump.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/shared/como generar dump.md"
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/shared/como generar dump.md",
+                "file": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +192,8 @@
   },
   "active": "14150f037b4fee2e",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md",
     "100_niufoods/03_projects/shared/como generar dump.md",
+    "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md",
     "100_niufoods/03_projects/china_backend/requests/0011_frogmi integración.md",
     "100_niufoods/03_projects/china_backend/requests/0012_cancelar_order.md",
     "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
