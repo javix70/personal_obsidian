@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "0001_",
+      "path": "0004_app/0001_.md"
+    },
+    {
+      "basename": "Objetivo",
+      "path": "0004_app/Objetivo.md"
+    },
+    {
       "basename": "recovery databases",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
     },
@@ -71,14 +79,6 @@
     {
       "basename": "close_shift",
       "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
-    },
-    {
-      "basename": "kushki_improvements",
-      "path": "100_niufoods/04_pull_request/kushki_improvements.md"
-    },
-    {
-      "basename": "Objetivo",
-      "path": "0004_app/Objetivo.md"
     }
   ],
   "omittedPaths": [],
