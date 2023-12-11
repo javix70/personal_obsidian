@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0008_WebpayTransbank",
+      "path": "100_niufoods/03_projects/china_backend/requests/0008_WebpayTransbank.md"
+    },
+    {
       "basename": "0001_",
       "path": "0004_app/0001_.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "0014_pedrofontova_case",
       "path": "100_niufoods/03_projects/pof/requests/0014_pedrofontova_case.md"
-    },
-    {
-      "basename": "close_shift",
-      "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
     }
   ],
   "omittedPaths": [],
