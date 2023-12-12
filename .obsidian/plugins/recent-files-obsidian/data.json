@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "imprimir boletas en consola",
+      "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
+    },
+    {
       "basename": "0008_WebpayTransbank",
       "path": "100_niufoods/03_projects/china_backend/requests/0008_WebpayTransbank.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "update_restorant_datetime",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md"
-    },
-    {
-      "basename": "0014_pedrofontova_case",
-      "path": "100_niufoods/03_projects/pof/requests/0014_pedrofontova_case.md"
     }
   ],
   "omittedPaths": [],
