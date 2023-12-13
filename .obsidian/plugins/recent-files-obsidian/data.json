@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "0002_",
-      "path": "100_niufoods/03_projects/pos_server_new/requests/0002_.md"
-    },
-    {
-      "basename": "imprimir boletas en consola",
-      "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
-    },
-    {
       "basename": "recovery databases",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
     },
     {
       "basename": "como generar dump",
       "path": "100_niufoods/03_projects/shared/como generar dump.md"
+    },
+    {
+      "basename": "0002_sincronizacion(PENDIENTE)",
+      "path": "100_niufoods/03_projects/pos_server_new/requests/0002_sincronizacion(PENDIENTE).md"
+    },
+    {
+      "basename": "imprimir boletas en consola",
+      "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
     },
     {
       "basename": "0008_WebpayTransbank",
