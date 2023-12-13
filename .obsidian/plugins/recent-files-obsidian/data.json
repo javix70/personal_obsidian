@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0002_",
+      "path": "100_niufoods/03_projects/pos_server_new/requests/0002_.md"
+    },
+    {
       "basename": "imprimir boletas en consola",
       "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "0010_Imagenes_transbank",
       "path": "100_niufoods/03_projects/china_backend/requests/0010_Imagenes_transbank.md"
-    },
-    {
-      "basename": "update_restorant_datetime",
-      "path": "100_niufoods/03_projects/china_backend/utils_commands/update_restorant_datetime.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md",
+                "file": "100_niufoods/03_projects/pos_server_new/requests/0002_.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.50418853759766
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cffb396d38185dd5",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md",
+                "file": "100_niufoods/03_projects/pos_server_new/requests/0002_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
+                "file": "100_niufoods/03_projects/pos_server_new/requests/0002_.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md",
+                "file": "100_niufoods/03_projects/pos_server_new/requests/0002_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,9 +193,12 @@
   },
   "active": "14150f037b4fee2e",
   "lastOpenFiles": [
+    "100_niufoods/03_projects/pos_server_new/requests/attachments/Pasted image 20231213141424.png",
+    "100_niufoods/03_projects/pos_server_new/requests/attachments",
+    "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md",
+    "100_niufoods/03_projects/pos_server_new/requests/0002_.md",
     "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/shared/como generar dump.md",
-    "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md",
     "100_niufoods/03_projects/china_backend/requests/0008_WebpayTransbank.md",
     "0004_app/0001_.md",
     "0004_app/Objetivo.md",
@@ -221,8 +225,6 @@
     "0004_app/Tienda/03_Flujos",
     "100_niufoods/04_pull_request/kushki_improvements.md",
     "100_niufoods/03_projects/pof/documentation/check (order)/diagrams.md",
-    "100_niufoods/03_projects/pof/documentation/caja_turno/cash_closing.md",
-    "100_niufoods/03_projects/pof/urils_commands/recovery databases.md",
     "100_niufoods/03_projects/pof/urils_commands/attachments/Pasted image 20230830114712.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20231122115329.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20231122115340.png",
@@ -235,7 +237,6 @@
     "100_niufoods/01_daily_notes/attachments/Pasted image 20231103152936.jpg",
     "100_niufoods/01_daily_notes/attachments",
     "100_niufoods/07_integrations/uber",
-    "001_learning/books/El arte de la guerra",
     "100_niufoods/03_projects/pof/documentation/caja_turno/abrir y cerrar caja.canvas",
     "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230731114038.png",
