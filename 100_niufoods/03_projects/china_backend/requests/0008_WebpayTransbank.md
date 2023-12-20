@@ -16,6 +16,7 @@ Integrarlo con el mismo flujo de kushki
 
 # Información útil
 
+WEBPAY_COMMERCE_CODE: 50230582
 
 
 ## Prs involucrados
