@@ -36,7 +36,11 @@ PGPASSWORD=L4ytU89REW48 pg_dump -h 'niusushiweb.cdx4hhfxpr2j.us-east-1.rds.amazo
 
 
 ```psql
-PGPASSWORD=s2xXysLEvtio18Jny8Go pg_dump -v -h 'guacamoleserverdb.cdx4hhfxpr2j.us-east-1.rds.amazonaws.com' -U guacamoleserver -Fc --exclude-table-data=addresses --exclude-table-data=audits --exclude-table-data=check_trackings --exclude-table-data=checks --exclude-table-data=electronic_receipts --exclude-table-data=line_items --exclude-table-data=messages --exclude-table-data=payment_attempts guacamole_server_db > ~/dumps/guacamole_$(date +%Y_%m_%d_%H_%M).dump
+PGPASSWORD=s2xXysLEvtio18Jny8Go pg_dump -v -h 'guacamoleserverdb.cdx4hhfxpr2j.us-east-1.rds.amazonaws.com' -U guacamoleserver -Fc guacamole_server_db > ~/dumps/guacamole_$(date +%Y_%m_%d_%H_%M).dump
 ```
 
+
+```
+PGPASSWORD=s2xXysLEvtio18Jny8Go pg_dump -h 'guacamoleserverdb.cdx4hhfxpr2j.us-east-1.rds.amazonaws.com' -U guacamoleserver -v -Fc --exclude-table-data=clients --exclude-table-data=payment_attempts --exclude-table-data=audits --exclude-table-data=check_trackings --exclude-table-data=checks --exclude-table-data=declarations --exclude-table-data=electronic_receipts guacamole_server_db > ~/dumps/guacamole_server_$(date +%Y_%m_%d_%H_%M).dump 
+```
 pg_restore -v -c -O -x -h localhost -U jai -d "guacamole" guacamole_20230817_2.dump
