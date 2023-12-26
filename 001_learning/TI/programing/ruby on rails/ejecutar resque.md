@@ -37,3 +37,9 @@ Ya has configurado la interfaz web de Resque en tu archivo `routes.rb`. Puedes a
 En esta interfaz, podrás ver y administrar tus colas y trabajos, y también verás una pestaña para el planificador de Resque donde podrás ver tus trabajos programados.
 
 Espero que esto te ayude a levantar y ejecutar Resque en tu aplicación Rails. ¡Déjame saber si tienes alguna pregunta o encuentras algún problema!
+
+
+```
+require 'sidekiq/testing' 
+Sidekiq::Testing.inline!
+```
