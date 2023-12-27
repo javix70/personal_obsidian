@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/shared/como generar dump.md",
-                "mode": "preview",
+                "file": "100_niufoods/credentials/aws.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/shared/como generar dump.md",
+                "file": "100_niufoods/credentials/aws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/shared/como generar dump.md"
+                "file": "100_niufoods/credentials/aws.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/shared/como generar dump.md",
+                "file": "100_niufoods/credentials/aws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +192,10 @@
   },
   "active": "c3160bc41ef9b551",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/pos_server_new/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/shared/como generar dump.md",
+    "100_niufoods/credentials/aws.md",
+    "100_niufoods/credentials",
+    "100_niufoods/03_projects/pos_server_new/utils_commands/recovery databases.md",
     "100_niufoods/03_projects/shared/Flujo de ordenes de compra.canvas",
     "100_niufoods/03_projects/shared/Levantar las aplicaciones al mismo tiempo.md",
     "100_niufoods/03_projects/shared/requerimient/0001_check_flows.md",
@@ -236,7 +238,6 @@
     "100_niufoods/01_daily_notes/attachments/Pasted image 20231110151933.png",
     "100_niufoods/01_daily_notes/attachments/Pasted image 20231103152936.jpg",
     "100_niufoods/01_daily_notes/attachments",
-    "100_niufoods/07_integrations/uber",
     "100_niufoods/03_projects/pof/documentation/caja_turno/abrir y cerrar caja.canvas",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230731114038.png",
     "100_niufoods/03_projects/pof/requests/attachments/Pasted image 20230731113638.png"

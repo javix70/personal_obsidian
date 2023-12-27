@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "aws",
+      "path": "100_niufoods/credentials/aws.md"
+    },
+    {
       "basename": "como generar dump",
       "path": "100_niufoods/03_projects/shared/como generar dump.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Objetivo",
       "path": "0004_app/Objetivo.md"
-    },
-    {
-      "basename": "0007_agregar_actions_to_ubereats*",
-      "path": "100_niufoods/03_projects/china_backend/requests/0007_agregar_actions_to_ubereats*.md"
     }
   ],
   "omittedPaths": [],
