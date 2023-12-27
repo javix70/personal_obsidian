@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77700f5c9694bf0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/credentials/aws.md",
+                "file": "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/credentials/aws.md"
+                "file": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
               }
             }
           },
@@ -135,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/credentials/aws.md",
+                "file": "100_niufoods/03_projects/pof/urils_commands/close_shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +165,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -190,7 +205,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3160bc41ef9b551",
+  "active": "77700f5c9694bf0d",
   "lastOpenFiles": [
     "100_niufoods/03_projects/shared/como generar dump.md",
     "100_niufoods/credentials/aws.md",
