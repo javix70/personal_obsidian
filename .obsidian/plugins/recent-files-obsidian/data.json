@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Configurar ssh y servidores",
-      "path": "100_niufoods/03_projects/shared/Configurar ssh y servidores.md"
-    },
-    {
       "basename": "conected to console production",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/conected to console production.md"
+    },
+    {
+      "basename": "grep",
+      "path": "001_learning/TI/programing/linux command/grep.md"
+    },
+    {
+      "basename": "Configurar ssh y servidores",
+      "path": "100_niufoods/03_projects/shared/Configurar ssh y servidores.md"
     },
     {
       "basename": "integracion actual",

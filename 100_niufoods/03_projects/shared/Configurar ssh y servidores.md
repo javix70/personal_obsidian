@@ -33,5 +33,3 @@ Darle permisos al pem (solo 1 vez)
 ```bash
 chmod 400 "niusushi.pem"
 ```
-
-el archivo po
