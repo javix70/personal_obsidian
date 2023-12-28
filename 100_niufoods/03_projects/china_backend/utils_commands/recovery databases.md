@@ -100,3 +100,6 @@ PGPASSWORD=59cE5e1zGBkqoQF5EUN9 pg_dump -h mexiconiusushiweb.cdx4hhfxpr2j.us-eas
 ```bash
 PGPASSWORD=59cE5e1zGBkqoQF5EUN9 pg_dump -h mexiconiusushiweb.cdx4hhfxpr2j.us-east-1.rds.amazonaws.com -U administrator -F c -b -v -f mxniusushi.sql niusushi_db_centralized_development
 ```
+
+
+## web_partial chile

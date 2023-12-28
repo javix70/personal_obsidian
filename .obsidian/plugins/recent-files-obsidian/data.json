@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "como generar dump",
+      "path": "100_niufoods/03_projects/shared/como generar dump.md"
+    },
+    {
+      "basename": "aws",
+      "path": "100_niufoods/credentials/aws.md"
+    },
+    {
+      "basename": "recovery databases",
+      "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
+    },
+    {
       "basename": "conected to console production",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/conected to console production.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "Pasted image 20231213141424",
       "path": "100_niufoods/03_projects/pos_server_new/requests/attachments/Pasted image 20231213141424.png"
-    },
-    {
-      "basename": "aws",
-      "path": "100_niufoods/credentials/aws.md"
     },
     {
       "basename": "Pasted image 20230727110929",
@@ -71,14 +79,6 @@
     {
       "basename": "Pasted image 20230726151717",
       "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230726151717.png"
-    },
-    {
-      "basename": "close_shift",
-      "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
-    },
-    {
-      "basename": "como generar dump",
-      "path": "100_niufoods/03_projects/shared/como generar dump.md"
     }
   ],
   "omittedPaths": [],
