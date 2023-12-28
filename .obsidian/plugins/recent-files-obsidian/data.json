@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "how_to_sync_all_data_model",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md"
+    },
+    {
+      "basename": "Pasted image 20230727110929",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727110929.png"
+    },
+    {
+      "basename": "Pasted image 20230727110858",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727110858.png"
+    },
+    {
+      "basename": "Pasted image 20230727110046",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727110046.png"
+    },
+    {
+      "basename": "Pasted image 20230727105948",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727105948.png"
+    },
+    {
+      "basename": "Pasted image 20230727105135",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727105135.png"
+    },
+    {
+      "basename": "Pasted image 20230727104709",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727104709.png"
+    },
+    {
+      "basename": "Pasted image 20230727104256",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727104256.png"
+    },
+    {
+      "basename": "Pasted image 20230726163648",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230726163648.png"
+    },
+    {
+      "basename": "Pasted image 20230726153005",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230726153005.png"
+    },
+    {
+      "basename": "Pasted image 20230726151717",
+      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230726151717.png"
+    },
+    {
       "basename": "close_shift",
       "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
     },
@@ -35,50 +79,6 @@
     {
       "basename": "0003_armar_lista_precio",
       "path": "100_niufoods/03_projects/pos_server_new/requests/0003_armar_lista_precio.md"
-    },
-    {
-      "basename": "0014_pedrofontova_case",
-      "path": "100_niufoods/03_projects/pof/requests/0014_pedrofontova_case.md"
-    },
-    {
-      "basename": "0011_frogmi integración",
-      "path": "100_niufoods/03_projects/china_backend/requests/0011_frogmi integración.md"
-    },
-    {
-      "basename": "0010_Imagenes_transbank",
-      "path": "100_niufoods/03_projects/china_backend/requests/0010_Imagenes_transbank.md"
-    },
-    {
-      "basename": "0012_cancelar_order",
-      "path": "100_niufoods/03_projects/china_backend/requests/0012_cancelar_order.md"
-    },
-    {
-      "basename": "0008_WebpayTransbank",
-      "path": "100_niufoods/03_projects/china_backend/requests/0008_WebpayTransbank.md"
-    },
-    {
-      "basename": "2023-10-19",
-      "path": "100_niufoods/01_daily_notes/2023-10-19.md"
-    },
-    {
-      "basename": "Pasted image 20231123005834",
-      "path": "0004_app/Tienda/attachments/Pasted image 20231123005834.png"
-    },
-    {
-      "basename": "imprimir boletas en consola",
-      "path": "100_niufoods/03_projects/pof/urils_commands/imprimir boletas en consola.md"
-    },
-    {
-      "basename": "0002_sincronizacion(PENDIENTE)",
-      "path": "100_niufoods/03_projects/pos_server_new/requests/0002_sincronizacion(PENDIENTE).md"
-    },
-    {
-      "basename": "recovery databases",
-      "path": "100_niufoods/03_projects/china_backend/utils_commands/recovery databases.md"
-    },
-    {
-      "basename": "0001_",
-      "path": "0004_app/0001_.md"
     }
   ],
   "omittedPaths": [],
