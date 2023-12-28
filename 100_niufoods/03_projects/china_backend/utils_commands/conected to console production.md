@@ -10,6 +10,6 @@ para ver los logs
 
 ```bash
 gologs
-grep -i 1055224962 pedidos_ya.log*
-`grep -Rni "return Rails.logger.error(\"Skip send #{order.id} with pos_status: '#{order.pos_status}'\") unless order.pending?" /path/to/logs/`
+grep -i 1055224962 pedidos_ya.log*  #* sirve los apellidos
+grep -Rni "1055224962" .
 ```
