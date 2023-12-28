@@ -15,10 +15,10 @@ Replicar y documentar la sincronización, es especifico con la sincronización d
 
 
 # Información útil
-****
-pos server de guacamole. hay un producto de prueba que es el TEST001.
-cuando crean un producto, si o si te crea una variante y a lavez tiene un variant type
-eso se transforma a nivel visual en un grupo
+
+1.  posserver de guacamole. hay un producto de prueba que es el TEST001.
+2. cuando crean un producto, si o si te crea una variante y a lavez tiene un variant type
+3. eso se transforma a nivel visual en un grupo
 
 se agregan grupo y cada grupo es un variant type
 
