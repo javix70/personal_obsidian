@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_niufoods/03_projects/pos_server_new/requests/0002_sincronizacion(PENDIENTE).md",
+                "file": "100_niufoods/07_integrations/Pedidos ya/integracion actual.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_niufoods/03_projects/pos_server_new/requests/0002_sincronizacion(PENDIENTE).md",
+                "file": "100_niufoods/07_integrations/Pedidos ya/integracion actual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_niufoods/03_projects/pos_server_new/requests/0002_sincronizacion(PENDIENTE).md"
+                "file": "100_niufoods/07_integrations/Pedidos ya/integracion actual.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_niufoods/03_projects/pos_server_new/requests/0002_sincronizacion(PENDIENTE).md",
+                "file": "100_niufoods/07_integrations/Pedidos ya/integracion actual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +195,8 @@
   },
   "active": "b41a53457a148020",
   "lastOpenFiles": [
-    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md",
     "100_niufoods/03_projects/pos_server_new/requests/0002_sincronizacion(PENDIENTE).md",
+    "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md",
     "100_niufoods/03_projects/pos_server_new/requests/attachments/Pasted image 20231213141424.png",
     "Untitled.md",
     "100_niufoods/credentials/aws.md",
