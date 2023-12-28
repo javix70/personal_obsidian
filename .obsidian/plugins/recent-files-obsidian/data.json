@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "0002_sincronizacion(PENDIENTE)",
+      "path": "100_niufoods/03_projects/pos_server_new/requests/0002_sincronizacion(PENDIENTE).md"
+    },
+    {
       "basename": "how_to_sync_all_data_model",
       "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/how_to_sync_all_data_model.md"
+    },
+    {
+      "basename": "Pasted image 20231213141424",
+      "path": "100_niufoods/03_projects/pos_server_new/requests/attachments/Pasted image 20231213141424.png"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "aws",
+      "path": "100_niufoods/credentials/aws.md"
     },
     {
       "basename": "Pasted image 20230727110929",
@@ -49,10 +65,6 @@
       "path": "100_niufoods/03_projects/pof/urils_commands/close_shift.md"
     },
     {
-      "basename": "aws",
-      "path": "100_niufoods/credentials/aws.md"
-    },
-    {
       "basename": "como generar dump",
       "path": "100_niufoods/03_projects/shared/como generar dump.md"
     },
@@ -67,18 +79,6 @@
     {
       "basename": "Levantar las aplicaciones al mismo tiempo",
       "path": "100_niufoods/03_projects/shared/Levantar las aplicaciones al mismo tiempo.md"
-    },
-    {
-      "basename": "0001_check_flows",
-      "path": "100_niufoods/03_projects/shared/requerimient/0001_check_flows.md"
-    },
-    {
-      "basename": "ejecutar resque",
-      "path": "001_learning/TI/programing/ruby on rails/ejecutar resque.md"
-    },
-    {
-      "basename": "0003_armar_lista_precio",
-      "path": "100_niufoods/03_projects/pos_server_new/requests/0003_armar_lista_precio.md"
     }
   ],
   "omittedPaths": [],

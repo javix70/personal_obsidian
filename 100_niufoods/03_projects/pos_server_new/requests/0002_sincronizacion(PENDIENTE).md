@@ -5,36 +5,28 @@ tags:
   - [pos_server_new]
   - requirement
 ---
-
-
-
 # Requerimiento
 
-Anotar el requerimiento tal cual ha sido solicitado
-
+Revisar los problemas de sincronización de posserver con el punto de venta
 
 ## Objetivo
 
-pos server de guacamole.
+Replicar y documentar la sincronización, es especifico con la sincronización de variantes
 
-hay un producto de prueba que es el TEST001.
 
 # Información útil
-
-Antes de empezar
+****
+pos server de guacamole. hay un producto de prueba que es el TEST001.
 cuando crean un producto, si o si te crea una variante y a lavez tiene un variant type
-
 eso se transforma a nivel visual en un grupo
 
 se agregan grupo y cada grupo es un variant type
 
 pasa que cuando se borra y se actualza y se borra bien
 
-
-
 pasa que algunos no se sincronizaron al pof
 
-poserver se conecta con pof delete_worket.rb
+poserver se conecta con pof delete_worker.rb
 guaca tobalaba no estaba eliminado
 
 ![[Pasted image 20231213141424.png]]
