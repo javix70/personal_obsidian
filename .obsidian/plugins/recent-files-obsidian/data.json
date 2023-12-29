@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "0001_kick_off_tecnico",
+      "path": "100_niufoods/07_integrations/kushki/0001_kick_off_tecnico.md"
+    },
+    {
+      "basename": "0002_avances_integracion _niufoods_mx_kushki",
+      "path": "100_niufoods/07_integrations/kushki/0002_avances_integracion _niufoods_mx_kushki.md"
+    },
+    {
       "basename": "conected to console production",
       "path": "100_niufoods/03_projects/china_backend/utils_commands/conected to console production.md"
     },
@@ -71,14 +79,6 @@
     {
       "basename": "Pasted image 20230726163648",
       "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230726163648.png"
-    },
-    {
-      "basename": "Pasted image 20230726153005",
-      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230726153005.png"
-    },
-    {
-      "basename": "Pasted image 20230726151717",
-      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230726151717.png"
     }
   ],
   "omittedPaths": [],
