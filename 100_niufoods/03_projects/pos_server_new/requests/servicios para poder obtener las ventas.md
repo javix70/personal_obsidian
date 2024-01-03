@@ -1,3 +1,0 @@
-
-
-Debe y Haber
