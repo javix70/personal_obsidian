@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "revisión integracion",
+      "path": "100_niufoods/07_integrations/uber/revisión integracion.md"
+    },
+    {
       "basename": "0004_services_sales_reporting",
       "path": "100_niufoods/03_projects/pos_server_new/requests/0004_services_sales_reporting.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Pasted image 20230727104709",
       "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727104709.png"
-    },
-    {
-      "basename": "Pasted image 20230727104256",
-      "path": "100_niufoods/03_projects/pos_server_new/documentation/sync_data/attachments/Pasted image 20230727104256.png"
     }
   ],
   "omittedPaths": [],
