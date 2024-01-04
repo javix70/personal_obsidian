@@ -7,3 +7,6 @@ Requisito minimo para la integracion con uber.
 - [Deny Order](https://developer.uber.com/docs/eats/references/api/order_suite#tag/DenyOrder) este cierra la tienda.
 - [Cancel Order](https://developer.uber.com/docs/eats/references/api/order_suite#tag/CancelOrder) esta no cierra la tienda.
 
+
+
+PEDIR tienda nueva para marketplace a ANA, **byonc** (al parecer se llama)
